@@ -2,11 +2,27 @@
 
 ## Welcome
 
-## The problem
+## What is Panopticon Project?
 
-## The solution
+## Who contributes to P2?
 
-## This is a terrible idea, you're helping terrorists!
+## Who is P2 for?
+
+## Why does P2 exist?
+
+The problem, draw from the unique value proposition
+
+## How can I get involved?
+
+## What does P2 need?
+
+## I want to get in touch with P2
+
+## I want to leak something to P2
+
+Seriously, just don't. This project is not equipped to handle leaked material not already in the public domain. Do your research and find a reputable news outlet that has a proven track record in handling leaked material in a reponsible and safe manner.
+
+## P2 is a terrible idea, you're helping terrorists!
 
 And to that list you could add organised crime, hostile foreign governments, even your actual government if it isn't terribly sophisticated and doesn't already know this themselves. I would say firstly, this is a compilation of intelligence from publiclly avalable channels, at no point was any law broken. But the bigger point here is that there are plenty of entities that help terrorists, organised crime, governments etc., at a scale this database never could. One of them is gun manufacturers, and there are plenty others so you have bigger problems than P2.
 
@@ -15,6 +31,10 @@ To specifically address the point about terrorism, and this feeds into the wider
 We've all held a view at some point in our lives that was repugnant to someone and what probably happened is we matured and grew out of it either by interacting with others and passively conclusing ourselves that view is socially unacceptable, examining why its unacceptable and internalising that conclusion, or being actively told "that's not cool!" I want disaffected youths to find encryption tools so they can find safe spaces, free of government surveillance, where they can express themselves and the community can fill those spaces with moderate voices. If encryption is cracked down upon these people are either 1. going to feel repressed because there is no safe space for them to express themselves and those ideas may not be moderated out through community interaction, or 2. they will go looking for safe spaces and if the moderate community can't provide one, hardened extremists will. Once one of these two things have happened radicalisation has started and its virtually game over because time and again we see police and intelligence agencies don't have the resources to investigate every name that comes across their desk. Figures differ but it's often quoted you need between ten and thirty people for round the clock surviellance of one target. Through sheer math some terrorist attacks will be successful. You need to prevent either 1 or 2 mentione above from happening.
 
 Bottom line, Panopticon Project is actually a deradicalisation tool.
+
+## The story behind Panopticon Project
+
+Once done http://splasho.com/upgoer5/ it.
 
 But a large amount of this national security rhetoric feeds into extremist narratives about racist regimes closed to expression of religion. 
 
