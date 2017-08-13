@@ -1,5 +1,8 @@
 # panopticon-admin
 
+As stated by Wikipedia, a [dystopia](https://en.wikipedia.org/wiki/Dystopia) (from the Greek δυσ- and τόπος, alternatively, cacotopia, kakotopia, or simply anti-utopia) is a community or society that is undesirable or frightening.
+
+
 what this is
 
 how you can contribute
