@@ -1,3 +1,5 @@
+![alt tag](https://user-images.githubusercontent.com/24201238/29310430-d0fa99a6-8201-11e7-8a6e-27d51e6d60c9.png)
+
 # Panopticon Project
 
 ## Welcome
