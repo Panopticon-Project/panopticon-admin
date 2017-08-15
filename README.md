@@ -1,22 +1,35 @@
 # Panopticon Project
 
 ## Welcome
+Thank you for checking out Panopticon Project (P2)! 
 
 ## What is Panopticon Project?
+P2 is an open source database of open source intelligence (OSINT) covering the electronic capabilities of Advanced Persistent Threats (APTs), nation states, and corporations that exercise nation state capabilites. 
 
-## Who contributes to P2?
+That was a lot of open source so let's break that down quickly. [Open source](https://en.wikipedia.org/wiki/Open-source_model) is anything that allows people to add to it, collaborate on it, take it, do their own thing with it. It's the opposite of [proprietary](https://en.wikipedia.org/wiki/Proprietary), which denotes ownership. We often see the terms open source and proprietary in relation to software, meaning software that anyone can add to the codebase of, like Linux, and software you can't add to the code base of because it is under copyright, namely Windows and Mac. But as you can see, open source can also apply to things like troves information and even information gathering techniques. [OSINT](https://en.wikipedia.org/wiki/Open-source_intelligence) refers to the gathering of information in the public domain. Anyone with an internet connection has access and can also submit to P2 should they so desire.
 
-## Who is P2 for?
+## Why does Panopticon Project exist?
+P2 exists, in short, because the world we all live in has become a dystopia. 
 
-## Why does P2 exist?
+State sponsored hackers are infiltrating critical infrastruture, so far having proven their ability cause [blackouts](https://www.wired.com/story/russian-hackers-attack-ukraine). Liberal Western democracies are the most intrusive [surviellance states](http://www.washingtonpost.com/wp-srv/special/politics/prism-collection-documents/) in history. Corporations [collect information on their users](http://www.huffingtonpost.com/nathan-newman/why-googles-spying-on-use_b_3530296.html) without their knowledge or consent. In the not too distant past this was science fiction, now it is our reality. For many of us it is not a reality we desire. 
 
-The problem, draw from the unique value proposition
+Yet, few understand how bad reality has gotten, and that suits those who have made this our reality just fine. However there is a great deal of information lying in the public domain that can be used to learn about the powers behind our dystopia. By informing ourselves we can make informed decisions about how we interact with the world, from the political movements we interact with through to the services we use and the products we buy. By contributing to projects like P2, you can also learn how to better access information in the public domain and train yourself on how to keep a critical eye on the powers that be. From checking facts to some [OSINT sleuthing of your own](http://www.news24.com/SouthAfrica/News/exclusive-indian-it-guru-linked-to-fake-wmc-sites-20170726), P2 empowers you to interact in a more informed manner with the world.
+
+## Who can contributes to P2?
+Anyone with an internet connection and basic reading abilities.
 
 ## How can I get involved?
+Check out our contributing guidelines.
 
 ## What does P2 need?
+Eyes and time. For the most part we need people to look for news articles, declassified and leaked files now in the public domain, threat intelligence reports from cyber security companies, the list goes on. Then they need to be read and verified where possible. Anyone can contribute to this.
+
+Those of you with visual arts abilities, we need a website and promotional material.
+
+If you happen to have technical skills, even basic technical skills, there are more advanced ways for you to contribute. See our contributing guide for more details.
 
 ## I want to get in touch with P2
+insert email address here.
 
 ## I want to leak something to P2
 
@@ -73,6 +86,8 @@ this is not about non-proprietary web technologies, though it might create some.
         Write: code, design, compose, revise and remix content for the web - work on code, write analysis, fork our stuff, do stuff with with to change the world
         Participate: connect with online communities, share, contribute, maintain control over their own personal data, and work collaboratively with others on the web. - connect with security researchers and privacy advocates, if you want to use the internet safely these are the people you want to know.
         
+https://osintblog.io/recon-village-ctf-overview-fe8787f3ce7f?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_details_all%3BM%2BShQF%2B8QXG7OcD7%2FERjuQ%3D%3D
+
 Looking at this kind of stuff is a good primer to the wild west of the internet.   
 
 https://www.youtube.com/watch?v=3ABaGEWjFIg
