@@ -8,14 +8,16 @@ Thank you for checking out Panopticon Project (P2)!
 ## What is Panopticon Project?
 P2 is an open source database of open source intelligence (OSINT) covering the electronic capabilities of Advanced Persistent Threats (APTs), nation states, and corporations that exercise nation state capabilites. 
 
-That was a lot of open source so let's break that down quickly. [Open source](https://en.wikipedia.org/wiki/Open-source_model) is anything that allows people to add to it, collaborate on it, take it, do their own thing with it. It's the opposite of [proprietary](https://en.wikipedia.org/wiki/Proprietary), which denotes ownership. We often see the terms open source and proprietary in relation to software, meaning software that anyone can add to the codebase of, like Linux, and software you can't add to the code base of because it is under copyright, namely Windows and Mac. But as you can see, open source can also apply to things like troves information and even information gathering techniques. [OSINT](https://en.wikipedia.org/wiki/Open-source_intelligence) refers to the gathering of information in the public domain that anyone can do.
+That was a lot of open source so let's break that down quickly. [Open source](https://en.wikipedia.org/wiki/Open-source_model) is anything that allows people to add to it, collaborate on it, take it, do their own thing with it. It's the opposite of [proprietary](https://en.wikipedia.org/wiki/Proprietary), which denotes ownership. We often see the terms open source and proprietary in relation to software, meaning software that anyone can add to the codebase of, like Linux, and software you can't add to the code base of because it is under copyright, namely Windows and Mac. But as you can see, open source can also apply to things like troves information and even information gathering techniques. 
+
+[OSINT](https://en.wikipedia.org/wiki/Open-source_intelligence) refers to the gathering of information in the public domain that anyone can do. You could also see P2 as [citizen journalism](https://en.wikipedia.org/wiki/Citizen_journalism). 
 
 ## Why does Panopticon Project exist?
-P2 exists, in short, because the world we all live in has become a dystopia. 
+P2 exists, in short, because the world has become a dystopia. As stated by Wikipedia, a [dystopia](https://en.wikipedia.org/wiki/Dystopia) (from the Greek δυσ- and τόπος, alternatively, cacotopia, kakotopia, or simply anti-utopia) is a community or society that is undesirable or frightening.
 
-State sponsored hackers are infiltrating critical infrastruture, so far having proven their ability by causing [blackouts](https://www.wired.com/story/russian-hackers-attack-ukraine). Liberal Western democracies are the most intrusive [surviellance states](http://www.washingtonpost.com/wp-srv/special/politics/prism-collection-documents/) in history. Corporations [collect information on their users](http://www.huffingtonpost.com/nathan-newman/why-googles-spying-on-use_b_3530296.html) without their knowledge or consent. In the not too distant past this was science fiction, now it is our reality. For many of us it is not a reality we desire. 
+State sponsored hackers are infiltrating critical infrastruture, so far having proven their ability to act on the real world by causing [blackouts](https://www.wired.com/story/russian-hackers-attack-ukraine), among other things. Liberal Western democracies are the most intrusive [surviellance states](http://www.washingtonpost.com/wp-srv/special/politics/prism-collection-documents/) in history. Corporations [collect vast amounts of information on their users](http://www.huffingtonpost.com/nathan-newman/why-googles-spying-on-use_b_3530296.html) without their knowledge or consent. In the not too distant past this was science fiction, now it is reality. 
 
-Yet, few understand how bad reality has gotten, and that suits those who have made this our reality just fine. However there is a great deal of information lying in the public domain that can be used to learn about the powers behind our dystopia. By informing ourselves we can make informed decisions about how we interact with the world, from the political movements we interact with through to the services we use and the products we buy. By contributing to projects like P2, you can also learn how to better access information in the public domain and train yourself on how to keep a critical eye on the powers that be. From checking facts to some [OSINT sleuthing of your own](http://www.news24.com/SouthAfrica/News/exclusive-indian-it-guru-linked-to-fake-wmc-sites-20170726), P2 empowers you to interact in a more informed manner with the world.
+For many of us it is not a reality we chose or desire. Few understand how bad reality has gotten, and that suits those who have made the world the way it is just fine. However, there is a great deal of information lying in the public domain that can be used to learn about the powers behind our dystopia. By informing ourselves we can make informed decisions about how we interact with the world, from the political movements we interact with through to the services we use and the products we buy. By contributing to projects like P2, you can also learn how to better access information in the public domain and train yourself how to keep a critical eye on the powers that be. From checking facts to some [OSINT sleuthing of your own](http://www.news24.com/SouthAfrica/News/exclusive-indian-it-guru-linked-to-fake-wmc-sites-20170726), P2 empowers you to interact in a more informed manner with the world.
 
 ## Who can contributes to P2?
 Anyone with an internet connection and basic reading abilities.
@@ -30,52 +32,93 @@ Those of you with visual arts abilities, we need a website and promotional mater
 
 If you happen to have technical skills, even basic technical skills, there are more advanced ways for you to contribute. See our contributing guide for more details.
 
+## The connection betweeen Panopticon Project and the idea of the Open Web
+From Wikipedia, *The Open Web movement asserts a special role for public, cooperative, and standard World Wide Web communications; it opposes private, exclusive, proprietary Web solutions.* Strictly speaking it doesn't look like there is a lot P2 offers to the notion of the Open Web as P2 isn't concerned about private, exclusive or proprietary Web solutions (though its contributors might).
+
+Go over Mozilla training and look for open web descriptions, then look at the notes below.
+
 ## I want to get in touch with P2
-insert email address here.
+Email panopticonproject@protonmail.com
 
 ## I want to leak something to P2
-
 Seriously, just don't. This project is not equipped to handle leaked material not already in the public domain. Do your research and find a reputable news outlet that has a proven track record in handling leaked material in a reponsible and safe manner.
 
-## P2 is a terrible idea, you're helping terrorists!
+## I still need to get in touch with P2 in a secure manner
+Create a [ProtonMail](https://mail.protonmail.com) account if you don't already have one and email panopticonproject@protonmail.com, emails over ProtonMail are end to end encrypted.
 
-And to that list you could add organised crime, hostile foreign governments, even your actual government if it isn't terribly sophisticated and doesn't already know this themselves. I would say firstly, this is a compilation of intelligence from publiclly avalable channels, at no point was any law broken. But the bigger point here is that there are plenty of entities that help terrorists, organised crime, governments etc., at a scale this database never could. One of them is gun manufacturers, and there are plenty others so you have bigger problems than P2.
+If encryption is your thing and you've got this, you don't need a ProtonMail account:
 
-To specifically address the point about terrorism, and this feeds into the wider debate about encryption and national security, it's true a terrorist could use P2 to assist them in comitting an act of violence. Again though, everthing in P2 is compiled from online sources so if P2 didn't exist that assistance was still there to be found, nothing new has been provided. The basic argument for privacy, and this comes back to terrorism, is curtains or blinds on your windows don't make you a criminal, it just means you want privacy. It's a part of human nature to want to express ourselves with no one, or those close, rather than an unchosen party or indeed the whole world. We need to be able to express ourselves and not all of humanity is pretty. That's not to say the ugly elements should be accepted, but sometimes people want to express them and its important they do in environments where there are a lot of moderate voices that through social mechanisms of a community dissuade the person from those ugly views. 
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: OpenPGP.js v2.5.8
+Comment: https://openpgpjs.org
 
-We've all held a view at some point in our lives that was repugnant to someone and what probably happened is we matured and grew out of it either by interacting with others and passively conclusing ourselves that view is socially unacceptable, examining why its unacceptable and internalising that conclusion, or being actively told "that's not cool!" I want disaffected youths to find encryption tools so they can find safe spaces, free of government surveillance, where they can express themselves and the community can fill those spaces with moderate voices. If encryption is cracked down upon these people are either 1. going to feel repressed because there is no safe space for them to express themselves and those ideas may not be moderated out through community interaction, or 2. they will go looking for safe spaces and if the moderate community can't provide one, hardened extremists will. Once one of these two things have happened radicalisation has started and its virtually game over because time and again we see police and intelligence agencies don't have the resources to investigate every name that comes across their desk. Figures differ but it's often quoted you need between ten and thirty people for round the clock surviellance of one target. Through sheer math some terrorist attacks will be successful. You need to prevent either 1 or 2 from happening.
+xsBNBFmZLWoBCACtNAUXSQsQmz9clfEJUMS0vxQUzcpx5aaeGuqLdxWIBw2L
+J4eHYaJIkZYOdPGh1fVPLAVPoBBm2yFFGHDB9pdhqIIOdxeuvszm7vi3cksj
+6w8/HwDjSRYnDyKSo5MIvOBnXpdGw3vxBR0JjQSDau42WST8GeryPbmSqh00
+xJcoRsXDOzFUfUgPpsUoQfTtSj+Hwuvg6GEJ9qvYXpmTHJmLwwPFJ2PKrgMe
+sc14635e4Sv0SR3ntqvawP2t8FFDIFEZryBhZiPN8983cuOKyRnPA2UeE54Z
+giNbrvZNN/bonQ4mBjPKRskg2kDovQZk5jrUKo7u3g1J8V8zmKokF6tnABEB
+AAHNQ3Bhbm9wdGljb25wcm9qZWN0QHByb3Rvbm1haWwuY29tIDxwYW5vcHRp
+Y29ucHJvamVjdEBwcm90b25tYWlsLmNvbT7CwHUEEAEIACkFAlmZLWoGCwkH
+CAMCCRBxjAbRQmSWfAQVCAoCAxYCAQIZAQIbAwIeAQAAHEQH/RXIEy/VF7Pl
+kNc/4yn4hTFNqAi3+kAg1Pp9OVORpIADph+uTDm4LfTkGKQG5babgA2MAuTP
+90WYMZqnGxj6GYBeTfUpOmwLVheqUay/MfVLWzdBkq8siRV/TOIz6T9y4Hoj
+D75Qk/tT50XehyyaS7tC3i7hYC0CucRaVVubmJT5wiOrcgKDlK/NlydMAWUo
+ZiH7QcAdjBBmiJxV+FTAEvb1wWDXl1y1ptHDdzVohgy4VLqWKO42m3RfQrF+
+DD70i5quLl6qF1GF9y8XlBstpTh5wrXpupFD/qQRTjRSFn6FiQPQ6PIIkA7o
+D68MhVXMcGEYkbnpnyPC6L2SqAh3JTTOwE0EWZktagEIAKS4Is+NT7M1CJ2v
+02AGgIxDXG4OV9nwzRS/4nQ9Ibk64v16T39K49YPQdeQyEGw5WE10kxgt5t2
+fQeD27ctgj6PVkPvQGCRQPt7OMImPdHh2EdRdR6PHPL931JkoSU/+yGdk9JG
+nuPiMTjGOVFCW9rxtIDoyb3hPAGdH1ZPpnR1hHfbcOMJYaNCZv9hFOnFpUjB
+f5MFV7PGjkSWhj7RVY4Meb/XvreH5RTlPJzeVSHABp7p6+HRqjZIVKpfQGbm
+KZby6HXPHTjxjCQRJ9qkaNE5R6k+EHOdPH9ns3YhBFqUHuNZRRCvt31XwgyC
+WoJ2dg7rGXzTl/I1kzSK946GOwEAEQEAAcLAXwQYAQgAEwUCWZktawkQcYwG
+0UJklnwCGwwAAF+YB/4l/PRdvKghTa6bT6Tt2MiDCyaOQ3hJEfDGYfDrIe0T
+xQbTzP9MEMF/IOQVMXemxczUwAz/hdsjUg7NNFfBR4tyCV8g8UeHPoaR4HR/
+9XISKKS11kaqkvkgCLcLSwFCRwJiNYhVvytiMZ9qkObc7eHbZgm+8LcnmRmf
+U2rqNET+tAwFUtwlMaSIb5ej8f8Rd1Orj91Ojl2lBeng8tcvvY8tD1CE+N8D
+CKQILKhSfhdvqhws+ZVlqnSRN2Go9rFBH3vGSmZJItBE+quXY1qTEQY5OWUD
+K3FY/fO0lsJbPqAyIyPEXa4RSyJdf7+e74kBPEgUu8+K5rfAvOc0Sqc4qSQX
 
-We can all take a leaf from Hunuism, or [Ubuntu](http://www.newworldencyclopedia.org/p/index.php?title=Ubuntu_(philosophy)), a belief held by many southern African tribes that roughly translates into English as "I exist through community and community exists through me." Even the most stauch individualist will concede that while they may not be typical of the norm, we humans are by and large social creatures. Community has been regulating itself since the dawn of time, and while community must not become tyranny, people must not infringe upon others, which is how repugnance is defined above. [Surveillance is corrosive to privacy and community](https://www.theatlantic.com/politics/archive/2013/08/the-surveillance-state-is-corrosive-the-case-of-pamela-jones/278846/) to quote the common phrase. We need privacy, becasue it's the bedrock of community, and we need community because it's the bulwark aganist extremism.
+=Fc8M
+-----END PGP PUBLIC KEY BLOCK-----
 
-Bottom line, for all you critics out there, Panopticon Project is actually a deradicalisation tool.
+Only incoming messages in inline OpenPGP format are currently supported.
 
-## The story behind Panopticon Project
-
-Once done http://splasho.com/upgoer5/ it.
-
-But a large amount of this national security rhetoric feeds into extremist narratives about racist regimes closed to expression of religion. 
-
-As stated by Wikipedia, a [dystopia](https://en.wikipedia.org/wiki/Dystopia) (from the Greek δυσ- and τόπος, alternatively, cacotopia, kakotopia, or simply anti-utopia) is a community or society that is undesirable or frightening.
-
-
-what this is
-
-how you can contribute
-
-Don't leak to us
-leak to organisations who are equipped to handle documents securely and protect your privacy, after they are publishsed feel free to direct us to said documents
-
-make a pgp key for the project
-protonmail
-
-licensing 
+# Licenses 
+to do
 can government exploits be licensed? to assert any copyright they'd need to own up to them
 what other things are we analysing?
 
-the long version
-panopticon
+## P2 is a terrible idea, you're helping terrorists!
+To terrorists you could add organised crime, hostile foreign governments, even your actual government if it isn't terribly sophisticated and doesn't already know this all themselves. This is not an accusation the project even needs to engage with but for the sake of maybe changing some minds, here is the offical P2 stance:
 
-This is one person's quest to understand the world we live in
+Firstly, this is a compilation of intelligence from publiclly avalable channels, at no point has any new information been added to the public domain and no laws have been broken. But the bigger point here is that there are plenty of entities that help terrorists, organised crime, governments etc., at a scale this database never could. One of them is [gun manufacturers](http://time.com/how-europes-terrorists-get-their-guns/), and there are plenty others so you have bigger problems than P2.
+
+To specifically address the point about terrorism, and this feeds into the wider debate about encryption and national security, it's true a terrorist could use P2 to assist them in comitting an act of violence. Again though, everthing in P2 is compiled from online sources so if P2 didn't exist that assistance will still be there to be found. The basic argument for privacy, and this comes back to terrorism, is curtains or blinds on your windows don't make you a criminal, it just means you want privacy. It's a part of human nature to want to express ourselves with no one, or those close to us, rather than an unchosen party or indeed the whole world. We need to be able to express ourselves and not all of humanity is pretty (talking about expression of opinions here, no judgement about why you want curtains). That's not to say the ugly elements should be accepted, but sometimes people want to express them and its important they do in environments where there are a lot of moderate voices that, through social mechanisms of a community, dissuade the person from those ugly views. 
+
+We've all held a view at some point in our lives that was repugnant to someone, and repugnant is defined here as a view that infringes upon others (be that, and this is not an exhaustive list, physical infringement, as in violence or coercsion, intellectual infringement, such as racism or fundimental religious views condemning others, or any other manner of infringement). This is part of being human, we aren't born knowing who we are and who we are changes over the course of our lives, we try on different ideas at different points in like like children playing dressup, it's a form of self discovery. What probably happened when you held such a view was you matured and grew out of it either by interacting with others and passively concluding that the view is socially unacceptable, examining why its unacceptable and internalising that conclusion, or being actively told "that's not cool!" If neither of these happened and you still hold that view it's probably because you in an echo chamber, but don't worry, the world is much bigger than your little chamber and there is still hope for you. Go explore it.
+
+Tying this all into terrorism, a large amount of national security rhetoric feeds into extremist narratives about racist regimes closed to freedom of expression. But talking specifically about community, I want disaffected youths to find encryption tools so they can find safe spaces, free of government surveillance, where they can express themselves and the community can fill those spaces with moderate voices. If encryption is cracked down upon these people are either 1. going to feel repressed because there is no safe space for them to express themselves and those ideas may not be moderated out through community interaction, or 2. they will go looking for safe spaces and if the moderate community can't provide one, hardened extremists will. Once one of these two things have happened radicalisation has started and its virtually game over. Time and again we see police and intelligence agencies don't have the resources to investigate every name that comes across their desk. Figures differ but it's often quoted you need between ten and thirty people for round the clock surviellance of one target. Through sheer math some terrorist attacks will be successful. Then you have the open question of will the person even be considered a target for surveillance or will they get a pass because they're white caucasian, for instance. You need to prevent either 1 or 2 from happening.
+
+We can all take a leaf from Hunuism, or [Ubuntu](http://www.newworldencyclopedia.org/p/index.php?title=Ubuntu_(philosophy)), a belief held by many southern African tribes that roughly translates into English as "I exist through community and community exists through me." Even the most stauch individualist will concede that, while they may not be typical of the norm, we humans are by and large social creatures. Community has been regulating itself since the dawn of time, and while community must not become tyranny, people must not infringe upon others. [Surveillance is corrosive to privacy and community](https://www.theatlantic.com/politics/archive/2013/08/the-surveillance-state-is-corrosive-the-case-of-pamela-jones/278846/) to quote the common phrase. We need privacy, becasue it's the bedrock of community, and we need community because it's the bulwark aganist extremism.
+
+Bottom line, for all you critics out there, Panopticon Project is actually a deradicalisation tool.
+
+## I still think this is a terrible project
+No one is forcing you to read, please leave.
+
+## All your sources are FAKE NEWS and you should be getting information from outlets like RT and Breitbart News!
+I'm not even going to engage with you, please leave.
+
+Once done http://splasho.com/upgoer5/ it.
+
+
+
+
+
+
+
 
 This project's connection to the idea of the open web
 this is not about non-proprietary web technologies, though it might create some. not about web standards, though could be about their security, understanding them and seeing how they can be turned against you
