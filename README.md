@@ -46,45 +46,7 @@ Seriously, just don't. This project is not equipped to handle leaked material no
 ## I still need to get in touch with P2 in a secure manner
 Create a [ProtonMail](https://mail.protonmail.com) account if you don't already have one and email panopticonproject@protonmail.com, emails over ProtonMail are end to end encrypted.
 
-If encryption is your thing and you've got this, you don't need a ProtonMail account:
-
------BEGIN PGP PUBLIC KEY BLOCK-----
-
-Version: OpenPGP.js v2.5.8
-
-Comment: https://openpgpjs.org
-
-xsBNBFmZLWoBCACtNAUXSQsQmz9clfEJUMS0vxQUzcpx5aaeGuqLdxWIBw2L
-J4eHYaJIkZYOdPGh1fVPLAVPoBBm2yFFGHDB9pdhqIIOdxeuvszm7vi3cksj
-6w8/HwDjSRYnDyKSo5MIvOBnXpdGw3vxBR0JjQSDau42WST8GeryPbmSqh00
-xJcoRsXDOzFUfUgPpsUoQfTtSj+Hwuvg6GEJ9qvYXpmTHJmLwwPFJ2PKrgMe
-sc14635e4Sv0SR3ntqvawP2t8FFDIFEZryBhZiPN8983cuOKyRnPA2UeE54Z
-giNbrvZNN/bonQ4mBjPKRskg2kDovQZk5jrUKo7u3g1J8V8zmKokF6tnABEB
-AAHNQ3Bhbm9wdGljb25wcm9qZWN0QHByb3Rvbm1haWwuY29tIDxwYW5vcHRp
-Y29ucHJvamVjdEBwcm90b25tYWlsLmNvbT7CwHUEEAEIACkFAlmZLWoGCwkH
-CAMCCRBxjAbRQmSWfAQVCAoCAxYCAQIZAQIbAwIeAQAAHEQH/RXIEy/VF7Pl
-kNc/4yn4hTFNqAi3+kAg1Pp9OVORpIADph+uTDm4LfTkGKQG5babgA2MAuTP
-90WYMZqnGxj6GYBeTfUpOmwLVheqUay/MfVLWzdBkq8siRV/TOIz6T9y4Hoj
-D75Qk/tT50XehyyaS7tC3i7hYC0CucRaVVubmJT5wiOrcgKDlK/NlydMAWUo
-ZiH7QcAdjBBmiJxV+FTAEvb1wWDXl1y1ptHDdzVohgy4VLqWKO42m3RfQrF+
-DD70i5quLl6qF1GF9y8XlBstpTh5wrXpupFD/qQRTjRSFn6FiQPQ6PIIkA7o
-D68MhVXMcGEYkbnpnyPC6L2SqAh3JTTOwE0EWZktagEIAKS4Is+NT7M1CJ2v
-02AGgIxDXG4OV9nwzRS/4nQ9Ibk64v16T39K49YPQdeQyEGw5WE10kxgt5t2
-fQeD27ctgj6PVkPvQGCRQPt7OMImPdHh2EdRdR6PHPL931JkoSU/+yGdk9JG
-nuPiMTjGOVFCW9rxtIDoyb3hPAGdH1ZPpnR1hHfbcOMJYaNCZv9hFOnFpUjB
-f5MFV7PGjkSWhj7RVY4Meb/XvreH5RTlPJzeVSHABp7p6+HRqjZIVKpfQGbm
-KZby6HXPHTjxjCQRJ9qkaNE5R6k+EHOdPH9ns3YhBFqUHuNZRRCvt31XwgyC
-WoJ2dg7rGXzTl/I1kzSK946GOwEAEQEAAcLAXwQYAQgAEwUCWZktawkQcYwG
-0UJklnwCGwwAAF+YB/4l/PRdvKghTa6bT6Tt2MiDCyaOQ3hJEfDGYfDrIe0T
-xQbTzP9MEMF/IOQVMXemxczUwAz/hdsjUg7NNFfBR4tyCV8g8UeHPoaR4HR/
-9XISKKS11kaqkvkgCLcLSwFCRwJiNYhVvytiMZ9qkObc7eHbZgm+8LcnmRmf
-U2rqNET+tAwFUtwlMaSIb5ej8f8Rd1Orj91Ojl2lBeng8tcvvY8tD1CE+N8D
-CKQILKhSfhdvqhws+ZVlqnSRN2Go9rFBH3vGSmZJItBE+quXY1qTEQY5OWUD
-K3FY/fO0lsJbPqAyIyPEXa4RSyJdf7+e74kBPEgUu8+K5rfAvOc0Sqc4qSQX
-
-=Fc8M
-
------END PGP PUBLIC KEY BLOCK-----
+If encryption is your thing and you've got this, you don't need a ProtonMail account, check out our [public key](https://github.com/Panopticon-Project/panopticon-admin/blob/master/publickey.panopticonproject%40protonmail.com.txt)
 
 Only incoming messages in inline OpenPGP format are currently supported.
 
