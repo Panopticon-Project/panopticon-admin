@@ -116,3 +116,6 @@ https://www.mozillapulse.org/entry/48
 
 a note about pure pragmatic reasons for doing this
 https://www.darkreading.com/vulnerabilities---threats/why-you-need-to-study-nation-state-attacks/a/d-id/1329690?elq_mid=79972&elq_cid=25141692&_mc=NL_DR_EDT_DR_weekly_20170824&cid=NL_DR_EDT_DR_weekly_20170824&elqTrackId=9d11ccc8014c4f348ef3a40457d0c6fd&elq=51362bad15d14543b4a85dfd3ee7601d&elqaid=79972&elqat=1&elqCampaignId=27730
+
+unsure but needs to go somewhere
+https://www.darkreading.com/endpoint/battle-of-the-ais-dont-build-a-better-box-put-your-box-in-a-better-loop/a/d-id/1329682?piddl_msgorder=thrd
