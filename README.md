@@ -49,7 +49,9 @@ Create a [ProtonMail](https://mail.protonmail.com) account if you don't already 
 If encryption is your thing and you've got this, you don't need a ProtonMail account:
 
 -----BEGIN PGP PUBLIC KEY BLOCK-----
+
 Version: OpenPGP.js v2.5.8
+
 Comment: https://openpgpjs.org
 
 xsBNBFmZLWoBCACtNAUXSQsQmz9clfEJUMS0vxQUzcpx5aaeGuqLdxWIBw2L
@@ -81,6 +83,7 @@ CKQILKhSfhdvqhws+ZVlqnSRN2Go9rFBH3vGSmZJItBE+quXY1qTEQY5OWUD
 K3FY/fO0lsJbPqAyIyPEXa4RSyJdf7+e74kBPEgUu8+K5rfAvOc0Sqc4qSQX
 
 =Fc8M
+
 -----END PGP PUBLIC KEY BLOCK-----
 
 Only incoming messages in inline OpenPGP format are currently supported.
