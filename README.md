@@ -119,3 +119,5 @@ https://www.darkreading.com/vulnerabilities---threats/why-you-need-to-study-nati
 
 unsure but needs to go somewhere
 https://www.darkreading.com/endpoint/battle-of-the-ais-dont-build-a-better-box-put-your-box-in-a-better-loop/a/d-id/1329682?piddl_msgorder=thrd
+
+https://www.youtube.com/watch?v=wP2J9aYM6Oo
