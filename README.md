@@ -55,6 +55,12 @@ to do
 can government exploits be licensed? to assert any copyright they'd need to own up to them
 what other things are we analysing?
 
+# Good sources
+https://electrospaces.blogspot.com.au/2017/09/are-shadow-brokers-identical-with.html
+check out to see what think
+
+add other threat intel and antivirus vendors
+
 ## P2 is a terrible idea, you're helping terrorists!
 To terrorists you could add organised crime, hostile foreign governments, even your actual government if it isn't terribly sophisticated and doesn't already know this all themselves. This is not an accusation the project even needs to engage with but for the sake of maybe changing some minds, here is the offical P2 stance:
 
