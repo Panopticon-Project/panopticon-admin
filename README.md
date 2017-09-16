@@ -12,6 +12,8 @@ That was a lot of open source so let's break that down quickly. [Open source](ht
 
 [OSINT](https://en.wikipedia.org/wiki/Open-source_intelligence) refers to the gathering of information in the public domain that anyone can do. You could also see P2 as [citizen journalism](https://en.wikipedia.org/wiki/Citizen_journalism). 
 
+Read http://www.securityweek.com/how-collaboration-and-information-sharing-can-neutralize-adversaries and make some points
+
 ## Why does Panopticon Project exist?
 P2 exists, in short, because the world has become a dystopia. As stated by Wikipedia, a [dystopia](https://en.wikipedia.org/wiki/Dystopia) (from the Greek δυσ- and τόπος, alternatively, cacotopia, kakotopia, or simply anti-utopia) is a community or society that is undesirable or frightening.
 
