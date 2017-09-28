@@ -131,3 +131,6 @@ https://www.darkreading.com/endpoint/battle-of-the-ais-dont-build-a-better-box-p
 https://www.youtube.com/watch?v=wP2J9aYM6Oo
 
 might need a glossary, what is an APT?
+
+framework
+https://www.helpnetsecurity.com/2017/09/25/cyber-threat-analysis/
