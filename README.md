@@ -78,9 +78,9 @@ And this is how P2 contributes to each of these points:
 * Web Literacy - By contributing to P2 people learn the skills to read, write and participate in the digital world. From analysing the exploits of state sponsored hackers to simply applying critical reading skills to news stories, this project teaches and promotes web literacy
 * Digital Inclusion - People everywhere can access and have the opportunity to participate in working on this project, which is one of the foundations of a healthy internet.
 
-Panopticon Project is training a movement of people to hold those who would do us harm online to account.
+Panopticon Project is training a movement of people to expose those who would do us harm online. By gathering information and disseminating it openly we can inform people about what's really going on in the world. People can make informed choices about how they interact with government and big business.
 
-# I'm not interested in civil liberties and all that, I'm only interested in attacks against business
+## I'm not interested in civil liberties and all that, I'm only interested in attacks against business
 I have bad news for you, my friend. Sophisticated techniques pioneered by state sponsored attackers very quickly [find their way into the toolkit of organised crime and even petty criminals](https://www.darkreading.com/vulnerabilities---threats/why-you-need-to-study-nation-state-attacks/a/d-id/1329690). There is also the fact that some state sponsored actors [almost solely devote themselves to economic espionage](http://money.cnn.com/2014/05/20/news/china-espionage-business/index.html). You may want to also consider that [if a nation state compromises your product you'll see a drop in users](https://en.wikipedia.org/wiki/FBI%E2%80%93Apple_encryption_dispute) and, therefore, profit. Like it or not, the top end of Wall Street are in the same boat as other 99% of us.
 
 ## P2 is a terrible idea, you're helping terrorists!
