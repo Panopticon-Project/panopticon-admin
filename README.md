@@ -21,6 +21,9 @@ State sponsored hackers are infiltrating critical infrastruture, so far having p
 
 For many of us it is not a reality we chose or desire. Few understand how bad reality has gotten, and that suits those who have made the world the way it is just fine. However, there is a great deal of information lying in the public domain that can be used to learn about the powers behind our dystopia. By informing ourselves we can make informed decisions about how we interact with the world, from the political movements we interact with through to the services we use and the products we buy. By contributing to projects like P2, you can also learn how to better access information in the public domain and train yourself how to keep a critical eye on the powers that be. From checking facts to some [OSINT sleuthing of your own](http://www.news24.com/SouthAfrica/News/exclusive-indian-it-guru-linked-to-fake-wmc-sites-20170726), P2 empowers you to interact in a more informed manner with the world.
 
+## I don't know much about these topics and need a primer
+We have you [covered](https://github.com/Panopticon-Project/panopticon-primer).
+
 ## Who can contributes to P2?
 Anyone with an internet connection and basic reading abilities.
 
@@ -47,7 +50,7 @@ If encryption is your thing and you've got this, you don't need a ProtonMail acc
 
 Only incoming messages in inline OpenPGP format are currently supported.
 
-# Licenses 
+## Licenses 
 Written content is licensed under the [Creative Commons Attribution Share Alike 4.0 license](https://github.com/Panopticon-Project/panopticon-admin/blob/master/LICENSE.md). Code is licensed as per the license in each repository. 
 
 ## The connection betweeen Panopticon Project and the idea of the Open Web
@@ -57,7 +60,7 @@ However, there is a [wider definition](https://www.youtube.com/watch?time_contin
 
 *"Our mission is to ensure the Internet is a global public resource, open and accessible to all. An Internet that truly puts people first, where individuals can shape their own experience and are empowered, safe and independent."*
 
-Currrently internet users are not empowered, safe or independent. This should be starting to sound simmilar to what I wrote in the above section on *Why does Panopticon Project exist?*
+Currrently internet users are not empowered, safe or independent as outlined under *Why does Panopticon Project exist?* above. Mozilla's take on this:
 
 *"There are hidden interests. Monopolies. Silos. Surveillance. Fear. Insecurity. Public apathy, that are locking the right to imagine and shape what’s possible in the future of the Internet. This is why we are fueling a worldwide movement. A movement of heroes to drive the next wave of open. [These are advocates, developers, makers, researchers, mentors, educators… leaders like you](https://www.youtube.com/watch?time_continue=130&v=LuyBGkbzTjs) who fight to protect and advance the open Internet in diverse ways."*
 
@@ -77,11 +80,8 @@ And this is how P2 contributes to each of these points:
 
 Panopticon Project is training a movement of people to hold those who would do us harm online to account.
 
-# Good sources
-https://electrospaces.blogspot.com.au/2017/09/are-shadow-brokers-identical-with.html
-check out to see what think
-
-add other threat intel and antivirus vendors
+# I'm not interested in civil liberties and all that, I'm only interested in attacks against business
+I have bad news for you, my friend. Sophisticated techniques pioneered by state sponsored attackers very quickly [find their way into the toolkit of organised crime and even petty criminals](https://www.darkreading.com/vulnerabilities---threats/why-you-need-to-study-nation-state-attacks/a/d-id/1329690). There is also the fact that some state sponsored actors [almost solely devote themselves to economic espionage](http://money.cnn.com/2014/05/20/news/china-espionage-business/index.html). You may want to also consider that [if a nation state compromises your product you'll see a drop in users](https://en.wikipedia.org/wiki/FBI%E2%80%93Apple_encryption_dispute) and, therefore, profit. Like it or not, the top end of Wall Street are in the same boat as other 99% of us.
 
 ## P2 is a terrible idea, you're helping terrorists!
 To terrorists you could add organised crime, hostile foreign governments, even your actual government if it isn't terribly sophisticated and doesn't already know this all themselves. This is not an accusation the project even needs to engage with but for the sake of maybe changing some minds, here is the offical P2 stance:
@@ -103,54 +103,6 @@ No one is forcing you to read, please leave.
 
 ## All your sources are FAKE NEWS and you should be getting information from outlets like RT and Breitbart News!
 I'm not even going to engage with you, please leave.
-
-Once done http://splasho.com/upgoer5/ it.
-
-
-
-
-
-
-
-
-This project's connection to the idea of the open web
-this is not about non-proprietary web technologies, though it might create some. not about web standards, though could be about their security, understanding them and seeing how they can be turned against you
-[Open Web](https://mozilla.github.io/open-leadership-training-series/articles/introduction-to-open-leadership/getting-to-know-mozilla-and-the-leadership-network/) can just be looked at as web standards, publishing and accessing content, but like the panopticon this soulless. Putting the open web in human context it's about: 
-
-    Inclusion: an accessible, free Internet for all - who is being targeted, these are marginalised groups. If you're being targeted you aren't free to use the internet safely, also surveullance
-    Privacy: user control of their own data on the web - if our data is being used to target us we don't have privacy, also surveillance
-    [Web literacy](https://learning.mozilla.org/en-US/web-literacy/): the ability for everyone to meaningfully
-        Read: navigate the web, and find, evaluate, and synthesize web content - need to know who is watching what you read, need a safe environment to explore, find the kind of information contained in these repos, critically assess them
-        Write: code, design, compose, revise and remix content for the web - work on code, write analysis, fork our stuff, do stuff with with to change the world
-        Participate: connect with online communities, share, contribute, maintain control over their own personal data, and work collaboratively with others on the web. - connect with security researchers and privacy advocates, if you want to use the internet safely these are the people you want to know.
-        
-https://osintblog.io/recon-village-ctf-overview-fe8787f3ce7f?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_details_all%3BM%2BShQF%2B8QXG7OcD7%2FERjuQ%3D%3D
-
-Looking at this kind of stuff is a good primer to the wild west of the internet.   
-
-https://www.youtube.com/watch?v=3ABaGEWjFIg
-https://kamba4.crux.uberspace.de/
-https://www.mozillapulse.org/entry/153
-https://www.mozillapulse.org/entry/167
-https://www.mozillapulse.org/entry/48
-
-look at adding to https://www.mozillapulse.org/featured
-write to
-https://www.mozillapulse.org/entry/308
-efa, eff
-maybe https://www.mozillapulse.org/entry/153
-https://www.mozillapulse.org/entry/167
-https://www.mozillapulse.org/entry/48
-
-a note about pure pragmatic reasons for doing this
-https://www.darkreading.com/vulnerabilities---threats/why-you-need-to-study-nation-state-attacks/a/d-id/1329690?elq_mid=79972&elq_cid=25141692&_mc=NL_DR_EDT_DR_weekly_20170824&cid=NL_DR_EDT_DR_weekly_20170824&elqTrackId=9d11ccc8014c4f348ef3a40457d0c6fd&elq=51362bad15d14543b4a85dfd3ee7601d&elqaid=79972&elqat=1&elqCampaignId=27730
-
-unsure but needs to go somewhere
-https://www.darkreading.com/endpoint/battle-of-the-ais-dont-build-a-better-box-put-your-box-in-a-better-loop/a/d-id/1329682?piddl_msgorder=thrd
-
-https://www.youtube.com/watch?v=wP2J9aYM6Oo
-
-might need a glossary, what is an APT?
 
 framework
 https://www.helpnetsecurity.com/2017/09/25/cyber-threat-analysis/
