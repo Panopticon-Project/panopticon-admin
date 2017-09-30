@@ -48,9 +48,7 @@ If encryption is your thing and you've got this, you don't need a ProtonMail acc
 Only incoming messages in inline OpenPGP format are currently supported.
 
 # Licenses 
-to do
-can government exploits be licensed? to assert any copyright they'd need to own up to them
-what other things are we analysing?
+Written content is licensed under the [Creative Commons Attribution Share Alike 4.0 license](https://github.com/Panopticon-Project/panopticon-admin/blob/master/LICENSE.md). Code is licensed as per the license in each repository. 
 
 ## The connection betweeen Panopticon Project and the idea of the Open Web
 From Wikipedia, *The Open Web movement asserts a special role for public, cooperative, and standard World Wide Web communications; it opposes private, exclusive, proprietary Web solutions.* Strictly speaking it doesn't look like there is a lot P2 offers to the notion of the Open Web as P2 isn't concerned about private, exclusive or proprietary Web solutions (though its contributors might).
