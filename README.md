@@ -34,11 +34,6 @@ Those of you with visual arts abilities, we need a website and promotional mater
 
 If you happen to have technical skills, even basic technical skills, there are more advanced ways for you to contribute. See our contributing guide for more details.
 
-## The connection betweeen Panopticon Project and the idea of the Open Web
-From Wikipedia, *The Open Web movement asserts a special role for public, cooperative, and standard World Wide Web communications; it opposes private, exclusive, proprietary Web solutions.* Strictly speaking it doesn't look like there is a lot P2 offers to the notion of the Open Web as P2 isn't concerned about private, exclusive or proprietary Web solutions (though its contributors might).
-
-Go over Mozilla training and look for open web descriptions, then look at the notes below.
-
 ## I want to get in touch with P2
 Email panopticonproject@protonmail.com
 
@@ -56,6 +51,33 @@ Only incoming messages in inline OpenPGP format are currently supported.
 to do
 can government exploits be licensed? to assert any copyright they'd need to own up to them
 what other things are we analysing?
+
+## The connection betweeen Panopticon Project and the idea of the Open Web
+From Wikipedia, *The Open Web movement asserts a special role for public, cooperative, and standard World Wide Web communications; it opposes private, exclusive, proprietary Web solutions.* Strictly speaking it doesn't look like there is a lot P2 offers to the notion of the Open Web as P2 isn't concerned about private, exclusive or proprietary Web solutions (though its contributors might).
+
+However, there is a [wider definition](https://www.youtube.com/watch?time_continue=169&v=tDDVAErOI5U) of the Open Web as defined by [Mozilla](https://www.youtube.com/watch?v=Xm5i5kbIXzc).
+
+*"Our mission is to ensure the Internet is a global public resource, open and accessible to all. An Internet that truly puts people first, where individuals can shape their own experience and are empowered, safe and independent."*
+
+Currrently internet users are not empowered, safe or independent. This should be starting to sound simmilar to what I wrote in the above section on *Why does Panopticon Project exist?*
+
+*"There are hidden interests. Monopolies. Silos. Surveillance. Fear. Insecurity. Public apathy, that are locking the right to imagine and shape what’s possible in the future of the Internet. This is why we are fueling a worldwide movement. A movement of heroes to drive the next wave of open. [These are advocates, developers, makers, researchers, mentors, educators… leaders like you](https://www.youtube.com/watch?time_continue=130&v=LuyBGkbzTjs) who fight to protect and advance the open Internet in diverse ways."*
+
+These are the five most pressing issues facing the Internet today according to Mozilla: 
+* Online Privacy & Security - People understand and can meaningfully control how their data is collected and used online, and trust that it’s safe. In parallel, companies and governments work to protect our data and enhance our ownership over our digital identities.
+* Open Innovation - Open is the default: open source and open standards continue to be at the heart of the Internet, and influence organizations and industries products, policies and practices. As a result, entrepreneurs and everyday Internet users can create, innovate and compete online without asking permission.
+* Decentralisation - The technologies and platforms people use every day are interoperable and based on open standards. People expect and demand systems that allow seamless flow and transfer of information and content.
+* Web Literacy - People have the skills to read, write and participate in the digital world. Together, these informed digital citizens move beyond just consuming content, to creating, shaping and defending the web.
+* Digital Inclusion - People everywhere can access and have the opportunity to participate in building the entire Internet. Subsequently, everyone on the Internet has the opportunity to access and shape our digital world. The Internet reflects the diversity of the people who use it. 
+
+And this is how P2 contributes to each of these points:
+* Online Privacy & Security - P2 helps people understand how their data is collected and used online. It shows how [companies and governments](http://www.philly.com/philly/business/the-equifax-hack-has-the-hallmarks-of-state-sponsored-pros-20170929.html) in many cases don't work to protect their data. In fact, they either collect if without your permission, store it insecurely, deliberately monetise it and sell it, or steal it
+* Open Innovation - Open is the standard with P2. We're bringing what is usually only available in proprietary threat intelligence feeds to the masses and anyone can contribute
+* Decentralisation - We're using open standards for creating the content of P2 so that others can perform the same work P2 does, either in conjuction with us or by doing their own thing. Doesn't matter, just so long as people are creating such content
+* Web Literacy - By contributing to P2 people learn the skills to read, write and participate in the digital world. From analysing the exploits of state sponsored hackers to simply applying critical reading skills to news stories, this project teaches and promotes web literacy
+* Digital Inclusion - People everywhere can access and have the opportunity to participate in working on this project, which is one of the foundations of a healthy internet.
+
+Panopticon Project is training a movement of people to hold those who would do us harm online to account.
 
 # Good sources
 https://electrospaces.blogspot.com.au/2017/09/are-shadow-brokers-identical-with.html
