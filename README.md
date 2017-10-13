@@ -12,10 +12,15 @@ Thank you for checking out Panopticon Project (P2)!
 - [I don't know much about these topics and need a primer](#i-dont-know-much-about-these-topics-and-need-a-primer)
 - [Who can contributes to P2?](#who-can-contribute-to-P2)
 - [How can I get involved?](#why-does-panopticon-project-exist)
-- [Why does Panopticon Project exist?](#why-does-panopticon-project-exist)
-- [Why does Panopticon Project exist?](#why-does-panopticon-project-exist)
-- [Why does Panopticon Project exist?](#why-does-panopticon-project-exist)
-- [Why does Panopticon Project exist?](#why-does-panopticon-project-exist)
+- [What does P2 need?](#what-does-p2-need)
+- [I want to get in touch with P2](#i-want-to-get-in-touch-with-p2)
+- [I want to leak something to P2](#i-want-to-leak-something-to-p2)
+- [I still need to get in touch with P2 in a secure manner](#i-still-need-to-get-in-touch-with-p2-in-a-secure-manner)
+- [How do I start?](#how-do-i-start)
+- [Licenses](#licenses)
+- [The connection between Panopticon Project and the idea of the Open Web](#the-connection-between-panopticon-project-and-the-idea-of-the-open-web)
+- [I have objections to this project!](#i-have-objections-to-this-project)
+- [Thank you](#thank-you)
 
 ## What is Panopticon Project?
 P2 is an open source database of open source intelligence (OSINT) covering the electronic capabilities of Advanced Persistent Threats (APTs), nation states, and corporations that exercise nation state capabilities. 
