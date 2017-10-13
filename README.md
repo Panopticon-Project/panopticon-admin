@@ -41,7 +41,7 @@ For many of us it is not a reality we chose or desire. Few understand how bad re
 ## I don't know much about these topics and need a primer
 We have you [covered](https://github.com/Panopticon-Project/panopticon-primer).
 
-## Who can contributes to P2?
+## Who can contribute to P2?
 Anyone with an internet connection and basic reading abilities.
 
 ## How can I get involved?
