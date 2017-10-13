@@ -11,7 +11,7 @@ Thank you for checking out Panopticon Project (P2)!
 - [Why does Panopticon Project exist?](#why-does-panopticon-project-exist)
 - [I don't know much about these topics and need a primer](#i-dont-know-much-about-these-topics-and-need-a-primer)
 - [Who can contribute to P2?](#who-can-contribute-to-p2)
-- [How can I get involved?](#why-does-panopticon-project-exist)
+- [How can I get involved?](#how-can-i-get-involved)
 - [What does P2 need?](#what-does-p2-need)
 - [I want to get in touch with P2](#i-want-to-get-in-touch-with-p2)
 - [I want to leak something to P2](#i-want-to-leak-something-to-p2)
