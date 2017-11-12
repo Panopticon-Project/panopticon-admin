@@ -2,10 +2,15 @@
 
 # Panopticon Project Road Map
 
-## Ongoing issues
-List issues
+## Mission Statement and Summary
+P2 is an open source database of open source intelligence (OSINT) covering the electronic capabilities of Advanced Persistent Threats (APTs), nation states, and corporations that exercise nation state capabilities.
 
-## Milestone: Complete the Admin and associated respositories
+## Ongoing issues
+[Launch project](https://github.com/Panopticon-Project/panopticon-admin/projects/1)
+
+## Milestone: Complete the Admin repo
+
+## Milestone: Complete the Tools repo
 
 ## Milestone: Define intelligence analysis framework
 Currently there exists a number of intelligence analysis frameworks. They need to be evaluated to ensure they will meet the requirements of P2 and then one needs to be chosen. If an off the shelf framework can't be found that meets all of P2's requirements, a new one will need to be defined.
