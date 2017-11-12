@@ -5,6 +5,9 @@
 ## Mission Statement and Summary
 P2 is an open source database of open source intelligence (OSINT) covering the electronic capabilities of Advanced Persistent Threats (APTs), nation states, and corporations that exercise nation state capabilities.
 
+## Contributing
+If you want to contribute to any of these milestones, check out the [README](https://github.com/Panopticon-Project/panopticon-admin/blob/master/README.md) and [contributing guidelines]().
+
 ## Ongoing issues
 [Launch project](https://github.com/Panopticon-Project/panopticon-admin/projects/1)
 
