@@ -5,8 +5,13 @@
 ## Ongoing issues
 List issues
 
+## Milestone: Complete the Admin and associated respositories
+
 ## Milestone: Define intelligence analysis framework
 Currently there exists a number of intelligence analysis frameworks. They need to be evaluated to ensure they will meet the requirements of P2 and then one needs to be chosen. If an off the shelf framework can't be found that meets all of P2's requirements, a new one will need to be defined.
+
+## Milestone: Complete the analysis on one repository for reference
+By completing the analysis for one respository people can see how the framework is applied in a practical sense and should have less of a barrier to contributing.
 
 ## Milestone: Lauch
 Complete the [Mozilla Open Leaders Series](https://mozilla.github.io/open-leadership-training-series) to ensure the respository is ready to receive contributions
