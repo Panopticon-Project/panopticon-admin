@@ -18,6 +18,8 @@ Currently there exists a number of intelligence analysis frameworks. They need t
 ## Milestone: Complete the analysis on one repository for reference
 By completing the analysis for one respository people can see how the framework is applied in a practical sense and should have less of a barrier to contributing.
 
+## Milestone: Complete and display different methods of funding
+
 ## Milestone: Lauch
 Complete the [Mozilla Open Leaders Series](https://mozilla.github.io/open-leadership-training-series) to ensure the respository is ready to receive contributions
 
