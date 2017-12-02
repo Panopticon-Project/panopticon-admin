@@ -94,10 +94,9 @@ These are the five most pressing issues facing the Internet today according to M
 And this is how P2 contributes to each of these points:
 * Online Privacy & Security - P2 helps people understand how their data is collected and used online. It shows how [companies and governments](http://www.philly.com/philly/business/the-equifax-hack-has-the-hallmarks-of-state-sponsored-pros-20170929.html) in many cases don't work to protect their data. In fact, they either collect if without your permission, store it insecurely, deliberately monetise it and sell it, or steal it
 * Open Innovation - Open is the standard with P2. We're bringing what is usually only available in proprietary threat intelligence feeds to the masses and anyone can contribute
-* Decentralisation - We're using open standards for creating the content of P2 so that others can perform the same work P2 does, either in conjunction with us or by doing their own thing. Doesn't matter, just so long as people are creating such content
+* Decentralisation - We're using open standards for creating the content of P2 so that others can perform the same work P2 does, either in conjunction with us or by doing their own thing. There is no central authority, this is just individuals sharing information
 * Web Literacy - By contributing to P2 people learn the skills to read, write and participate in the digital world. From analysing the exploits of state sponsored hackers to simply applying critical reading skills to news stories, this project teaches and promotes web literacy
-* Digital Inclusion - People everywhere can access and have the opportunity to participate in working on this project, which is one of the foundations
- of a healthy internet.
+* Digital Inclusion - People everywhere can access and have the opportunity to participate in this project, which is one of the foundations of a healthy internet
 
 Panopticon Project is training a movement of people to expose those who would do us harm online. By gathering information and disseminating it openly we can inform people about what's really going on in the world. People can make informed choices about how they interact with government and big business.
 
