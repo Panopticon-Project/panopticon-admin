@@ -23,7 +23,7 @@ Thank you for checking out Panopticon Project (P2)!
 - [Thank you](#thank-you)
 
 ## What is Panopticon Project?
-P2 is an open source database of open source intelligence (OSINT) covering the electronic capabilities of Advanced Persistent Threats (APTs), nation states, and corporations that exercise nation state capabilities. 
+P2 is an open database of open source intelligence (OSINT) covering the electronic capabilities of Advanced Persistent Threats (APTs), nation states, and corporations that exercise nation state capabilities. 
 
 That was a lot of open source so let's break that down quickly. [Open source](https://en.wikipedia.org/wiki/Open-source_model) is anything that allows people to add to it, collaborate on it, take it, do their own thing with it. It's the opposite of [proprietary](https://en.wikipedia.org/wiki/Proprietary), which denotes ownership. We often see the terms open source and proprietary in relation to software, meaning software that anyone can add to the code base of, like Linux, and software you can't add to the code base of because it is under copyright, namely Windows and Mac. But as you can see, open source can also apply to things like troves information and even information gathering techniques. 
 
