@@ -41,6 +41,8 @@ Carolina Martinez is a security researcher from Colombia. She self taught hersel
 * Leadership - Carolina encourages others to participate in P2 to strengthen the grass roots information security community in Columbia. By contributing to a shared resource in the commons people in her community feel empowered to take control of their online presence for the betterment of public discourse against corruption and exploitation.
 
 ### Persona Two
+
+![Journalist](http://maxpixel.freegreatpicture.com/static/photo/1x/Journalist-Mbale-Uganda-Cameraman-Media-Africa-2314796.jpg)
 Male journalist Africa
 
 ### Persona Three
