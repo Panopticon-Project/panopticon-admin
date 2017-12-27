@@ -66,5 +66,9 @@ Hadia Abu El Haj is an activist living in the Gaza Strip. While she has been stu
 * Networked Participation - with the help of friends studying computer science, Hadia creates a virtual machine sandbox, installs open source malware reverse engineering tools, opens the attachments on the phishing emails in the sandbox and runs a basic analysis of the malware.
 * Leadership - Hadia runs classes at the University College of Applied Sciences covering topics ranging from operational security to the capabilities of APTs that actively target middle eastern activists, using the Panopticon Project GitHub repository to upskill people and ramp them up to assist with the project and help others in their community
 
-### Persona Four
-Male Community Leader Pacific Islands
+### Fara and Vaitiare Rua
+
+![Community Leaders](https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Polynesian_Cultural_Center_-_Tahiti_Performance_%288329440912%29.jpg/800px-Polynesian_Cultural_Center_-_Tahiti_Performance_%288329440912%29.jpg)
+
+Fara and Vaitiare Rua are brother and sister, born and raised on Tahiti. They are both performers, participating in ceremonies put on by the local tourism body for visitors who also serve as community leaders. Both the Rua siblings volunteer with local charities and community building groups. Lately, Fara and Vaitiare have seen a number of delegations from both the United States and China on the island, and there is talk of aid money and infrastructure development among the local community. However, there is also talk land deals and Fara and Vaitiare had it drilled into them from a young age by their parents due to interactions with the French that foriengers looking to buy land rarely have the interests of the locals at heart. Fara and Vaitiare want to educate their community about the possible risks of what's happening and to look into the companies behind the proposed land deals, but since their entire economy is geared to tourism it's hard to sway public opinion. 
+
