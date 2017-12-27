@@ -17,6 +17,7 @@ Thank you for checking out Panopticon Project (P2)!
 - [I want to leak something to P2](#i-want-to-leak-something-to-p2)
 - [I still need to get in touch with P2 in a secure manner](#i-still-need-to-get-in-touch-with-p2-in-a-secure-manner)
 - [How do I start?](#how-do-i-start)
+- [There is one thing I'd ask of you](#there-is-one-thing-id-ask-of-you)
 - [Licenses](#licenses)
 - [The connection between Panopticon Project and the idea of the Open Web](#the-connection-between-panopticon-project-and-the-idea-of-the-open-web)
 - [I have objections to this project!](#i-have-objections-to-this-project)
@@ -69,6 +70,9 @@ Only incoming messages in inline OpenPGP format are currently supported.
 
 ## How do I start?
 Make sure you have read through <insert all relevant documentation here>. Once you're up to speed, drop an email to panopticonproject@protonmail.com
+  
+## There is one thing I'd ask of you
+If you happen to find P2 useful, for whatever reason, even if just for the content that's provided to you, please share the project. Tell someone about it that might also find it useful, post on social media, spread the word however you want. Panopticon Project is designed to be open and accessible for all. If it's helped you in some way, please pay it forward.
 
 ## Licenses 
 Written content is licensed under the [Creative Commons Attribution Share Alike 4.0 license](https://github.com/Panopticon-Project/panopticon-admin/blob/master/LICENSE.md). Code is licensed as per the license in each repository. 
