@@ -56,7 +56,15 @@ Najja Odongo is a journalist from Uganda. He is passionate about documenting hum
 ### Hadia Abu El Haj
 
 ![Activist](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Palestinian_girl_with_Palestinian_flag.jpg/800px-Palestinian_girl_with_Palestinian_flag.jpg)
-Female Activist Middle Eastern
+
+Hadia Abu El Haj is an activist living in the Gaza Strip. While she has been studying at the University College of Applied Sciences, Hadia has been an outspoken advocate for womens rights, political reform of the Palestinian National Authority, LGBT rights and Palestinian autonomy. Between classes and community organising her schedule is packed and she doesn't have time for a lot else. Given the fact that Hadia speaks widely on a number of issues she's had run ins with hard line islamists along with both the Israeli and Palestinian authorities. Hadia is bombarded with suspicious looking emails and her social media accounts are often locked out due to multiple failed login attempts. She wants to know how she can defend herself online and perhaps press back to pull the veil off the people that want to silence her and others.
+
+* Discovery - Hadia laments to a friend that she wishes activists had access to the technical capabilities and resources governments and well funded groups do. The friend links her to P2 and says there are groups online trying to organise these kinds of resources from what is already in the public domain
+* First Contact - Hadia reads through the community documentation and decides P2 will be useful as a community resource. She sends it out to a number of mailing lists she's a part of
+* Participation - Hadia triages a number of phishing emails from her inbox and builds a list of email addresses, IP addresses and domains associated with malicious actors targetting local activists
+* Sustained Participation - Using the information put together, Hadia and friends step through some of the open source intelligence examples listed as part of P2 to idenity further information about the malicious actors
+* Networked Participation - with the help of friends studying computer science, Hadia creates a virtual machine sandbox, installs open source malware reverse engineering tools, opens the attachments on the phishing emails in the sandbox and runs a basic analysis of the malware.
+* Leadership - Hadia runs classes at the University College of Applied Sciences covering topics ranging from operational security to the capabilities of APTs that actively target middle eastern activists, using the Panopticon Project GitHub repository to upskill people and ramp them up to assist with the project and help others in their community
 
 ### Persona Four
 Male Community Leader Pacific Islands
