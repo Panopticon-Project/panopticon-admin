@@ -53,7 +53,9 @@ Najja Odongo is a journalist from Uganda. He is passionate about documenting hum
 * Networked Participation - Najja reaches out to security researchers contributing to P2 to help vet and anonymise technical information sources give him that can later be submitted to P2
 * Leadership - Najja is told of a spear phishing campaign targeting Ugandan activists. He creates a repository in Panopticon project where he stores copies of the emails received by victims and encourages everyone impacted by the campaign to post any information they come across. Collectively with security researchers they compile an evidence based story that Najja breaks to international news agencies
 
-### Persona Three
+### Hadia Abu El Haj
+
+![Activist](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Palestinian_girl_with_Palestinian_flag.jpg/800px-Palestinian_girl_with_Palestinian_flag.jpg)
 Female Activist Middle Eastern
 
 ### Persona Four
