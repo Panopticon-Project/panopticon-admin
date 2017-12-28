@@ -241,7 +241,7 @@ Want to help build Aletheia but unsure where to start? We've marked good beginne
   * [**aletheia-app**](https://github.com/aletheia-foundation/aletheia-app) Uses [Javasccript Standard Style](https://standardjs.com/).
   * The forked libraries each maintain their own code style standards.
   
-## Gathering Information
+## Gathering Intelligence
 
 There are a number of disciplines that fall under the broad term intelligence. [The Intelligence Cycle](https://en.wikipedia.org/wiki/Intelligence_cycle) walks through the creation of intelligence.
 
@@ -254,9 +254,17 @@ There are a number of disciplines that fall under the broad term intelligence. [
 
 We romanticise intelligence but this is what it is. Most people that have held down a desk job will recognise this process as creating the "executive summary", wehre a large amount of information needs to be conveyed to the higher ups and you pick and choose what the key messages are since you're the subject matter expert, and those key messages are generally all that is ever read. The key bit here is that the writer picks and chooses the key messages (the Analysis phase), it's terribly subjective. Intelligence can step away from being a science post the processing phase and can become an art. Or can just become an opinion piece. There is a lot of debate around the accuracy and usefulness of intelligence once it steps into the analysis phase. This is problematic for P2 as we're trying to adhere to verifiable facts. Some of the above steps also aren't applicable for P2.
 
-* Direction - No one is directing us in most cases, we're doing this because we see a general rather an a specific need. We might be interested in what a particular government is up to generally, rather than needing to know if a specific APT is going to target a specific person at a specific time, for instance. 
-* Collection - 
-* Processing - 
-* Analysis - 
-* Dissemination - 
-* Feedback - 
+* Direction - No one is directing us in most cases, we're doing this because we see a general need rather than something specific. We might be interested in what a particular government is up to generally, rather than needing to know the specific people a specific APT is going to target at a specific time, for instance. 
+* Collection - This is fundamentally what P2 is all about, so this step is applicable
+* Processing - Once we have the raw intelligence it needs to be presented in a logical and coherent manner, so yes this also applicable
+* Analysis - As stated above, this is where we start stepping into the world of inferences. Past attribution of actions we largely want to stay away from this area
+* Dissemination - In the case of P2, the information is disseminated online
+* Feedback - As there was no real direction this isn't terribly applicable
+
+## The Panopitcon Project Intelligence Cycle
+
+This leaves us with the cut down Panopitcon Project Intelligence Cycle
+* We need to understand what is going on online - we aren't being directed by anyone, but linking back to [Why Does Pantopicon Project Exist?](https://github.com/Panopticon-Project/panopticon-admin#why-does-panopticon-project-exist) from our README and our [Open Canvas](https://github.com/Panopticon-Project/panopticon-admin/blob/master/open-canvas.md) the world is becoming more dystopic, we need to understand what is going on as the first step at pushing back against it. P2's mission statement is "we need to understand the electronic capabilities of Advanced Persistent Threats (APTs), nation states, and corporations that exercise nation state capabilities.
+* Collection - the gathering of intelligence through [various means](https://en.wikipedia.org/wiki/List_of_intelligence_gathering_disciplines) largely through OSINT (open source, or publicly available intelligence)
+* Processing - logically presenting the intelligence here on the P2 GitHub repo 
+* Dissemination - Comitting the intelligence to the P2 GitHub repo and elsewhere should people want to store the data in multiple locations
