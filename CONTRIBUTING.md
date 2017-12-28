@@ -273,3 +273,41 @@ This leaves us with the cut down Panopitcon Project Intelligence Cycle
 * Threat Actor - Individuals, groups, or organizations believed to be operating with malicious intent.
 * Tool - Legitimate software that can be used by threat actors to perform attacks.
 * Vulnerability - A mistake in software that can be directly used by a hacker to gain access to a system or network.
+
+Copy and paste this into the readme for the repo
+
+## Attack Pattern
+A type of Tactics, Techniques, and Procedures (TTP) that describes ways threat actors attempt to compromise targets.
+
+## Campaign 
+A grouping of adversarial behaviors that describes a set of malicious activities or attacks that occur over a period of time against a specific set of targets.
+
+## Course of Action 
+An action taken to either prevent an attack or respond to an attack.
+
+## Identity
+Individuals, organizations, or groups, as well as classes of individuals, organizations, or groups.
+
+## Indicator
+Contains a pattern that can be used to detect suspicious or malicious cyber activity.
+
+## Intrusion Set
+A grouped set of adversarial behaviors and resources with common properties believed to be orchestrated by a single threat actor.
+
+## Malware
+A type of TTP, also known as malicious code and malicious software, used to compromise the confidentiality, integrity, or availability of a victim’s data or system.
+
+## Observed Data
+Conveys information observed on a system or network (e.g., an IP address).
+
+## Report 
+Collections of threat intelligence focused on one or more topics, such as a description of a threat actor, malware, or attack technique, including contextual details.
+
+## Threat Actor 
+Individuals, groups, or organizations believed to be operating with malicious intent.
+
+## Tool
+Legitimate software that can be used by threat actors to perform attacks.
+
+## Vulnerability
+A mistake in software that can be directly used by a hacker to gain access to a system or network.
