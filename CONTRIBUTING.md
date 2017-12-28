@@ -240,3 +240,23 @@ Want to help build Aletheia but unsure where to start? We've marked good beginne
 
   * [**aletheia-app**](https://github.com/aletheia-foundation/aletheia-app) Uses [Javasccript Standard Style](https://standardjs.com/).
   * The forked libraries each maintain their own code style standards.
+  
+## Gathering Information
+
+There are a number of disciplines that fall under the broad term intelligence. [The Intelligence Cycle](https://en.wikipedia.org/wiki/Intelligence_cycle) walks through the creation of intelligence.
+
+* Direction - there is a need for intelligence and someone directs another party to provide it
+* Collection - the gathering of intelligence through [various means](https://en.wikipedia.org/wiki/List_of_intelligence_gathering_disciplines) such as HUMINT (human intelligence), IMINT (imagery intelligence), ELINT (electronic intelligence), SIGINT (Signals Intelligence), OSINT (open source, or publicly available intelligence), etc.
+* Processing - any process raw intelligence has to go through before analysis. This can include translation of materials from a foreign language, evaluation of relevance and reliability, and collation of intelligence
+* Analysis - creating the actual contents of a "report", deciding the significance and implications of processed intelligence,  identifying collateral information and patterns by combining disparate pieces of information, then interpreting the significance of any newly developed knowledge.
+* Dissemination - the actionable intelligence is given to the directing party in whatever format they wanted it in
+* Feedback - based on a number of different things, only one being the intelligence you provided, further direction will be given on new intelligence required
+
+We romanticise intelligence but this is what it is. Most people that have held down a desk job will recognise this process as creating the "executive summary", wehre a large amount of information needs to be conveyed to the higher ups and you pick and choose what the key messages are since you're the subject matter expert, and those key messages are generally all that is ever read. The key bit here is that the writer picks and chooses the key messages (the Analysis phase), it's terribly subjective. Intelligence can step away from being a science post the processing phase and can become an art. Or can just become an opinion piece. There is a lot of debate around the accuracy and usefulness of intelligence once it steps into the analysis phase. This is problematic for P2 as we're trying to adhere to verifiable facts. Some of the above steps also aren't applicable for P2.
+
+* Direction - No one is directing us in most cases, we're doing this because we see a general rather an a specific need. We might be interested in what a particular government is up to generally, rather than needing to know if a specific APT is going to target a specific person at a specific time, for instance. 
+* Collection - 
+* Processing - 
+* Analysis - 
+* Dissemination - 
+* Feedback - 
