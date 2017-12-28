@@ -33,65 +33,58 @@ Thank you for wanting to contribute!
 
 ## What should I know before I get started?
 
-### The vision for Aletheia
+### The vision for Panopticon Project
 
-Aletheia is a community run decentralised and distributed database used as a publishing platform for scientific research. The [README](https://github.com/aletheia-foundation/admin) is your introduction to the project and the overarching vision of what we are trying to achieve together. You can also get a snapshot of what we're all about from our [website](https://github.com/aletheia-foundation/aletheia-foundation.github.io/blob/master/about.md). Finally, for the dedicated among you, there is the [whitepaper](https://github.com/aletheia-foundation/whitepaper).
+P2 is an open database of open source intelligence (OSINT) covering the electronic capabilities of Advanced Persistent Threats (APTs), nation states, and corporations that exercise nation state capabilities. The [README](https://github.com/Panopticon-Project/panopticon-admin/blob/master/README.md) is your introduction to the project and the overarching vision of what we are trying to achieve together. 
 
 ### The Code of Conduct
 
-We have one, it is located [here](https://github.com/aletheia-foundation/admin/blob/master/CODE-OF-CONDUCT.md), please look over before contributing.
+We have one, it is located [here](https://github.com/Panopticon-Project/panopticon-admin/blob/master/code_of_conduct.md), please look over before contributing.
 
 ### What's already been done and what's underway
 
-To give you an idea of where we've come from, what ground we've already covered, where we are going and what needs doing, check out our [roadmap](https://github.com/aletheia-foundation/admin/blob/master/ROADMAP.md).
+To give you an idea of where we've come from, what ground we've already covered, where we are going and what needs doing, check out our [roadmap](add).
 
 
-### How to contact the maintainers to discuss contributions, where to interact with fellow Aletheians and how to ask for help
+### How to contact the maintainers to discuss contributions, where to interact with other contributing to the project and how to ask for help
 
-* You can email the Aletheia maintainers on contact@aletheia-foundation.io to discuss your contribution
+* You can email the maintainer on panopticonproject@protonmail.com to discuss your contribution
 
-* You can interact with other Aletheians in our [Slack channel](https://aletheiafoundation.slack.com). If other communication channels become popular we will look at setting those up as well. This is also the place to sing out for help if you need it!
+* We are small at the moment and the community is still forming. Currently it's suggested if you want to talk to others contributing to the project, reach out to them on the email address/social media details listed in their GitHub profiles.
 
-### The basic structure of Aletheia
+* As the community grows and other communication channels become popular we will look at setting those up. 
 
-To ensure you are contributing to the right repository (repo) it's a good idea to look over the repos to get an idea for what goes where. You'll also find making a code contribution much easier if you understand how Aletheia is built.
+### The basic structure of Panopticon Project
 
-#### Aletheia repositories
+To ensure you are contributing to the right repository (repo) it's a good idea to look over the repos to get an idea for what goes where. 
 
-Aletheia has several active repos, each with a distinct purpose:
+#### Organisation
 
-* [**admin**](https://github.com/aletheia-foundation/admin) - information about the project and its organisation, such as the project README, licence file, etc. (You're in this repo right now.)
-* [**aletheia-app**](https://github.com/aletheia-foundation/aletheia-app) - a cross-platform app for peer-to-peer publishing of scientific papers. This is the main distributable app and our main codebase. It uses [Electron](https://electron.atom.io) (which uses NodeJs), [Ethereum](https://www.ethereum.org) and [IPFS](https://ipfs.io). So far, we've tested the app on Ubuntu and OS X; eventually, we'll support Windows as well.
-* [**events and outreach**](https://github.com/aletheia-foundation/aletheia-events-and-outreach) - information about holding Aletheia events and conducting outreach on behalf of the project.
-* [**whitepaper**](https://github.com/aletheia-foundation/whitepaper) - the whitepaper and old versions of it. See this repo for more detail about the vision for Aletheia.
-* [**aletheia-foundation.github.io**](https://github.com/aletheia-foundation/aletheia-foundation.github.io) - the source for our GitHub Pages website (powered by Jekyll).
-* [**logo**](https://github.com/aletheia-foundation/logo) - records of the initial logo design for posterity.
-* [**js-ipfs-api**](https://github.com/aletheia-foundation/js-ipfs-api) - our forked copy of js-ipfs-api. We'll merge all our bugfixes upstream to [ipfs/js-ipfs-api](https://github.com/ipfs/js-ipfs-api).
-* [**nodejs-testnet-faucet**](https://github.com/aletheia-foundation/nodejs-testnet-faucet) - faucet distribute our cyptographic control
-* [**truffle-contract**](https://github.com/aletheia-foundation/truffle-contract) - the framework used for Aletheia.
+* [**panopticon-admin**](https://github.com/Panopticon-Project/panopticon-admin) - information about the project and its organisation, such as the project README, licence file, etc. (You're in this repo right now.)
 
-Inactive repos:
-* aletheia-node
+#### Resources
 
-#### Languages
+* [**panopticon-Primer**](https://github.com/Panopticon-Project/panopticon-Primer) - Readings for if you have no idea about a particular topic. This is your orientation into the fundamentals of the project to get you on the right page before contributing.
 
-Aletheia uses:
-* JavaScript (aletheia-app)
-* Shell scripts (aletheia-app, aletheia-node)
-* Ruby (aletheia-foundation.github.io)
-* HTML and CSS (aletheia-app, aletheia-foundation.github.io)
+* [**panopticon-T-T**](https://github.com/Panopticon-Project/panopticon-T-T) - T-T stands for tools and techniques. This is where all the information on different tools available to people, along with examples of action OSINT investigations are kept. If you don't know how to contribute, read other this repo and it should give you some starting points. Try them out. Come back and read more. This is your classroom and as you learn new things that aren't in this repo, feel free to contribute.
 
-### Working from GitHub issues is required 
+#### Intelligence
 
-There must be a GitHub issue for anything you work on. If you can't find an existing GitHub issue, after discussing with one of the maintainers listed as contacts in the README, feel free to take the initiative and create one yourself. By having a GitHub issue for all ongoing tasks will give oversight to all volunteer activities, not just for the maintainers so they can track progress but for other volunteers as well so they can see where work is at, enabling volunteers to clearly see where and how they can contribute.
+These are broken into three types:
 
-Please also give periodic updates. Every two weeks is a good rule of thumb.
+* Nation State
+* APT
+* Corporation
+
+#### Why are APTs and Nation States separate?
+
+Because attribution is rarely one hundred per cent provable. The Nation State repos will link to the APTs its strongly believed they sponsor and vice versa.
 
 ### Posting your work to GitHub, where possible, is required
 
-If you are working on something that will produce code, a document (even non technical documents like checklists for event planning etc.), a file, anything that can be saved rather can contributions like posting to social media etc., it's asked you post the material to GitHub. This will give oversight to your work, not just for the maintainers so they can track progress but for other volunteers as well so they can see where work is at, enabling volunteers to clearly see where and how they can contribute.
+If you are working on something like gathering intelligence, processing raw intelligence, anything that can be saved rather can contributions like posting to social media etc., it's asked you post the material to GitHub. This will give oversight to your work, not just for the maintainers so they can track progress but for other volunteers as well so they can see where work is at, enabling volunteers to clearly see where and how they can contribute.
 
-Please also give periodic updates. Every two weeks is a good rule of thumb.
+Please also give periodic updates if you're working on something spanning a length of time. Every two weeks is a good rule of thumb.
 
 ### Comments are required
 
@@ -117,6 +110,8 @@ Fix a typo in the Contributing guidelines
 
 ### The standards maintainers will adhere to
 
+With the caveat that this is a volunteer project and everything is provided on a best efforts basis, below are the standards that maintaiers will adhere to and anyone wanting to be a maintainer will aspire to:
+
 * Acknowledge when a new issue is posted by a contributor
 * Notify users when you start and finish work
 * Summarize the state of the issue
@@ -126,10 +121,6 @@ Fix a typo in the Contributing guidelines
 * Make responsibility handoffs clear
 * Notify when new functionality is added to the project, and when fixes are made
 * Always use friendly tone and correct grammar to increase legibility
-
-### How contributions are recognised
-
-The maintainers will endevour to send each new contributor a very nice thank you email after their first pull request. Thereafter, everytime the contributor makes ten more pull request the maintainers will endevour to send another very nice thank you email. This process is predecated on the fact that the recognition scheme is easy to maintain, if it gets to a point that it's not something else may need to be brought in. The Aletheia community might decide they want something else. But for now there will be very nice emails.
 
 ## How can I contribute?
 
