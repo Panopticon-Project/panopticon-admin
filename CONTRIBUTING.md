@@ -269,7 +269,8 @@ https://www.threatcrowd.org/
 Shodan
 https://www.riskiq.com/products/community-edition/
 https://whois.domaintools.com/ - Whois is free
-
+http://statuslite.com/domain/<website here> 
+  
 ## Stix
 * Attack Pattern - A type of Tactics, Techniques, and Procedures (TTP) that describes ways threat actors attempt to compromise targets.
 * Campaign - A grouping of adversarial behaviors that describes a set of malicious activities or attacks that occur over a period of time against a specific set of targets.
