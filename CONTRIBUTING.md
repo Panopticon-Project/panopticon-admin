@@ -273,7 +273,23 @@ When adding your own research to a repository, click create new file, then on th
 * https://www.riskiq.com/products/community-edition/
 * https://whois.domaintools.com/ - Whois is free
 * http://statuslite.com/domain/<website here> 
-  
+
+## Recomended software
+### Maltego
+It's suggested that [Maltego](https://en.wikipedia.org/wiki/Maltego) be used to visually display the research and put it all in one file that can be easily downloaded and examined by others. Maltego is proprietary software, which is sad, but it has a free community addition, is relatively straight forward to use, and already has acceptance in the information security community. Maltego is pre-installed with Kali Linux.
+
+### Kali Linux
+It's also suggested you use [Kali Linux](https://en.wikipedia.org/wiki/Kali_Linux). As well as giving you Maltego, Kali comes with a number of other open source intelligence tools, again all free. Really though, you can use any linux distribution, if you aren't using one specifically built for hacking/information gathering though you might find yourself spending a lot of time hunting for and downloading tools, so unless you're an old hand Kali is a good option. 
+
+### Virtualisation software
+Most people don't run Linux at home, but setting up a linux distribution isn't that difficult on Windows or Mac. For an easy route you can use virtualisation software, which will allow you to run multiple operating systems on the one computer. Installing an ISO file, the file type the linux operating system is downloaded in, on virtualisation software has a number of steps to it. Unless you've done this many times before I'd suggest searching for guides on how to install the particular Linux distribution you have on the particular virtualisation software you're using. YouTube is a good resource for this. Popular virtualisation software include VirtualBox and VMWare Player.
+
+## Advice for using Maltego
+
+* To get stared, Paterva have a good introduction video [here](https://www.youtube.com/watch?v=sP-Pl_SRQVo).
+* Make sure all the transforms you have access to are installed before you start building your graph. The transforms give you access to additional entities to save you having to create some yourself and then trying to get all the background entity information correct so the data mining you do later actually works. 
+* Build your graph as you go. Compiling all your information in a text editor is fine but by visualising the data as you discover things your search will be informed. You'll see what threads should be tugged on next, what's missing and you will be able to see and focus in on what you need to know.
+
 ## Stix
 * Attack Pattern - A type of Tactics, Techniques, and Procedures (TTP) that describes ways threat actors attempt to compromise targets.
 * Campaign - A grouping of adversarial behaviors that describes a set of malicious activities or attacks that occur over a period of time against a specific set of targets.
