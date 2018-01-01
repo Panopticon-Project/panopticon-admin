@@ -290,8 +290,15 @@ Most people don't run Linux at home, but setting up a linux distribution isn't t
 * Make sure all the transforms you have access to are installed before you start building your graph. The transforms give you access to additional entities to save you having to create some yourself and then trying to get all the background entity information correct so the data mining you do later actually works. 
 * Build your graph as you go. Compiling all your information in a text editor is fine but by visualising the data as you discover things your search will be informed. You'll see what threads should be tugged on next, what's missing and you will be able to see and focus in on what you need to know.
 
-## Use brackets in IP addresses and URLs
+## Use brackets in URLs, domain names email addresses and server names
 so people don't accidentally nagivate to the address and potentially infect themselves
+In the instance there are multiple dots just do the last dot
+IP addresses can be left as is
+example 
+unisecproper[.]org
+le0nard0@mail[.]com
+nemohosts[.]com
+ns1.nemohosts[.]com
 
 ## Stix
 * Attack Pattern - A type of Tactics, Techniques, and Procedures (TTP) that describes ways threat actors attempt to compromise targets.
