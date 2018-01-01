@@ -261,7 +261,7 @@ This leaves us with the cut down Panopitcon Project Intelligence Cycle
 * Dissemination - Comitting the intelligence to the P2 GitHub repo and elsewhere should people want to store the data in multiple locations
 
 ## Adding to a repository
-When adding your own research to a repository, click create new file, then on the file name put the date in this format 00Month2018 (01Jan2018 for example), then press /, this creates a folder with the date your uploading the documents, then create a markdown file with a relevent name. This means individual research is grouped by date, which is important because research is often time sensitive. As an example please see add
+When adding your own research to a repository, click create new file, then on the file name put the date in this format 00Month2018 (01Jan2018 for example), then press /, this creates a folder with the date your uploading the documents, then create a markdown file with a relevent name. This means individual research is grouped by date, which is important because research is often time sensitive. As an example, please see [this repository](https://github.com/Panopticon-Project/panopticon-fancybear/tree/master/01Jan2018).
 
 ## Advice for reading through written material
 
