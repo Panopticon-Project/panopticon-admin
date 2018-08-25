@@ -316,6 +316,15 @@ ns1.nemohosts[.]com
 
 Copy and paste this into the readme for the repo
 
+## Name
+Common name of the threat actor
+
+## Aliases
+Other names the threat actor is known by
+
+## Overview
+A high level summary of the threat actor
+
 ## Attack Pattern
 A type of Tactics, Techniques, and Procedures (TTP) that describes ways threat actors attempt to compromise targets.
 
