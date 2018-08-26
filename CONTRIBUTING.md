@@ -132,6 +132,11 @@ Aletheia is not just software, it's a community, so contributing takes many form
 
 * Do you want to contribute to Aletheia through other means (such as helping with social media, being a part of the community voting process that's outlined in the whitepaper, or any other means that come to mind)? If so, please email the maintainers and contributions will be handled on a case by case basis.
 
+### I want to work with GitHub and/or Git - add to index
+
+Here are some resources:
+https://www.tygertec.com/find-stuff-git/
+
 ### How do I find things people have already flagged as needing work?
 
 Feel free to look over the issues in each of the repositories, there are technical and non-technical issues. In the interest of making contribution as easy as possible we have created labels for issues.
