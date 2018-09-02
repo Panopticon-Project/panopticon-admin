@@ -9,7 +9,7 @@ Thank you for wanting to contribute!
 ### Table of contents
 
 - [What should I know before I get started?](#what-should-i-know-before-i-get-started)
-  - [The vision for Aletheia](#the-vision-for-aletheia)
+  - [The vision for P2](#the-vision-for-p2)
   - [The Code of Conduct](#the-code-of-conduct)
   - [What's already been done and what's underway](#whats-already-been-done-and-whats-underway)
   - [How to contact the maintainers to discuss contributions, where to interact with fellow Aletheians and how to ask for help](#how-to-contact-the-maintainers-to-discuss-contributions-where-to-interact-with-fellow-aletheians-and-how-to-ask-for-help)
@@ -33,9 +33,9 @@ Thank you for wanting to contribute!
 
 ## What should I know before I get started?
 
-### The vision for Panopticon Project
+### The vision for P2
 
-P2 is an open database of open source intelligence (OSINT) covering the electronic capabilities of Advanced Persistent Threats (APTs), nation states, and corporations that exercise nation state capabilities. The [README](https://github.com/Panopticon-Project/panopticon-admin/blob/master/README.md) is your introduction to the project and the overarching vision of what we are trying to achieve together. 
+Panopticon Project (P2) is an open database of open source intelligence (OSINT) covering the electronic capabilities of Advanced Persistent Threats (APTs), nation states, and corporations that exercise nation state capabilities. The [README](https://github.com/Panopticon-Project/panopticon-admin/blob/master/README.md) is your introduction to the project and the overarching vision of what we are trying to achieve together. 
 
 ### The Code of Conduct
 
