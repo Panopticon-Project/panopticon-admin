@@ -18,6 +18,7 @@ To have a look at the ongoing activity of P2, check out our [organisation dashbo
 * Overform outreach
 * Recruit mantainers and social media coordinators
 * Provide curated information on APTs and nation states
+* Integrate into the [Commons Platform](https://blog.p2pfoundation.net/the-commons-platform-an-interview-with-sophie-varlow-and-nick-wood/2018/08/22)
 * Provide an open threat intelligence feed to anyone that might need it
 
 ### Low Level Roadmap
