@@ -15,7 +15,7 @@ To have a look at the ongoing activity of P2, check out our [organisation dashbo
 
 ### High Level Roadmap
 * Build the contribution framework
-* Build social media channels
+* Overform outreach
 * Recruit mantainers and social media coordinators
 * Provide curated information on APTs and nation states
 * Provide an open threat intelligence feed
@@ -39,8 +39,13 @@ By completing the analysis for one respository people can see how the framework 
 ##### Milestone: Lauch
 Complete the [Mozilla Open Leaders Series](https://mozilla.github.io/open-leadership-training-series) to ensure the respository is ready to receive contributions
 
-###### Milestone: Outreach
-To draw contributors to P2 stories will need to be pitched to news outlets and create social media channels
+#### Perform outreach
+
+###### Milestone: Pitch news stories
+To draw contributors to P2 stories will need to be pitched to news outlets.
+
+###### Milestone: Create social media channels
+Twitter, Mastodon, do we need any others?
 
 ### Completed milestones
 list
