@@ -58,11 +58,11 @@ To ensure you are contributing to the right repository (repo) it's a good idea t
 
 #### Organisation
 
-* [**panopticon-admin**](https://github.com/Panopticon-Project/panopticon-admin) - information about the project and its organisation, such as the project README, licence file, etc. (You're in this repo right now.)
+* [**panopticon-admin**](https://github.com/Panopticon-Project/panopticon-admin) - information about the project and its organisation, such as the project README, licence file, etc. (You're in this repo right now!)
 
 #### Resources
 
-* [**panopticon-Primer**](https://github.com/Panopticon-Project/panopticon-Primer) - Readings for if you have no idea about a particular topic. This is your orientation into the fundamentals of the project to get you on the right page before contributing.
+* [**panopticon-Primer**](https://github.com/Panopticon-Project/panopticon-Primer) - Readings if you have no idea about a particular topic. This is your orientation into the fundamentals of the project to get you on the right page before contributing.
 
 * [**panopticon-T-T**](https://github.com/Panopticon-Project/panopticon-T-T) - T-T stands for tools and techniques. This is where all the information on different tools available to people, along with examples of action OSINT investigations are kept. If you don't know how to contribute, read other this repo and it should give you some starting points. Try them out. Come back and read more. This is your classroom and as you learn new things that aren't in this repo, feel free to contribute.
 
