@@ -18,9 +18,10 @@ To have a look at the ongoing activity of P2, check out our [organisation dashbo
 * Overform outreach
 * Recruit mantainers and social media coordinators
 * Provide curated information on APTs and nation states
-* Provide an open threat intelligence feed
+* Provide an open threat intelligence feed to anyone that might need it
 
 ### Low Level Roadmap
+To contribute to any of these elements of the roadmap, separate from contributing to the informational repositiories, please email panopticonproject at protonmail.com
 
 #### Build the contribution framework
 
