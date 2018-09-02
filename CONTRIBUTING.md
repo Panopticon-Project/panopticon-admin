@@ -43,7 +43,7 @@ We have one, it is located [here](https://github.com/Panopticon-Project/panoptic
 
 ### What's already been done and what's underway
 
-To give you an idea of where we've come from, what ground we've already covered, where we are going and what needs doing, check out our [roadmap](add).
+To give you an idea of where we've come from, what ground we've already covered, where we are going and what needs doing, check out our [roadmap](https://github.com/Panopticon-Project/panopticon-admin/blob/master/ROADMAP.md).
 
 
 ### How to contact the maintainers to discuss contributions, where to interact with other contributing to the project and how to ask for help
