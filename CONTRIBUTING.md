@@ -321,6 +321,10 @@ ns1.nemohosts[.]com
 
 Copy and paste this into the readme for the repo
 
+![alt tag](https://user-images.githubusercontent.com/24201238/29351849-9c3087b4-82b8-11e7-8fed-350e3b8b4945.png)
+
+# Panopticon Project
+
 ## Name
 Common name of the threat actor
 
@@ -365,3 +369,9 @@ Legitimate software that can be used by threat actors to perform attacks.
 
 ## Vulnerability
 A mistake in software that can be directly used by a hacker to gain access to a system or network.
+
+## Raw Intelligence
+Information pulled from articles. Should for formatted with the article link, date if possible, and the information
+
+## Links
+Articles that are yet to be read
