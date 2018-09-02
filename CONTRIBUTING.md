@@ -327,6 +327,9 @@ Copy and paste this into the readme for the repo
 
 ## Name
 Common name of the threat actor
+Use list
+*
+*
 
 ## Aliases
 Other names the threat actor is known by
