@@ -13,7 +13,7 @@ Thank you for wanting to contribute!
   - [The Code of Conduct](#the-code-of-conduct)
   - [What's already been done and what's underway](#whats-already-been-done-and-whats-underway)
   - [How to contact the maintainers to discuss contributions, where to interact with other contributors and how to ask for help](#how-to-contact-the-maintainers-to-discuss-contributions-where-to-interact-with-other-contributors-and-how-to-ask-for-help)
-  - [The basic structure of Aletheia](#the-basic-structure-of-aletheia)
+  - [The basic structure of P2](#the-basic-structure-of-p2)
   - [Working from GitHub issues is required](#working-from-github-issues-is-required)
   - [Posting your work to GitHub, where possible, is required](#posting-your-work-to-github-where-possible-is-required)
   - [Comments are required](#comments-are-required)
@@ -52,7 +52,7 @@ To give you an idea of where we've come from, what ground we've already covered,
 * As the community grows and other communication channels become popular we will look at setting those up. 
 * We are integrating with the [Commons Platform](https://blog.p2pfoundation.net/the-commons-platform-an-interview-with-sophie-varlow-and-nick-wood/2018/08/22) and will have a specific forum for members of the Commons Platform who want to contribute to P2. You can join the Commons Platform by emailing welcome at commonsplatform.org
 
-### The basic structure of Panopticon Project
+### The basic structure of P2
 
 To ensure you are contributing to the right repository (repo) it's a good idea to look over the repos to get an idea for what goes where. 
 
