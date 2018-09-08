@@ -304,6 +304,7 @@ nemohosts[.]com
 ns1.nemohosts[.]com
 
 ## Stix
+https://oasis-open.github.io/cti-documentation/stix/intro
 * Attack Pattern - A type of Tactics, Techniques, and Procedures (TTP) that describes ways threat actors attempt to compromise targets.
 * Campaign - A grouping of adversarial behaviors that describes a set of malicious activities or attacks that occur over a period of time against a specific set of targets.
 * Course of Action - An action taken to either prevent an attack or respond to an attack.
@@ -372,7 +373,7 @@ Individuals, groups, or organizations believed to be operating with malicious in
 Legitimate software that can be used by threat actors to perform attacks.
 
 ### Vulnerabilities
-A mistake in software that can be directly used by a hacker to gain access to a system or network.
+A mistake in software that can be directly used by a hacker to gain access to a system or network. Link to a writeup in the exploit repo where possible (example, CVEs).
 
 ## Next Date
 Copy and paste the categories from Attack Pattern through to Vulnerabilities for subsequent years
