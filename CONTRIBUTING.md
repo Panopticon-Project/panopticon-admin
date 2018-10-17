@@ -20,7 +20,7 @@ Thank you for wanting to contribute!
   - [The standards maintainers will adhere to](#the-standards-maintainers-will-adhere-to)
   - [How contributions are recognised](#how-contributions-are-recognised)
 - [How can I contribute?](#how-can-i-contribute)
-  - [Technical and non-technical contributions](#technical-and-non-technical-contributions)
+  - [Types of contributions](#types-of-contributions)
   - [How do I find things people have already flagged as needing work?](#how-do-i-find-things-people-have-already-flagged-as-needing-work)
   - [I have something I want to work on, what's the next step?](#i-have-something-i-want-to-work-on-whats-the-next-step)
   - [Report bugs](#report-bugs)
@@ -118,17 +118,19 @@ With the caveat that this is a volunteer project and everything is provided on a
 * Inform everyone if you’re on track
 * Make responsibility handoffs clear
 * Notify when new functionality is added to the project, and when fixes are made
-* Always use friendly tone and correct grammar to increase legibility
+* Always use a non-threatening tone and correct grammar to increase legibility
 
 ## How can I contribute?
 
-### Technical and non-technical contributions
+### Types of contributions
 
-Aletheia is not just software, it's a community, so contributing takes many forms.
+P2 is a community, so contributing takes many forms.
 
-* Do you want to contribute to Aletheia by writing code for the software? If so, this document outlines how you can do that. The below guidelines for contributing to the software are just that, guidelines, not hard and fast rules that must be adhered to. We ask that you use your best judgement and as a rule of thumb, put yourself in the shoes of the project maintainers. If you ran a project and someone submitted what you are going to submit, does it make sense? Is it appropriate? Is it something you would want to see?
+* Do you want to contribute to P2 by finding and analysing articles? This is the traditional and entry level why people will contribute to this project. Below will run through the P2 intelligence cycle and STIX (Structured Threat Information Expression) which this project uses. 
 
-* Do you want to contribute to Aletheia through other means (such as helping with social media, being a part of the community voting process that's outlined in the whitepaper, or any other means that come to mind)? If so, please email the maintainers and contributions will be handled on a case by case basis.
+* Do you want to contribute to P2 by writing code? P2 isn't a traditional open source project working on software, but there is a lot that can be contributed through code. As an example, there are lots of [tools](http://automatingosint.com/blog/) you could build a front end for. If that's your thing, this Contributing document outlines how you can do that. The below guidelines for contributing to code are just that, guidelines, not hard and fast rules that must be adhered to. We ask that you use your best judgement and as a rule of thumb, put yourself in the shoes of the project maintainers. If you ran a project and someone submitted what you are going to submit, does it make sense? Is it appropriate? 
+
+* Do you want to contribute to P2 through other means (such as helping with social media or any other means that come to mind)? If so, please email the maintainers and contributions will be handled on a case by case basis.
 
 ### I want to work with GitHub and/or Git - add to index
 
