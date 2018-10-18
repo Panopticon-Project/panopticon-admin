@@ -275,18 +275,16 @@ Once you have your framework, start reading articles, or performing your own res
 
 ## How does next date work?
 
-Intelligence is time sensitive. We have certain facts that are useful to know regardless
+Intelligence is time sensitive. We have certain facts that are useful to know regardless of the time, or that persist over a lengthy period of time, and these go in our overall framework. The more time sensitive elements of the framework are all the categories from *Attack Pattern* through to *Vulnerabilities*. For each year, use your judgement if you feel it would add utility (make things easier to understand) to sue shorter periods of time, readd these categories under *Next Date*. So 2017 will have its own version of *Attack Pattern* through to *Vulnerabilities* and 2018 will have its own version of *Attack Pattern* through to *Vulnerabilities*, etc etc.
 
-## Searches to run IPs, Domains etc through
+## Searches to run IPs, Domains etc through to get you started
 * https://www.threatcrowd.org/
-* [Shodan]( [Search domain www.shodan.io] https://shodan.io)
+* [Shodan](https://shodan.io)
 * https://www.riskiq.com/products/community-edition/
 * https://whois.domaintools.com/ - Whois is free
 * Whois from the command line on Linux operating systems
 * http://statuslite.com/domain/<website here> 
 * https://bgp.he.net/dns/<website here>
-  
-### What next?
   
 ## Recomended software
 ### Maltego
@@ -296,7 +294,7 @@ It's suggested that [Maltego](https://en.wikipedia.org/wiki/Maltego) be used to 
 It's also suggested you use [Kali Linux](https://en.wikipedia.org/wiki/Kali_Linux). As well as giving you Maltego, Kali comes with a number of other open source intelligence tools, again all free. Really though, you can use any linux distribution, if you aren't using one specifically built for hacking/information gathering though you might find yourself spending a lot of time hunting for and downloading tools, so unless you're an old hand Kali is a good option. 
 
 ### Virtualisation software
-Most people don't run Linux at home, but setting up a linux distribution isn't that difficult on Windows or Mac. For an easy route you can use virtualisation software, which will allow you to run multiple operating systems on the one computer. Installing an ISO file, the file type the linux operating system is downloaded in, on virtualisation software has a number of steps to it. Unless you've done this many times before I'd suggest searching for guides on how to install the particular Linux distribution you have on the particular virtualisation software you're using. YouTube is a good resource for this. Popular virtualisation software include VirtualBox and VMWare Player.
+Most people don't run Linux at home, but setting up a linux operating system isn't that difficult on Windows or Mac. For an easy route you can use virtualisation software, which will allow you to run multiple operating systems on the one computer. Installing an ISO file, the file type the linux operating system is downloaded in, on virtualisation software has a number of steps to it. Unless you've done this many times before I'd suggest searching for guides on how to install the particular Linux distribution you have on the particular virtualisation software you're using. YouTube is a good resource for this. Popular virtualisation software include VirtualBox and VMWare Player.
 
 ## Advice for using Maltego
 
@@ -314,19 +312,23 @@ le0nard0@mail[.]com
 nemohosts[.]com
 ns1.nemohosts[.]com
 
-Non coders, this is where you leave off. Coders continue on!
+## I would like an example repository
 
-### I want to work with GitHub and/or Git - add to index
+Comming Soon.
+
+Non coders, this is where you leave off. Coders continue on! This section is under construction as this isn't a huge part of the project, at least at the moment.
+
+### I want to work with GitHub and/or Git
 
 Here are some resources:
-https://www.tygertec.com/find-stuff-git/
+* [How to find stuff in Git](https://www.tygertec.com/find-stuff-git/)
 
 ### Report bugs
 
 First you must:
 
-* **Check** the [outstanding issues](https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+user%3Aaletheia-foundation+) Aletheia has currently. Someone may have already reported it.
-* **Determine** which repo the issue should be opened against, this is why it is a good idea to have a rough idea of Aletheia's building blocks. Not how they work, just want they are.
+* **Check** the [outstanding issues]() the repo has currently. Someone may have already reported it.
+* **Determine** which repo the issue should be opened against, this is why it is a good idea to have a rough idea of XXX's building blocks. Not how they work, just want they are.
 
 Once you have followed these steps you are ready to submit your bug report. Bugs are reported as GitHub issues.  
 
@@ -354,26 +356,26 @@ To make your bug report as useful to others as possible, please consider the bel
 
 **Include details about your configuration and environment:**
 
-* Which version of Aletheia are you using?
+* Which version of XXX are you using?
 * What's the name and version of the OS you're using?
-* Are you running Aletheia in a virtual machine? If so, which VM software are you using and which operating systems and versions are used for the host and the guest?
-* Are you using Aletheia with multiple monitors? If so, can you reproduce the problem when you use a single monitor?
+* Are you running XXX in a virtual machine? If so, which VM software are you using and which operating systems and versions are used for the host and the guest?
+* Are you using XXX with multiple monitors? If so, can you reproduce the problem when you use a single monitor?
 * Which keyboard layout are you using? Are you using a US layout or some other layout?
 
 ## Enhancements
 
-It would be great if our software did exactly what we wanted, and it can, that's the whole point of opensource. In that spirit if you have an enhancement you'd like to suggest and you know some programming, you are encouraged to work on the enhancement here on GitHub. If you don't know any programming you're encouraged to learn, it's a great skill! But in the meantime you can suggest an enhancement that someone else might build.
+It would be great if our software did exactly what we wanted, and it can, that's the whole point of open source. In that spirit if you have an enhancement you'd like to suggest and you know some programming, you are encouraged to work on the enhancement here on GitHub. If you don't know any programming you're encouraged to learn, it's a great skill! But in the meantime you can suggest an enhancement that someone else might build.
 
 ### Making an enhancement
 
-* **Check** the [outstanding issues](https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+user%3Aaletheia-foundation+) Aletheia has currently. Someone may be planning to work on something similar.
-* **Read** the latest version of the [whitepaper](https://github.com/aletheia-foundation/whitepaper) first. This will align you with the project vision.
-* **Email** contact@aletheia-foundation.io to discuss your enhancement before you start. Aletheia has been designed to overcome problems in very particular ways, and we need to ensure the the enhancement meshes with the rest of Aletheia and isn't something already being worked on. We don't want your time and effort to go to waste. Down the track it is envisaged that the go/no go call for an enhancement will be made by the community in keeping with Aletheia's principles of decentralisation.
+* **Check** the [outstanding issues]() XXX has currently. Someone may be planning to work on something similar.
+* **Read** the latest version of the [whitepaper]() (If there is one present) first. This will align you with the project vision.
+* **Email** panopticonproject at protonmail dot com to discuss your enhancement before you start. XXX has been designed to overcome problems in very particular ways, and we need to ensure the the enhancement meshes with the rest of XXX and isn't something already being worked on. We don't want your time and effort to go to waste. Down the track it is envisaged that the go/no go call for an enhancement will be made by the community in keeping with P2's principles of decentralisation.
 
 ### Suggesting an enhancement
 
-* **Check** the [outstanding issues](https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+user%3Aaletheia-foundation+) Aletheia has currently. Someone may have already reported it.
-* **Determine** which repo (see *Aletheia repositories* above for a reminder) the enhancement should be opened against; this is why it is a good idea to have a rough idea of Aletheia's building blocks. Not how they work, just want they are.
+* **Check** the [outstanding issues]() XXX has currently. Someone may have already reported it.
+* **Determine** which repo the enhancement should be opened against; this is why it is a good idea to have a rough idea of XXX's building blocks. Not how they work, just want they are.
 
 Once you have followed these steps you are ready to submit your enhancement suggestion. Enhancements are suggested through GitHub issues much the same way bugs are reported.  
 
@@ -386,14 +388,14 @@ To make your enhancement suggestion as useful to others as possible, please cons
 * Provide specific examples to demonstrate the steps. Include copy/pasteable snippets which you use in those examples, as Markdown code blocks if possible.
 * Describe the current behaviour and explain which behaviour you expected to see instead and why.
 * Include screenshots which help you demonstrate the steps or point out the part of Aletheia which the suggestion is related to.
-* Explain why this enhancement would be useful to most Aletheia users.
+* Explain why this enhancement would be useful to most XXX users.
 * List some other applications where this enhancement exists.
-* Specify which version of Aletheia you're using.
+* Specify which version of XXX you're using.
 * Specify the name and version of the OS you're using.
 
 ## Beginner issues
 
-Want to help build Aletheia but unsure where to start? We've marked good beginner issues with the label *Good beginner issue*. Click [here](https://github.com/search?q=org%3Aaletheia-foundation+label%3A%22good+beginner+issue%22&state=open&type=Issues) to see all the open ones, and pitch in!
+Want to help build XXX but unsure where to start? We will mark good beginner issues with the label *Good beginner issue*. Click [here]() to see all the open ones, and pitch in!
 
 ## Pull requests
 
@@ -402,7 +404,5 @@ Want to help build Aletheia but unsure where to start? We've marked good beginne
 
 ## Style Guide
 
-  * [**aletheia-app**](https://github.com/aletheia-foundation/aletheia-app) Uses [Javasccript Standard Style](https://standardjs.com/).
+  * [**XXX-app**]() Uses [XXX Standard Style]().
   * The forked libraries each maintain their own code style standards.
-  
-
