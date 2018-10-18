@@ -14,6 +14,7 @@ Thank you for wanting to contribute!
   - [What's already been done and what's underway](#whats-already-been-done-and-whats-underway)
   - [How to contact the maintainers to discuss contributions, where to interact with other contributors and how to ask for help](#how-to-contact-the-maintainers-to-discuss-contributions-where-to-interact-with-other-contributors-and-how-to-ask-for-help)
   - [The basic structure of P2](#the-basic-structure-of-p2)
+    - [Organisation](#organisation)
   - [Working from GitHub issues is required](#working-from-github-issues-is-required)
   - [Posting your work to GitHub, where possible, is required](#posting-your-work-to-github-where-possible-is-required)
   - [Comments are required](#comments-are-required)
@@ -50,7 +51,7 @@ To give you an idea of where we've come from, what ground we've already covered,
 * You can email the maintainer on panopticonproject at protonmail.com to discuss your contribution
 * We are small at the moment and the community is still forming. Currently it's suggested if you want to talk to others contributing to the project, reach out to them on the email address/social media details listed in their GitHub profiles.
 * As the community grows and other communication channels become popular we will look at setting those up. 
-* We are integrating with the [Commons Platform](https://blog.p2pfoundation.net/the-commons-platform-an-interview-with-sophie-varlow-and-nick-wood/2018/08/22) and will have a specific forum for members of the Commons Platform who want to contribute to P2. You can join the Commons Platform by emailing welcome at commonsplatform.org
+* We are integrating with the [Commons Platform](https://commonsplatform.org/) and will have a specific forum for members of the Commons Platform who want to contribute to P2. You can join the Commons Platform by emailing welcome at commonsplatform.org
 
 ### The basic structure of P2
 
