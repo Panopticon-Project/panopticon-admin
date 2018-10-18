@@ -32,15 +32,22 @@ Thank you for wanting to contribute!
     - [How to fill out Stix](#how-to-fill-out-stix)
     - [How does Next Date work?](#how-does-next-date-work)
     - [Searches to run IPs, Domains etc through to get you started](#searches-to-run-ips-domains-etc-through-to-get-you-started)
-    - [Use brackets in URLs, domain names email addresses and server names](Use brackets in URLs, domain names email addresses and server names)
+    - [Use brackets in URLs, domain names, email addresses and server names](#use-brackets-in-urls-domain-names-email-addresses-and-server-names)
     - [Recomended software](#recomended-software)
+      - [Maltego](#maltego)
+      - [Kali Linux](#kali-linux)
+      - [Virtualisation software](#virtualisation-software)
+      - [Advice for using Maltego](#advice-for-using-maltego)
+    - [I would like an example repository](i-would-like-an-example-repository)
+- [Coding](#coding)
+  - [I want to work with GitHub and or Git](#i-want-to-work-with-github-and-or-git)
   - [Report bugs](#report-bugs)
-- [Enhancements](#enhancements)
+  - [Enhancements](#enhancements)
   - [Making an enhancement](#making-an-enhancement)
   - [Suggesting an enhancement](#suggesting-an-enhancement)
-- [Beginner issues](#beginner-issues)
-- [Pull requests](#pull-requests)
-- [Style Guide](#style-guide)
+  - [Beginner issues](#beginner-issues)
+  - [Pull requests](#pull-requests)
+  - [Style Guide](#style-guide)
 
 ## What should I know before I get started?
 
@@ -295,7 +302,7 @@ Intelligence is time sensitive. We have certain facts that are useful to know re
 * http://statuslite.com/domain/<website here> 
 * https://bgp.he.net/dns/<website here>
 
-#### Use brackets in URLs, domain names email addresses and server names
+#### Use brackets in URLs, domain names, email addresses and server names
 so people don't accidentally nagivate to the address and potentially infect themselves
 In the instance there are multiple dots just do the last dot
 IP addresses can be left as is
@@ -306,28 +313,30 @@ nemohosts[.]com
 ns1.nemohosts[.]com
   
 #### Recomended software
-### Maltego
+##### Maltego
 It's suggested that [Maltego](https://en.wikipedia.org/wiki/Maltego) be used to visually display the research and put it all in one file that can be easily downloaded and examined by others. Maltego is proprietary software, which is sad, but it has a free community addition, is relatively straight forward to use, and already has acceptance in the information security community. Maltego is pre-installed with Kali Linux.
 
-### Kali Linux
+##### Kali Linux
 It's also suggested you use [Kali Linux](https://en.wikipedia.org/wiki/Kali_Linux). As well as giving you Maltego, Kali comes with a number of other open source intelligence tools, again all free. Really though, you can use any linux distribution, if you aren't using one specifically built for hacking/information gathering though you might find yourself spending a lot of time hunting for and downloading tools, so unless you're an old hand Kali is a good option. 
 
-### Virtualisation software
+##### Virtualisation software
 Most people don't run Linux at home, but setting up a linux operating system isn't that difficult on Windows or Mac. For an easy route you can use virtualisation software, which will allow you to run multiple operating systems on the one computer. Installing an ISO file, the file type the linux operating system is downloaded in, on virtualisation software has a number of steps to it. Unless you've done this many times before I'd suggest searching for guides on how to install the particular Linux distribution you have on the particular virtualisation software you're using. YouTube is a good resource for this. Popular virtualisation software include VirtualBox and VMWare Player.
 
-## Advice for using Maltego
+##### Advice for using Maltego
 
 * To get stared, Paterva have a good introduction video [here](https://www.youtube.com/watch?v=sP-Pl_SRQVo).
 * Make sure all the transforms you have access to are installed before you start building your graph. The transforms give you access to additional entities to save you having to create some yourself and then trying to get all the background entity information correct so the data mining you do later actually works. 
 * Build your graph as you go. Compiling all your information in a text editor is fine but by visualising the data as you discover things your search will be informed. You'll see what threads should be tugged on next, what's missing and you will be able to see and focus in on what you need to know.
 
-## I would like an example repository
+#### I would like an example repository
 
 Comming Soon.
 
 Non coders, this is where you leave off. Coders continue on! This section is under construction as this isn't a huge part of the project, at least at the moment.
 
-### I want to work with GitHub and/or Git
+## Coding
+
+### I want to work with GitHub and or Git
 
 Here are some resources:
 * [How to find stuff in Git](https://www.tygertec.com/find-stuff-git/)
@@ -371,7 +380,7 @@ To make your bug report as useful to others as possible, please consider the bel
 * Are you using XXX with multiple monitors? If so, can you reproduce the problem when you use a single monitor?
 * Which keyboard layout are you using? Are you using a US layout or some other layout?
 
-## Enhancements
+### Enhancements
 
 It would be great if our software did exactly what we wanted, and it can, that's the whole point of open source. In that spirit if you have an enhancement you'd like to suggest and you know some programming, you are encouraged to work on the enhancement here on GitHub. If you don't know any programming you're encouraged to learn, it's a great skill! But in the meantime you can suggest an enhancement that someone else might build.
 
@@ -402,16 +411,16 @@ To make your enhancement suggestion as useful to others as possible, please cons
 * Specify which version of XXX you're using.
 * Specify the name and version of the OS you're using.
 
-## Beginner issues
+### Beginner issues
 
 Want to help build XXX but unsure where to start? We will mark good beginner issues with the label *Good beginner issue*. Click [here]() to see all the open ones, and pitch in!
 
-## Pull requests
+### Pull requests
 
  * Please adhere to the contributing guidelines listed above.
  * Add unit tests for any contracts or code that can be tested.
 
-## Style Guide
+### Style Guide
 
-  * [**XXX-app**]() Uses [XXX Standard Style]().
-  * The forked libraries each maintain their own code style standards.
+ * [**XXX-app**]() Uses [XXX Standard Style]().
+ * The forked libraries each maintain their own code style standards.
