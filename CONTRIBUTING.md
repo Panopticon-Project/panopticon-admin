@@ -128,7 +128,7 @@ P2 is a community, so contributing takes many forms.
 
 * Do you want to contribute to P2 by finding and analysing articles? This is the traditional and entry level why people will contribute to this project. Below will run through the P2 intelligence cycle and STIX (Structured Threat Information Expression) which this project uses. 
 
-* Do you want to contribute to P2 by performing your own research? The [Tools and Techniques](https://github.com/Panopticon-Project/panopticon-T-T) repo has resources to get you started on performing your own research. A methodology outling your process along with all relevent information found should be saved to the applicable repository. Often, people will use tools like [Maltego](https://www.paterva.com/web7/) for displaying their reserach. Maltego and many other OSINT tools come bundled with [Kali Linux](https://www.kali.org/).
+* Do you want to contribute to P2 by performing your own research? The [Tools and Techniques](https://github.com/Panopticon-Project/panopticon-T-T) repo has resources to get you started on performing your own research. Read on below for specific instructions on how you should present your intelligence. Often, people will use tools like [Maltego](https://www.paterva.com/web7/) for displaying their reserach. Maltego and many other OSINT tools come bundled with [Kali Linux](https://www.kali.org/).
 
 * Do you want to contribute to P2 by writing code? P2 isn't a traditional open source project working on software, but there is a lot that can be contributed through code. As an example, there are lots of [tools](http://automatingosint.com/blog/) you could build a front end for. If that's your thing, this Contributing document outlines how you can do that. The below guidelines for contributing to code are just that, guidelines, not hard and fast rules that must be adhered to. We ask that you use your best judgement and as a rule of thumb, put yourself in the shoes of the project maintainers. If you ran a project and someone submitted what you are going to submit, does it make sense? Is it appropriate? 
 
@@ -140,15 +140,179 @@ Each repository will have a README file. Generally, that file will have gathered
 
 Each repository will also have issues. Issues are sometimes used for things other than issues, like hosting images or working notes (becuase it's the easiest place for them), but generally you should find issues contain actual issues. Feel free to look over the issues in each of the repositories, and action any you feel comfortable with. In the interest of making contribution as easy as possible as the project grows we will create labels for issues.
 
-Labels like [*Good Beginner Issue*](https://github.com/search?q=org%3Aaletheia-foundation+label%3A%22good+beginner+issue%22&state=open&type=Issues) let people know that the particular issue might be a good place for someone new to P2 or someone who may not have a great deal of opensource experience to start.
+Labels like *Good Beginner Issue* let people know that the particular issue might be a good place for someone new to P2 or someone who may not have a great deal of opensource experience to start.
 
 We also have labels corresponding with skillsets, so if you're looking for something in particular you should be able to find it.
 
-The maintainers of Aletheia can only take a best guess at the type of contributions you want to make, so we have created labels as best we can but if you don't see an issue that corresponds to your skillsets, do not fret. You can still look over the existing issues, but we would also suggest you email the maintainers on contact@aletheia-foundation.io and let us know we should accomodate your skillset by adding labels for those skills. This will ensure that those with simmilar skills coming after you have a smooth journey. Helping the next person is all part of community building!
+The maintainers of P2 can only take a best guess at the type of contributions you want to make, so we have created labels as best we can but if you don't see an issue that corresponds to your skillsets, do not fret. You can still look over the existing issues, but we would also suggest you email the maintainers on panopticonproject at protonmail dot com and let us know we should accomodate your skillset by adding labels for those skills. This will ensure that those with simmilar skills coming after you have a smooth journey. Helping the next person is all part of community building!
 
 ### I have something I want to work on, what's the next step?
 
-Please email the maintainers on contact@aletheia-foundation.io, your email should be tended to within 24 hours in most instances. If you want something more immediate please join our [Slack](https://aletheiafoundation.slack.com/) channel to discuss your contribution with the maintainers and other Aletheians.
+Please email the maintainers on panopticonproject at protonmail dot com, your email should be tended to within 24 hours in most instances. As the community grows we may consider a forum such as a Slack channel.
+
+## Gathering Intelligence
+
+There are a number of disciplines that fall under the broad term intelligence. [The Intelligence Cycle](https://en.wikipedia.org/wiki/Intelligence_cycle) walks through the creation of intelligence.
+
+* Direction - there is a need for intelligence and someone directs another party to provide it
+* Collection - the gathering of intelligence through [various means](https://en.wikipedia.org/wiki/List_of_intelligence_gathering_disciplines) such as HUMINT (human intelligence), IMINT (imagery intelligence), ELINT (electronic intelligence), SIGINT (Signals Intelligence), OSINT (open source, or publicly available intelligence), etc.
+* Processing - any process raw intelligence has to go through before analysis. This can include translation of materials from a foreign language, evaluation of relevance and reliability, and collation of intelligence
+* Analysis - creating the actual contents of a "report", deciding the significance and implications of processed intelligence,  identifying collateral information and patterns by combining disparate pieces of information, then interpreting the significance of any newly developed knowledge
+* Dissemination - the actionable intelligence is given to the directing party in whatever format they wanted it in
+* Feedback - based on a number of different things, only one being the intelligence you provided, further direction will be given on new intelligence required
+
+We romanticise intelligence but this is what it is. Most people that have held down a desk job will recognise this process as creating the "executive summary", where a large amount of information needs to be conveyed to the higher ups and you pick and choose what the key messages are since you're the subject matter expert, and those key messages are generally all that is ever read. The key bit here is that the writer picks and chooses the key messages (the Analysis phase), it's terribly subjective. Intelligence can step away from being a science post the processing phase and can become an art. Or can just become an opinion piece. There is a lot of debate around the accuracy and usefulness of intelligence once it steps into the analysis phase. This is problematic for P2 as we're trying to adhere to verifiable facts. Some of the above steps also aren't applicable for P2.
+
+* Direction - No one is directing us in most cases, we're doing this because we see a general need rather than something specific. We might be interested in what a particular government is up to generally, rather than needing to know the specific people a specific APT is going to target at a specific time, for instance. 
+* Collection - This is fundamentally what P2 is all about, so this step is applicable
+* Processing - Once we have the raw intelligence it needs to be presented in a logical and coherent manner, so yes this also applicable
+* Analysis - As stated above, this is where we start stepping into the world of inferences. Past attribution of actions we largely want to stay away from this area
+* Dissemination - In the case of P2, the information is disseminated online
+* Feedback - As there was no real direction this isn't terribly applicable
+
+## The Panopitcon Project Intelligence Cycle
+
+This leaves us with the cut down Panopitcon Project Intelligence Cycle:
+* We need to understand what is going on online - we aren't being directed by anyone, but linking back to [Why Does Pantopicon Project Exist?](https://github.com/Panopticon-Project/panopticon-admin#why-does-panopticon-project-exist) from our README and our [Open Canvas](https://github.com/Panopticon-Project/panopticon-admin/blob/master/open-canvas.md) the world is becoming more dystopic, we need to understand what is going on as the first step at pushing back against it. P2's mission statement is "we need to understand the electronic capabilities of Advanced Persistent Threats (APTs), nation states, and corporations that exercise nation state capabilities.
+* Collection - the gathering of intelligence through [various means](https://en.wikipedia.org/wiki/List_of_intelligence_gathering_disciplines) largely through OSINT (open source, or publicly available intelligence)
+* Processing - logically presenting the intelligence here on the P2 GitHub repo 
+* Dissemination - Comitting the intelligence to the P2 GitHub repo and elsewhere, should people want to store the data in multiple locations
+
+## Adding to a repository
+When adding your own research to a repository, click create new file, then on the file name put the date in this format 00Month2018 (01Jan2018 for example), then press /, this creates a folder with the date your uploading the documents, then create a markdown file with a relevent name. This means individual research is grouped by date, which is important because research is often time sensitive. As an example, please see [this repository](https://github.com/Panopticon-Project/panopticon-fancybear/tree/master/01Jan2018).
+
+## Advice for reading through written material
+
+* Stick to the piece you're reading - Given the nature of the web we can often be reading something with links to other articles, and those have links to other things and so on. You can end up reading something entirely unrelated and have no idea how you got here. Stick to the piece you're reading, note down links for further material, read them once you finish what you're reading right now. Jumping around and not being systematic is how things get missed.
+
+## The information we are looking for
+
+### Stix
+[Stix](https://oasis-open.github.io/cti-documentation/stix/intro) stands for Structured Threat Information Expression. It's the industry standard for how threat intelligence is shared. If you're not a coder this can be intimidating, but we are just leveraging the same categories to order our intelligence.
+
+* Attack Pattern - A type of Tactics, Techniques, and Procedures (TTP) that describes ways threat actors attempt to compromise targets.
+* Campaign - A grouping of adversarial behaviors that describes a set of malicious activities or attacks that occur over a period of time against a specific set of targets.
+* Course of Action - An action taken to either prevent an attack or respond to an attack.
+* Identity - Individuals, organizations, or groups, as well as classes of individuals, organizations, or groups.
+* Indicator - Contains a pattern that can be used to detect suspicious or malicious cyber activity.
+* Intrusion Set - A grouped set of adversarial behaviors and resources with common properties believed to be orchestrated by a single threat actor.
+* Malware - A type of TTP, also known as malicious code and malicious software, used to compromise the confidentiality, integrity, or availability of a victim’s data or system.
+* Observed Data - Conveys information observed on a system or network (e.g., an IP address).
+* Report - Collections of threat intelligence focused on one or more topics, such as a description of a threat actor, malware, or attack technique, including contextual details.
+* Threat Actor - Individuals, groups, or organizations believed to be operating with malicious intent.
+* Tool - Legitimate software that can be used by threat actors to perform attacks.
+* Vulnerability - A mistake in software that can be directly used by a hacker to gain access to a system or network.
+
+### How to fill out STIX
+
+For APTs (Nation States and Corporations coming soon), copy and paste this into the readme for the repo if it's not there already (you will need to edit this file to get the raw markdown code, click the pencil in the upper right hand order of the file).
+
+![alt tag](https://user-images.githubusercontent.com/24201238/29351849-9c3087b4-82b8-11e7-8fed-350e3b8b4945.png)
+
+# Panopticon Project
+
+## Name
+Common name of the threat actor
+
+## Aliases
+Other names the threat actor is known by
+Use list
+*
+*
+
+## Overview
+A high level summary of the threat actor
+
+## Date
+The year the information pertains to
+
+### Attack Pattern
+A type of Tactics, Techniques, and Procedures (TTP) that describes ways threat actors attempt to compromise targets.
+
+### Campaign 
+A grouping of adversarial behaviors that describes a set of malicious activities or attacks that occur over a period of time against a specific set of targets.
+
+### Course of Action 
+An action taken to either prevent an attack or respond to an attack.
+
+### Identity
+Individuals, organizations, or groups, as well as classes of individuals, organizations, or groups.
+
+### Indicator
+Contains a pattern that can be used to detect suspicious or malicious cyber activity.
+
+### Intrusion Set
+A grouped set of adversarial behaviors and resources with common properties believed to be orchestrated by a single threat actor.
+
+### Malware
+A type of TTP, also known as malicious code and malicious software, used to compromise the confidentiality, integrity, or availability of a victim’s data or system.
+
+### Observed Data
+Conveys information observed on a system or network (e.g., an IP address).
+
+### Report 
+Collections of threat intelligence focused on one or more topics, such as a description of a threat actor, malware, or attack technique, including contextual details.
+
+### Threat Actor 
+Individuals, groups, or organizations believed to be operating with malicious intent.
+
+### Tools
+Legitimate software that can be used by threat actors to perform attacks.
+
+### Vulnerabilities
+A mistake in software that can be directly used by a hacker to gain access to a system or network. Link to a writeup in the exploit repo where possible (example, CVEs).
+
+## Next Date
+Copy and paste the categories from Attack Pattern through to Vulnerabilities for subsequent years
+
+## Raw Intelligence
+Information pulled from articles. Should for formatted with the article link, date if possible, and the information
+
+## Links
+Articles that are yet to be read
+
+Once you have your framework, start reading articles, or performing your own research. Pull out the facts and put them under raw intelligence. Then, once you have all the intelligence, start filling in your framework.
+
+## How does next date work?
+
+Intelligence is time sensitive. We have certain facts that are useful to know regardless
+
+## Searches to run IPs, Domains etc through
+* https://www.threatcrowd.org/
+* [Shodan]( [Search domain www.shodan.io] https://shodan.io)
+* https://www.riskiq.com/products/community-edition/
+* https://whois.domaintools.com/ - Whois is free
+* Whois from the command line on Linux operating systems
+* http://statuslite.com/domain/<website here> 
+* https://bgp.he.net/dns/<website here>
+  
+### What next?
+  
+## Recomended software
+### Maltego
+It's suggested that [Maltego](https://en.wikipedia.org/wiki/Maltego) be used to visually display the research and put it all in one file that can be easily downloaded and examined by others. Maltego is proprietary software, which is sad, but it has a free community addition, is relatively straight forward to use, and already has acceptance in the information security community. Maltego is pre-installed with Kali Linux.
+
+### Kali Linux
+It's also suggested you use [Kali Linux](https://en.wikipedia.org/wiki/Kali_Linux). As well as giving you Maltego, Kali comes with a number of other open source intelligence tools, again all free. Really though, you can use any linux distribution, if you aren't using one specifically built for hacking/information gathering though you might find yourself spending a lot of time hunting for and downloading tools, so unless you're an old hand Kali is a good option. 
+
+### Virtualisation software
+Most people don't run Linux at home, but setting up a linux distribution isn't that difficult on Windows or Mac. For an easy route you can use virtualisation software, which will allow you to run multiple operating systems on the one computer. Installing an ISO file, the file type the linux operating system is downloaded in, on virtualisation software has a number of steps to it. Unless you've done this many times before I'd suggest searching for guides on how to install the particular Linux distribution you have on the particular virtualisation software you're using. YouTube is a good resource for this. Popular virtualisation software include VirtualBox and VMWare Player.
+
+## Advice for using Maltego
+
+* To get stared, Paterva have a good introduction video [here](https://www.youtube.com/watch?v=sP-Pl_SRQVo).
+* Make sure all the transforms you have access to are installed before you start building your graph. The transforms give you access to additional entities to save you having to create some yourself and then trying to get all the background entity information correct so the data mining you do later actually works. 
+* Build your graph as you go. Compiling all your information in a text editor is fine but by visualising the data as you discover things your search will be informed. You'll see what threads should be tugged on next, what's missing and you will be able to see and focus in on what you need to know.
+
+## Use brackets in URLs, domain names email addresses and server names
+so people don't accidentally nagivate to the address and potentially infect themselves
+In the instance there are multiple dots just do the last dot
+IP addresses can be left as is
+example 
+unisecproper[.]org
+le0nard0@mail[.]com
+nemohosts[.]com
+ns1.nemohosts[.]com
 
 Non coders, this is where you leave off. Coders continue on!
 
@@ -241,154 +405,4 @@ Want to help build Aletheia but unsure where to start? We've marked good beginne
   * [**aletheia-app**](https://github.com/aletheia-foundation/aletheia-app) Uses [Javasccript Standard Style](https://standardjs.com/).
   * The forked libraries each maintain their own code style standards.
   
-## Gathering Intelligence
 
-There are a number of disciplines that fall under the broad term intelligence. [The Intelligence Cycle](https://en.wikipedia.org/wiki/Intelligence_cycle) walks through the creation of intelligence.
-
-* Direction - there is a need for intelligence and someone directs another party to provide it
-* Collection - the gathering of intelligence through [various means](https://en.wikipedia.org/wiki/List_of_intelligence_gathering_disciplines) such as HUMINT (human intelligence), IMINT (imagery intelligence), ELINT (electronic intelligence), SIGINT (Signals Intelligence), OSINT (open source, or publicly available intelligence), etc.
-* Processing - any process raw intelligence has to go through before analysis. This can include translation of materials from a foreign language, evaluation of relevance and reliability, and collation of intelligence
-* Analysis - creating the actual contents of a "report", deciding the significance and implications of processed intelligence,  identifying collateral information and patterns by combining disparate pieces of information, then interpreting the significance of any newly developed knowledge.
-* Dissemination - the actionable intelligence is given to the directing party in whatever format they wanted it in
-* Feedback - based on a number of different things, only one being the intelligence you provided, further direction will be given on new intelligence required
-
-We romanticise intelligence but this is what it is. Most people that have held down a desk job will recognise this process as creating the "executive summary", wehre a large amount of information needs to be conveyed to the higher ups and you pick and choose what the key messages are since you're the subject matter expert, and those key messages are generally all that is ever read. The key bit here is that the writer picks and chooses the key messages (the Analysis phase), it's terribly subjective. Intelligence can step away from being a science post the processing phase and can become an art. Or can just become an opinion piece. There is a lot of debate around the accuracy and usefulness of intelligence once it steps into the analysis phase. This is problematic for P2 as we're trying to adhere to verifiable facts. Some of the above steps also aren't applicable for P2.
-
-* Direction - No one is directing us in most cases, we're doing this because we see a general need rather than something specific. We might be interested in what a particular government is up to generally, rather than needing to know the specific people a specific APT is going to target at a specific time, for instance. 
-* Collection - This is fundamentally what P2 is all about, so this step is applicable
-* Processing - Once we have the raw intelligence it needs to be presented in a logical and coherent manner, so yes this also applicable
-* Analysis - As stated above, this is where we start stepping into the world of inferences. Past attribution of actions we largely want to stay away from this area
-* Dissemination - In the case of P2, the information is disseminated online
-* Feedback - As there was no real direction this isn't terribly applicable
-
-## The Panopitcon Project Intelligence Cycle
-
-This leaves us with the cut down Panopitcon Project Intelligence Cycle
-* We need to understand what is going on online - we aren't being directed by anyone, but linking back to [Why Does Pantopicon Project Exist?](https://github.com/Panopticon-Project/panopticon-admin#why-does-panopticon-project-exist) from our README and our [Open Canvas](https://github.com/Panopticon-Project/panopticon-admin/blob/master/open-canvas.md) the world is becoming more dystopic, we need to understand what is going on as the first step at pushing back against it. P2's mission statement is "we need to understand the electronic capabilities of Advanced Persistent Threats (APTs), nation states, and corporations that exercise nation state capabilities.
-* Collection - the gathering of intelligence through [various means](https://en.wikipedia.org/wiki/List_of_intelligence_gathering_disciplines) largely through OSINT (open source, or publicly available intelligence)
-* Processing - logically presenting the intelligence here on the P2 GitHub repo 
-* Dissemination - Comitting the intelligence to the P2 GitHub repo and elsewhere should people want to store the data in multiple locations
-
-## Adding to a repository
-When adding your own research to a repository, click create new file, then on the file name put the date in this format 00Month2018 (01Jan2018 for example), then press /, this creates a folder with the date your uploading the documents, then create a markdown file with a relevent name. This means individual research is grouped by date, which is important because research is often time sensitive. As an example, please see [this repository](https://github.com/Panopticon-Project/panopticon-fancybear/tree/master/01Jan2018).
-
-## Advice for reading through written material
-
-* Stick to the piece you're reading - Given the nature of the web we can often be reading something with links to other articles, and those have links to other things and so on. You can end up reading something entirely unrelated and have no idea how you got here. Stick to the piece you're reading, note down links for further material, read them once you finish what you're reading right now. Jumping around and not being systematic is how things get missed.
-
-## Searches to run IPs, Domains etc through
-* https://www.threatcrowd.org/
-* Shodan
-* https://www.riskiq.com/products/community-edition/
-* https://whois.domaintools.com/ - Whois is free
-* http://statuslite.com/domain/<website here> 
-
-## Recomended software
-### Maltego
-It's suggested that [Maltego](https://en.wikipedia.org/wiki/Maltego) be used to visually display the research and put it all in one file that can be easily downloaded and examined by others. Maltego is proprietary software, which is sad, but it has a free community addition, is relatively straight forward to use, and already has acceptance in the information security community. Maltego is pre-installed with Kali Linux.
-
-### Kali Linux
-It's also suggested you use [Kali Linux](https://en.wikipedia.org/wiki/Kali_Linux). As well as giving you Maltego, Kali comes with a number of other open source intelligence tools, again all free. Really though, you can use any linux distribution, if you aren't using one specifically built for hacking/information gathering though you might find yourself spending a lot of time hunting for and downloading tools, so unless you're an old hand Kali is a good option. 
-
-### Virtualisation software
-Most people don't run Linux at home, but setting up a linux distribution isn't that difficult on Windows or Mac. For an easy route you can use virtualisation software, which will allow you to run multiple operating systems on the one computer. Installing an ISO file, the file type the linux operating system is downloaded in, on virtualisation software has a number of steps to it. Unless you've done this many times before I'd suggest searching for guides on how to install the particular Linux distribution you have on the particular virtualisation software you're using. YouTube is a good resource for this. Popular virtualisation software include VirtualBox and VMWare Player.
-
-## Advice for using Maltego
-
-* To get stared, Paterva have a good introduction video [here](https://www.youtube.com/watch?v=sP-Pl_SRQVo).
-* Make sure all the transforms you have access to are installed before you start building your graph. The transforms give you access to additional entities to save you having to create some yourself and then trying to get all the background entity information correct so the data mining you do later actually works. 
-* Build your graph as you go. Compiling all your information in a text editor is fine but by visualising the data as you discover things your search will be informed. You'll see what threads should be tugged on next, what's missing and you will be able to see and focus in on what you need to know.
-
-## Use brackets in URLs, domain names email addresses and server names
-so people don't accidentally nagivate to the address and potentially infect themselves
-In the instance there are multiple dots just do the last dot
-IP addresses can be left as is
-example 
-unisecproper[.]org
-le0nard0@mail[.]com
-nemohosts[.]com
-ns1.nemohosts[.]com
-
-## Stix
-https://oasis-open.github.io/cti-documentation/stix/intro
-* Attack Pattern - A type of Tactics, Techniques, and Procedures (TTP) that describes ways threat actors attempt to compromise targets.
-* Campaign - A grouping of adversarial behaviors that describes a set of malicious activities or attacks that occur over a period of time against a specific set of targets.
-* Course of Action - An action taken to either prevent an attack or respond to an attack.
-* Identity - Individuals, organizations, or groups, as well as classes of individuals, organizations, or groups.
-* Indicator - Contains a pattern that can be used to detect suspicious or malicious cyber activity.
-* Intrusion Set - A grouped set of adversarial behaviors and resources with common properties believed to be orchestrated by a single threat actor.
-* Malware - A type of TTP, also known as malicious code and malicious software, used to compromise the confidentiality, integrity, or availability of a victim’s data or system.
-* Observed Data - Conveys information observed on a system or network (e.g., an IP address).
-* Report - Collections of threat intelligence focused on one or more topics, such as a description of a threat actor, malware, or attack technique, including contextual details.
-* Threat Actor - Individuals, groups, or organizations believed to be operating with malicious intent.
-* Tool - Legitimate software that can be used by threat actors to perform attacks.
-* Vulnerability - A mistake in software that can be directly used by a hacker to gain access to a system or network.
-
-### How to fill out STIX
-Shared Exploits and Malware go in the ShrdExpltsMlwr repo
-
-Copy and paste this into the readme for the repo
-
-![alt tag](https://user-images.githubusercontent.com/24201238/29351849-9c3087b4-82b8-11e7-8fed-350e3b8b4945.png)
-
-# Panopticon Project
-
-## Name
-Common name of the threat actor
-
-## Aliases
-Other names the threat actor is known by
-Use list
-*
-*
-
-## Overview
-A high level summary of the threat actor
-
-## Date
-The year the information pertains to
-
-### Attack Pattern
-A type of Tactics, Techniques, and Procedures (TTP) that describes ways threat actors attempt to compromise targets.
-
-### Campaign 
-A grouping of adversarial behaviors that describes a set of malicious activities or attacks that occur over a period of time against a specific set of targets.
-
-### Course of Action 
-An action taken to either prevent an attack or respond to an attack.
-
-### Identity
-Individuals, organizations, or groups, as well as classes of individuals, organizations, or groups.
-
-### Indicator
-Contains a pattern that can be used to detect suspicious or malicious cyber activity.
-
-### Intrusion Set
-A grouped set of adversarial behaviors and resources with common properties believed to be orchestrated by a single threat actor.
-
-### Malware
-A type of TTP, also known as malicious code and malicious software, used to compromise the confidentiality, integrity, or availability of a victim’s data or system.
-
-### Observed Data
-Conveys information observed on a system or network (e.g., an IP address).
-
-### Report 
-Collections of threat intelligence focused on one or more topics, such as a description of a threat actor, malware, or attack technique, including contextual details.
-
-### Threat Actor 
-Individuals, groups, or organizations believed to be operating with malicious intent.
-
-### Tools
-Legitimate software that can be used by threat actors to perform attacks.
-
-### Vulnerabilities
-A mistake in software that can be directly used by a hacker to gain access to a system or network. Link to a writeup in the exploit repo where possible (example, CVEs).
-
-## Next Date
-Copy and paste the categories from Attack Pattern through to Vulnerabilities for subsequent years
-
-## Raw Intelligence
-Information pulled from articles. Should for formatted with the article link, date if possible, and the information
-
-## Links
-Articles that are yet to be read
