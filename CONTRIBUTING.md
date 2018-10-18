@@ -15,15 +15,25 @@ Thank you for wanting to contribute!
   - [How to contact the maintainers to discuss contributions, where to interact with other contributors and how to ask for help](#how-to-contact-the-maintainers-to-discuss-contributions-where-to-interact-with-other-contributors-and-how-to-ask-for-help)
   - [The basic structure of P2](#the-basic-structure-of-p2)
     - [Organisation](#organisation)
-  - [Working from GitHub issues is required](#working-from-github-issues-is-required)
+    - [Groups this project gathers information on](#groups-this-project-gathers-information-on)
+    - [Why are APTs and Nation States separate?](#why-are-apts-and-nation-states-separate)
   - [Posting your work to GitHub, where possible, is required](#posting-your-work-to-github-where-possible-is-required)
   - [Comments are required](#comments-are-required)
   - [The standards maintainers will adhere to](#the-standards-maintainers-will-adhere-to)
-  - [How contributions are recognised](#how-contributions-are-recognised)
 - [How can I contribute?](#how-can-i-contribute)
   - [Types of contributions](#types-of-contributions)
   - [How do I find things people have already flagged as needing work?](#how-do-i-find-things-people-have-already-flagged-as-needing-work)
   - [I have something I want to work on, what's the next step?](#i-have-something-i-want-to-work-on-whats-the-next-step)
+  - [Gathering intelligence](#gathering-intelligence)
+    - [The Panopitcon Project Intelligence Cycle](#the-panopitcon-project-intelligence-cycle)
+    - [Adding to a repository](#adding-to-a-repository)
+    - [Advice for reading through written material](#advice-for-reading-through-written-material)
+    - [Stix](#stix)
+    - [How to fill out Stix](#how-to-fill-out-stix)
+    - [How does Next Date work?](#how-does-next-date-work)
+    - [Searches to run IPs, Domains etc through to get you started](#searches-to-run-ips-domains-etc-through-to-get-you-started)
+    - [Use brackets in URLs, domain names email addresses and server names](Use brackets in URLs, domain names email addresses and server names)
+    - [Recomended software](#recomended-software)
   - [Report bugs](#report-bugs)
 - [Enhancements](#enhancements)
   - [Making an enhancement](#making-an-enhancement)
@@ -151,7 +161,7 @@ The maintainers of P2 can only take a best guess at the type of contributions yo
 
 Please email the maintainers on panopticonproject at protonmail dot com, your email should be tended to within 24 hours in most instances. As the community grows we may consider a forum such as a Slack channel.
 
-## Gathering Intelligence
+### Gathering intelligence
 
 There are a number of disciplines that fall under the broad term intelligence. [The Intelligence Cycle](https://en.wikipedia.org/wiki/Intelligence_cycle) walks through the creation of intelligence.
 
@@ -171,7 +181,7 @@ We romanticise intelligence but this is what it is. Most people that have held d
 * Dissemination - In the case of P2, the information is disseminated online
 * Feedback - As there was no real direction this isn't terribly applicable
 
-## The Panopitcon Project Intelligence Cycle
+#### The Panopitcon Project Intelligence Cycle
 
 This leaves us with the cut down Panopitcon Project Intelligence Cycle:
 * We need to understand what is going on online - we aren't being directed by anyone, but linking back to [Why Does Pantopicon Project Exist?](https://github.com/Panopticon-Project/panopticon-admin#why-does-panopticon-project-exist) from our README and our [Open Canvas](https://github.com/Panopticon-Project/panopticon-admin/blob/master/open-canvas.md) the world is becoming more dystopic, we need to understand what is going on as the first step at pushing back against it. P2's mission statement is "we need to understand the electronic capabilities of Advanced Persistent Threats (APTs), nation states, and corporations that exercise nation state capabilities.
@@ -179,16 +189,14 @@ This leaves us with the cut down Panopitcon Project Intelligence Cycle:
 * Processing - logically presenting the intelligence here on the P2 GitHub repo 
 * Dissemination - Comitting the intelligence to the P2 GitHub repo and elsewhere, should people want to store the data in multiple locations
 
-## Adding to a repository
+#### Adding to a repository
 When adding your own research to a repository, click create new file, then on the file name put the date in this format 00Month2018 (01Jan2018 for example), then press /, this creates a folder with the date your uploading the documents, then create a markdown file with a relevent name. This means individual research is grouped by date, which is important because research is often time sensitive. As an example, please see [this repository](https://github.com/Panopticon-Project/panopticon-fancybear/tree/master/01Jan2018).
 
-## Advice for reading through written material
+#### Advice for reading through written material
 
 * Stick to the piece you're reading - Given the nature of the web we can often be reading something with links to other articles, and those have links to other things and so on. You can end up reading something entirely unrelated and have no idea how you got here. Stick to the piece you're reading, note down links for further material, read them once you finish what you're reading right now. Jumping around and not being systematic is how things get missed.
 
-## The information we are looking for
-
-### Stix
+#### Stix
 [Stix](https://oasis-open.github.io/cti-documentation/stix/intro) stands for Structured Threat Information Expression. It's the industry standard for how threat intelligence is shared. If you're not a coder this can be intimidating, but we are just leveraging the same categories to order our intelligence.
 
 * Attack Pattern - A type of Tactics, Techniques, and Procedures (TTP) that describes ways threat actors attempt to compromise targets.
@@ -204,7 +212,7 @@ When adding your own research to a repository, click create new file, then on th
 * Tool - Legitimate software that can be used by threat actors to perform attacks.
 * Vulnerability - A mistake in software that can be directly used by a hacker to gain access to a system or network.
 
-### How to fill out STIX
+#### How to fill out STIX
 
 For APTs (Nation States and Corporations coming soon), copy and paste this into the readme for the repo if it's not there already (you will need to edit this file to get the raw markdown code, click the pencil in the upper right hand order of the file).
 
@@ -274,11 +282,11 @@ Articles that are yet to be read
 
 Once you have your framework, start reading articles, or performing your own research. Pull out the facts and put them under raw intelligence. Then, once you have all the intelligence, start filling in your framework.
 
-## How does next date work?
+#### How does Next Date work?
 
 Intelligence is time sensitive. We have certain facts that are useful to know regardless of the time, or that persist over a lengthy period of time, and these go in our overall framework. The more time sensitive elements of the framework are all the categories from *Attack Pattern* through to *Vulnerabilities*. For each year, use your judgement if you feel it would add utility (make things easier to understand) to sue shorter periods of time, readd these categories under *Next Date*. So 2017 will have its own version of *Attack Pattern* through to *Vulnerabilities* and 2018 will have its own version of *Attack Pattern* through to *Vulnerabilities*, etc etc.
 
-## Searches to run IPs, Domains etc through to get you started
+#### Searches to run IPs, Domains etc through to get you started
 * https://www.threatcrowd.org/
 * [Shodan](https://shodan.io)
 * https://www.riskiq.com/products/community-edition/
@@ -286,8 +294,18 @@ Intelligence is time sensitive. We have certain facts that are useful to know re
 * Whois from the command line on Linux operating systems
 * http://statuslite.com/domain/<website here> 
 * https://bgp.he.net/dns/<website here>
+
+#### Use brackets in URLs, domain names email addresses and server names
+so people don't accidentally nagivate to the address and potentially infect themselves
+In the instance there are multiple dots just do the last dot
+IP addresses can be left as is
+example 
+unisecproper[.]org
+le0nard0@mail[.]com
+nemohosts[.]com
+ns1.nemohosts[.]com
   
-## Recomended software
+#### Recomended software
 ### Maltego
 It's suggested that [Maltego](https://en.wikipedia.org/wiki/Maltego) be used to visually display the research and put it all in one file that can be easily downloaded and examined by others. Maltego is proprietary software, which is sad, but it has a free community addition, is relatively straight forward to use, and already has acceptance in the information security community. Maltego is pre-installed with Kali Linux.
 
@@ -302,16 +320,6 @@ Most people don't run Linux at home, but setting up a linux operating system isn
 * To get stared, Paterva have a good introduction video [here](https://www.youtube.com/watch?v=sP-Pl_SRQVo).
 * Make sure all the transforms you have access to are installed before you start building your graph. The transforms give you access to additional entities to save you having to create some yourself and then trying to get all the background entity information correct so the data mining you do later actually works. 
 * Build your graph as you go. Compiling all your information in a text editor is fine but by visualising the data as you discover things your search will be informed. You'll see what threads should be tugged on next, what's missing and you will be able to see and focus in on what you need to know.
-
-## Use brackets in URLs, domain names email addresses and server names
-so people don't accidentally nagivate to the address and potentially infect themselves
-In the instance there are multiple dots just do the last dot
-IP addresses can be left as is
-example 
-unisecproper[.]org
-le0nard0@mail[.]com
-nemohosts[.]com
-ns1.nemohosts[.]com
 
 ## I would like an example repository
 
