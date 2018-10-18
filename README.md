@@ -56,20 +56,20 @@ Those of you with visual arts abilities, we need a website and promotional mater
 If you happen to have technical skills, even basic technical skills, there are more advanced ways for you to contribute. See our contributing guide for more details.
 
 ## I want to get in touch with P2
-Email panopticonproject@protonmail.com
+Email panopticonproject at protonmail dot com
 
 ## I want to leak something to P2
 Seriously, just don't. This project is not equipped to handle leaked material not already in the public domain. Do your research and find a reputable news outlet that has a proven track record in handling leaked material in a responsible and safe manner.
 
 ## I still need to get in touch with P2 in a secure manner
-Create a [ProtonMail](https://mail.protonmail.com) account if you don't already have one and email panopticonproject@protonmail.com, emails over ProtonMail are end to end encrypted.
+Create a [ProtonMail](https://mail.protonmail.com) account if you don't already have one and email panopticonproject at protonmail dot com, emails over ProtonMail are end to end encrypted.
 
 If encryption is your thing and you've got this, you don't need a ProtonMail account, check out our [public key](https://github.com/Panopticon-Project/panopticon-admin/blob/master/publickey.panopticonproject%40protonmail.com.txt)
 
 Only incoming messages in inline OpenPGP format are currently supported.
 
 ## How do I start?
-Make sure you have read through <insert all relevant documentation here>. Once you're up to speed, drop an email to panopticonproject@protonmail.com
+Make sure you have read through the [Contributing](https://github.com/Panopticon-Project/panopticon-admin/blob/master/CONTRIBUTING.md) file. Once you're up to speed, drop an email to panopticonproject at protonmail dot com
   
 ## There is one thing I'd ask of you
 If you happen to find P2 useful, for whatever reason, even if just for the content that's provided to you, please share the project. Tell someone about it that might also find it useful, post on social media, spread the word however you want. Panopticon Project is designed to be open and accessible for all. If it's helped you in some way, please pay it forward.
