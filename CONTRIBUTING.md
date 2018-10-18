@@ -66,7 +66,7 @@ To ensure you are contributing to the right repository (repo) it's a good idea t
 
 * [**panopticon-T-T**](https://github.com/Panopticon-Project/panopticon-T-T) - T-T stands for tools and techniques. This is where all the information on different tools available to people, along with examples of action OSINT investigations are kept. If you don't know how to contribute, read other this repo and it should give you some starting points. Try them out. Come back and read more. This is your classroom and as you learn new things that aren't in this repo, feel free to contribute.
 
-#### Intelligence
+#### Groups this project gathers information on
 
 These are broken into three types:
 
@@ -76,7 +76,7 @@ These are broken into three types:
 
 #### Why are APTs and Nation States separate?
 
-Because attribution is rarely one hundred per cent provable. The Nation State repos will link to the APTs its strongly believed they sponsor and vice versa.
+Because attribution is rarely one hundred per cent provable. The nation state repos will link to the APTs its strongly believed they sponsor and vice versa. Nation state repos will also cover things that are specific to the overall nation state but not specific to particular APTs.
 
 ### Posting your work to GitHub, where possible, is required
 
@@ -134,16 +134,13 @@ P2 is a community, so contributing takes many forms.
 
 * Do you want to contribute to P2 through other means (such as helping with social media or any other means that come to mind)? If so, please email the maintainers and contributions will be handled on a case by case basis.
 
-### I want to work with GitHub and/or Git - add to index
-
-Here are some resources:
-https://www.tygertec.com/find-stuff-git/
-
 ### How do I find things people have already flagged as needing work?
 
-Feel free to look over the issues in each of the repositories, there are technical and non-technical issues. In the interest of making contribution as easy as possible we have created labels for issues.
+Each repository will have a README file. Generally, that file will have gathered information, but at the bottom it will have links to articles yet read. Check below for the Infomration Cycle, but basically you can read those documents, strip out the facts and add them to the applicable categories on the README. 
 
-Labels like [*Good Beginner Issue*](https://github.com/search?q=org%3Aaletheia-foundation+label%3A%22good+beginner+issue%22&state=open&type=Issues) let people know that the particular issue might be a good place for someone new to Aletheia or someone who may not have a great deal of opensource experience to start.
+Each repository will also have issues. Issues are sometimes used for things other than issues, like hosting images or working notes (becuase it's the easiest place for them), but generally you should find issues contain actual issues. Feel free to look over the issues in each of the repositories, and action any you feel comfortable with. In the interest of making contribution as easy as possible as the project grows we will create labels for issues.
+
+Labels like [*Good Beginner Issue*](https://github.com/search?q=org%3Aaletheia-foundation+label%3A%22good+beginner+issue%22&state=open&type=Issues) let people know that the particular issue might be a good place for someone new to P2 or someone who may not have a great deal of opensource experience to start.
 
 We also have labels corresponding with skillsets, so if you're looking for something in particular you should be able to find it.
 
@@ -153,7 +150,12 @@ The maintainers of Aletheia can only take a best guess at the type of contributi
 
 Please email the maintainers on contact@aletheia-foundation.io, your email should be tended to within 24 hours in most instances. If you want something more immediate please join our [Slack](https://aletheiafoundation.slack.com/) channel to discuss your contribution with the maintainers and other Aletheians.
 
-Non techies, this is where you leave off, techies continue on!
+Non coders, this is where you leave off. Coders continue on!
+
+### I want to work with GitHub and/or Git - add to index
+
+Here are some resources:
+https://www.tygertec.com/find-stuff-git/
 
 ### Report bugs
 
