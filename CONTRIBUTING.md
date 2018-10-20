@@ -204,7 +204,7 @@ When adding your own research to a repository, click create new file, then on th
 * Stick to the piece you're reading - Given the nature of the web we can often be reading something with links to other articles, and those have links to other things and so on. You can end up reading something entirely unrelated and have no idea how you got here. Stick to the piece you're reading, note down links for further material, read them once you finish what you're reading right now. Jumping around and not being systematic is how things get missed.
 
 #### Stix
-[Stix](https://oasis-open.github.io/cti-documentation/stix/intro) stands for Structured Threat Information Expression. It's the industry standard for how threat intelligence is shared. If you're not a coder this can be intimidating, but we are just leveraging the same categories to order our intelligence.
+[Stix](https://oasis-open.github.io/cti-documentation/) stands for Structured Threat Information Expression. It's the industry standard for how threat intelligence is shared. If you're not a coder this can be intimidating, but we are just leveraging the same categories to order our intelligence.
 
 * Attack Pattern - A type of Tactics, Techniques, and Procedures (TTP) that describes ways threat actors attempt to compromise targets.
 * Campaign - A grouping of adversarial behaviors that describes a set of malicious activities or attacks that occur over a period of time against a specific set of targets.
