@@ -203,31 +203,8 @@ When adding your own research to a repository, click create new file, then on th
 
 * Stick to the piece you're reading - Given the nature of the web we can often be reading something with links to other articles, and those have links to other things and so on. You can end up reading something entirely unrelated and have no idea how you got here. Stick to the piece you're reading, note down links for further material, read them once you finish what you're reading right now. Jumping around and not being systematic is how things get missed.
 
-#### Stix
-[Stix](https://oasis-open.github.io/cti-documentation/) stands for Structured Threat Information Expression. It's the industry standard for how threat intelligence is shared. If you're not a coder this can be intimidating, but we are just leveraging the same categories to order our intelligence.
-
-* Attack Pattern - A type of Tactics, Techniques, and Procedures (TTP) that describes ways threat actors attempt to compromise targets.
-* Campaign - A grouping of adversarial behaviors that describes a set of malicious activities or attacks that occur over a period of time against a specific set of targets.
-* Course of Action - An action taken to either prevent an attack or respond to an attack.
-* Identity - Individuals, organizations, or groups, as well as classes of individuals, organizations, or groups.
-* Indicator - Contains a pattern that can be used to detect suspicious or malicious cyber activity.
-* Intrusion Set - A grouped set of adversarial behaviors and resources with common properties believed to be orchestrated by a single threat actor.
-* Malware - A type of TTP, also known as malicious code and malicious software, used to compromise the confidentiality, integrity, or availability of a victim’s data or system.
-* Observed Data - Conveys information observed on a system or network (e.g., an IP address).
-* Report - Collections of threat intelligence focused on one or more topics, such as a description of a threat actor, malware, or attack technique, including contextual details.
-* Threat Actor - Individuals, groups, or organizations believed to be operating with malicious intent.
-* Tool - Legitimate software that can be used by threat actors to perform attacks.
-* Vulnerability - A mistake in software that can be directly used by a hacker to gain access to a system or network.
-
-#### How to fill out STIX
-
-For APTs (Nation States and Corporations coming soon), copy and paste [this](https://github.com/Panopticon-Project/panopticon-admin/edit/master/FRAMEWORK.md) into the README for the repo if it's not there already. I've given you the link straight to the edited file to copy out the markdown as I've not figured out how to get markdown formatting to show without formatting the content so you can just copy and paste. In case it doesn't work head to [FRAMEWORK.md](https://github.com/Panopticon-Project/panopticon-admin/blob/master/FRAMEWORK.md) which is a file in this Admin repo. You will need to edit this file to get the raw markdown code, click the pencil in the upper right hand order of the file. Then, copy and paste the code from FRAMEWORK.md into the README of your chosen repo.
-
-Once you have your framework, start reading articles, or performing your own research. Pull out the facts and put them under raw intelligence. Then, once you have all the intelligence, start filling in your framework.
-
-#### How does Next Date work?
-
-Intelligence is time sensitive. We have certain facts that are useful to know regardless of the time, or that persist over a lengthy period of time, and these go in our overall framework. The more time sensitive elements of the framework are all the categories from *Attack Pattern* through to *Vulnerabilities*. For each year, use your judgement if you feel it would add utility (make things easier to understand) to sue shorter periods of time, readd these categories under *Next Date*. So 2017 will have its own version of *Attack Pattern* through to *Vulnerabilities* and 2018 will have its own version of *Attack Pattern* through to *Vulnerabilities*, etc etc.
+#### The Charon Framework
+For an overview of the markup standardisation and intelligece framework P2 uses, read [this](https://github.com/Panopticon-Project/panopticon-admin/blob/master/FRAMEWORK.md) then come back here to finish off.
 
 #### Searches to run IPs, Domains etc through to get you started
 * https://www.threatcrowd.org/
