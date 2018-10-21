@@ -7,11 +7,7 @@ change how campaign works
 working through https://oasis-open.github.io/cti-documentation/stix/examples
 
 ## Examplus Hackerus
-
-### Label
-* Advanced Persistent Threat (APT)
-* Organisation
-* Nation state
+* Label - Advanced Persistent Threat (APT)
 
 ## Aliases
 * APT 2000
@@ -20,30 +16,16 @@ working through https://oasis-open.github.io/cti-documentation/stix/examples
 ## Overview
 APT2000 is a single organization of operators that has conducted a cyber espionage campaign against a broad range of victims since at least 2018.
 
-## Campaign 
+## Campaign or year
 A grouping of adversarial behaviors that describes a set of malicious activities or attacks that occur over a period of time against a specific set of targets. Each Campaign should have a name or description and be associated with the below date range. Leave blank if there is no discernable campaign
-* [Targetting South East Asian Banks](URL to source)
+* About - [Targetting infrastructure in South East Asia](URL to source)
+* Active from - 01 March 2018
+* Active to - 30 September 2018
 
-### Suspected Objective of Campaign
-* Exfiltrate information on bank transfers
-
-### Date range
-Can be of a campaign. If there is no discernable campaign and campaign is blank, use beginning to end of a year.
-* 01 March 2018 - 30 September 2018
-
-### Resource level
-* government
-* organisation
-* Individual
-
-### Sophistication
-* Amateur - using all prewritten tools and/or showing overall poor tradecraft
-* Expert - using at least some self written tools and/or showing overall good tradecraft
-* Advanced Expert - consistently using self written tools adnd showing consistently good tradecraft
-
-### Primary Activities
-* Attempting to compromise industrial control systems
-* Intellectual property theft
+### Attributes
+* Resource level - Government
+* Sophistication - Expert
+* Primary activities - Attempting to compromise industrial control systems, intellectual property theft
 
 ### Attack Pattern
 A type of Tactics, Techniques, and Procedures (TTP) that describes ways threat actors attempt to compromise targets.
@@ -54,6 +36,7 @@ A type of Tactics, Techniques, and Procedures (TTP) that describes ways threat a
 
 ### Course of Action 
 An action taken to either prevent an attack or respond to an attack.
+* Apply patch 1234 to ICS systems
 
 ### Identity
 Individuals, organizations, or groups, as well as classes of individuals, organizations, or groups.
@@ -70,106 +53,46 @@ Individuals, organizations, or groups, as well as classes of individuals, organi
 * [That Other APT](URL to source)
 * [Yet Another APT](URL to source)
 
-### Indicator
-Contains a pattern that can be used to detect suspicious or malicious cyber activity.
-
 ### Intrusion Set
 A grouped set of adversarial behaviors and resources with common properties believed to be orchestrated by a single threat actor.
       
 #### Malware
 A type of TTP, also known as malicious code and malicious software, used to compromise the confidentiality, integrity, or availability of a victim’s data or system.
-* Extra Muffins
-* Description of the malware
- "type": "malware",
-      "id": "malware--fb490cdb-6760-41eb-a79b-0b930a50c017",
-      "created": "2015-05-15T09:00:00.000Z",
-      "modified": "2015-05-15T09:00:00.000Z",
-      "object_marking_refs": [
-        "marking-definition--3444e29e-2aa6-46f7-a01c-1c174820fa67"
-      ],
-      "name": "AURIGA",
-      "labels": [
-        "backdoor",
-        "keylogger"
-      ],
-      "description": "Malware family that contains functionality for keystroke logging, creating and killing processes, performing file system and registry modifications, etc."
+* Names - Extra Muffins, any other name the malware goes by
+* Functionality - Backdoor, keylogger, anything else it can do
+* MD5 - 001dd76872d80801692ff942308c64e6
 
-#### Tools and Infrastructure
-Legitimate software, applciations and infrastructure that can be used by threat actors to perform attacks.
-
-##### Website - What the tool or infrastructure is
-Information such as URL etc
-* Malicious site hosting downloader
-* hxxp://x4z9arb.cn/4712/
-* valid_from 01 August 2018 to 01 September 2013
+##### Website 
+* About - Malicious site hosting downloader
+* URL - hxxp://x4z9arb[.]cn/4712/
+* IP - 562.115.0.0/80
+* Valid from - 01 August 2018 
+* Valid to - 01 September 2013
 
 ##### Command and Control Server
-* used by Extra Muffins malware to receive commands from and exfiltrate data to
-* hxxp://sd35f456.cn/2134/
-* valid_from 01 August 2018 to 01 September 2013
+* About - used by Extra Muffins malware to receive commands from and exfiltrate data to
+* URL - hxxp://sd35f456[.]cn/2134/
+* IP - 223.166.0.0/15
+* Valid from - 01 August 2018
+* Valid to - 01 September 2013
 
-"type": "tool",
-      "id": "tool--266b12f2-aa16-4607-809e-f2d33eebb52e",
-      "created": "2015-05-15T09:00:00.000Z",
-      "modified": "2015-05-15T09:00:00.000Z",
-      "object_marking_refs": [
-        "marking-definition--3444e29e-2aa6-46f7-a01c-1c174820fa67"
-      ],
-      "name": "pass-the-hash toolkit",
-      "labels": [
-        "credential-exploitation"
-      ],
-      "description": "Allows an intruder to “pass” a password hash (without knowing the original password) to log in to systems",
-      "kill_chain_phases": [
-        {
-          "kill_chain_name": "mandiant-attack-lifecycle-model",
-          "phase_name": "escalate-privileges"
-        }
-      ],
-      "external_references": [
-        {
-          "source_name": "pass-the-hash toolkit",
-          "url": "http://oss.coresecurity.com/projects/pshtoolkit.htm"
-          
-           "type": "tool",
-      "id": "tool--98fd8dc1-6cc7-4908-899f-07473f55149a",
-      "created": "2015-05-15T09:00:00.000Z",
-      "modified": "2015-05-15T09:00:00.000Z",
-      "object_marking_refs": [
-        "marking-definition--3444e29e-2aa6-46f7-a01c-1c174820fa67"
-      ],
-      "name": "pwdump7",
-      "labels": [
-        "credential-exploitation"
-      ],
-      "description": "Dumps password hashes from the Windows registry",
-      "kill_chain_phases": [
-        {
-          "kill_chain_name": "mandiant-attack-lifecycle-model",
-          "phase_name": "escalate-privileges"
-        }
-      ],
-      "external_references": [
-        {
-          "source_name": "pwdump7",
-          "url": "http://www.tarasco.org/security/pwdump_7/"
+##### Documents
+* About - Word document attached to spearphishing emails, generates a popup that asks for credentials to connect to C&C server hxxp://sd35f456[.]cn/2134/
+* SHA265 - d393349a4ad00902e3d415b622cf27987a0170a786ca3a1f991a521bff645318
+
+##### Tools
+* Name - pwdump7, any other name known by
+* Functionality - Dumps password hashes from the Windows registry
+* URL - http://www.tarasco.org/security/pwdump_7/
       
 #### Vulnerabilities
 A mistake in software that can be directly used by a hacker to gain access to a system or network. Link to a writeup in the exploit repo where possible (example, CVEs).
 * [CVE-2018-0158](URL to outline of how CVE is exploited) used by Extra Muffins
 
-### Observed Data
-Conveys information observed on a system or network (e.g., an IP address).
-
 ### Report 
 Collections of threat intelligence focused on one or more topics, such as a description of a threat actor, malware, or attack technique, including contextual details.
 * [Examinging Examplus Hackerus](URL to pdf/blog post etc)
-
-#### Description
-"description": "Since 2004, Mandiant has investigated computer security breaches at hundreds of organizations around the world. The majority of these security breaches are attributed to advanced threat actors referred to as the 'Advanced Persistent Threat' (APT). We first published details about the APT in our January 2010 M-Trends report. As we stated in the report, our position was that 'The Chinese government may authorize this activity, but theres no way to determine the\textent of its involvement.' Now, three years later, we have the evidence required to change our assessment. The details\twe have analyzed during hundreds of investigations convince us that the groups conducting these activities are based primarily in China and that the Chinese Government is aware of them. Mandiant continues to track dozens of APT groups around the world; however, this report is focused on the most prolific of these groups. We refer to this group as 'APT1' and it is one of more than 20 APT groups with origins in China. APT1 is a single organization of operators that has conducted a cyber espionage campaign against a broad range of victims since at least 2006. From our observations, it is one of the most prolific cyber espionage groups in terms of the sheer quantity of information stolen. The scale and impact of APT1's operations compelled us to write this report. The activity we have directly observed likely represents only a small fraction of the cyber espionage that APT1 has conducted. Though our visibility of APT1's activities is incomplete, we have analyzed the group's intrusions against nearly 150 victims over seven years. From our unique vantage point responding to victims, we tracked APT1 back to four large networks in Shanghai, two of which are allocated directly to the Pudong New Area. We uncovered a substantial amount of APT1's attack infrastructure, command and control, and modus operandi (tools, tactics, and procedures). In an effort to underscore there are actual individuals behind the keyboard, Mandiant is revealing three personas we have attributed to APT1. These operators, like soldiers, may merely be following orders given to them by others. Our analysis has led us to conclude that APT1 is likely government-sponsored and one of the most persistent of China's cyber threat actors. We believe that APT1 is able to wage such a long-running and extensive cyber espionage campaign in large part because it receives direct government support. In seeking to identify the organization behind this activity, our research found that People's Liberation Army (PLA's) Unit 61398 is similar to APT1 in its mission, capabilities, and resources. PLA Unit 61398 is also located in precisely the same area from which APT1 activity appears to originate.",
-
-### Threat Actor 
-Individuals, groups, or organizations believed to be operating with malicious intent.
+* Description - Since 2018, RandomAV Firm has investigated computer security breaches at hundreds of organizations. The details we have analyzed during hundreds of investigations convince us that a specific group is based primarily in Lorem Ipsum and that the Lorem Ipsum Government is aware of them. We refer to this group as APT2000, a single organization of operators that has conducted a cyber espionage campaign against a broad range of victims since at least 2018. Our analysis has led us to conclude that APT2000 is able to wage such a long-running and extensive cyber espionage campaign in large part because it receives direct government support. 
 
 ## Campaign 
 A grouping of adversarial behaviors that describes a set of malicious activities or attacks that occur over a period of time against a specific set of targets. Each Campaign should have a name or description and be associated with the below date range. Leave blank if there is no discernable campaign
