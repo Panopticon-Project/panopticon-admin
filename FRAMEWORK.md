@@ -11,7 +11,7 @@ As part of the roadmap for Panopticon Project (P2), it is planned to have a conv
 Read articles or perform your own reasearch to fill the raw intelligence section. When you are ready, move the intelligence into its appropriate category. If an existing catergory does not cover what you need to add, contact a project mantainer on panopticonproject at protonmail dot com to add a section to Charon. When dealing with multiple campaigns or multiple timeframes, copy everything from Campaign or Date Range through to and including Reports and fill in those sections again. The sections at the beigining the framework, Name, Aliases, Overview, and the sections at the end of the framework, Raw Intelligence and Links are static and form the header and footer. The sections from Campaign or Date Range through to Reports are contextual to time and therefore will continue to be repeated for different time frames. Try to keep timeframes to roughly one year in length unless there is a clear need to do otherwise.
 
 ### An example of Charon
-Have a look [here]().
+Have a look [here](https://github.com/Panopticon-Project/panopticon-admin/blob/master/EXAMPLE_APT.md).
 
 # Charon Framework
 
