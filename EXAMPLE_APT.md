@@ -2,11 +2,6 @@
 
 # Panopticon Project
 
-add notes to each section
-change how campaign works
-working through https://oasis-open.github.io/cti-documentation/stix/examples
-killchain might get added
-
 ## Examplus Hackerus
 * Label - Advanced Persistent Threat (APT)
 
@@ -20,7 +15,6 @@ killchain might get added
 APT2000 is a single organization of operators that has conducted a cyber espionage campaign against a broad range of victims since at least 2018.
 
 ## Campaign or year
-A grouping of adversarial behaviors that describes a set of malicious activities or attacks that occur over a period of time against a specific set of targets. Each Campaign should have a name or description and be associated with the below date range. Leave blank if there is no discernable campaign
 * Campaign
 * About - [Targetting infrastructure in South East Asia](URL to source)
 * Active from - 01 March 2018
@@ -32,7 +26,6 @@ A grouping of adversarial behaviors that describes a set of malicious activities
 * Primary activities - Attempting to compromise industrial control systems, intellectual property theft
 
 ### Attack Pattern
-A type of Tactics, Techniques, and Procedures (TTP) that describes ways threat actors attempt to compromise targets.
 * [Phishing](URL to source)
 * [Credential harvesting](URL to source)
 * [DDoS] (URL to source)
@@ -40,15 +33,12 @@ A type of Tactics, Techniques, and Procedures (TTP) that describes ways threat a
 * Malware - Extra Miffins
 
 ### Vulnerabilities
-A mistake in software that can be directly used by a hacker to gain access to a system or network. Link to a writeup in the exploit repo where possible (example, CVEs).
 * [CVE-2018-0158](URL to outline of how CVE is exploited) used by Extra Muffins
 
 ### Course of Action 
-An action taken to either prevent an attack or respond to an attack.
 * Apply patch 1234 to ICS systems to patch CVE-2018-0158
 
 ### Identity
-Individuals, organizations, or groups, as well as classes of individuals, organizations, or groups.
 
 #### Individuals 
 * [Joanna Doe](URL to source)
@@ -63,10 +53,8 @@ Individuals, organizations, or groups, as well as classes of individuals, organi
 * [Yet Another APT](URL to source)
 
 ### Intrusion Set
-A grouped set of adversarial behaviors and resources with common properties believed to be orchestrated by a single threat actor.
       
 #### Malware
-A type of TTP, also known as malicious code and malicious software, used to compromise the confidentiality, integrity, or availability of a victim’s data or system.
 * Names - Extra Muffins, any other name the malware goes by
 * Functionality - Backdoor, keylogger, anything else it can do
 * MD5 - 001dd76872d80801692ff942308c64e6
@@ -96,12 +84,10 @@ A type of TTP, also known as malicious code and malicious software, used to comp
 * URL - http://www.tarasco.org/security/pwdump_7/
 
 ### Report 
-Collections of threat intelligence focused on one or more topics, such as a description of a threat actor, malware, or attack technique, including contextual details.
 * [Examinging Examplus Hackerus](URL to pdf/blog post etc)
 * Description - Since 2018, RandomAV Firm has investigated computer security breaches at hundreds of organizations. The details we have analyzed during hundreds of investigations convince us that a specific group is based primarily in Lorem Ipsum and that the Lorem Ipsum Government is aware of them. We refer to this group as APT2000, a single organization of operators that has conducted a cyber espionage campaign against a broad range of victims since at least 2018. Our analysis has led us to conclude that APT2000 is able to wage such a long-running and extensive cyber espionage campaign in large part because it receives direct government support. 
 
 ## Campaign or year
-A grouping of adversarial behaviors that describes a set of malicious activities or attacks that occur over a period of time against a specific set of targets. Each Campaign should have a name or description and be associated with the below date range. Leave blank if there is no discernable campaign
 * Year - 2019
 
 ### Attributes
@@ -110,7 +96,6 @@ A grouping of adversarial behaviors that describes a set of malicious activities
 * Primary activities - Attempting to compromise industrial control systems, intellectual property theft
 
 ### Attack Pattern
-A type of Tactics, Techniques, and Procedures (TTP) that describes ways threat actors attempt to compromise targets.
 * [Phishing](URL to source)
 * [Credential harvesting](URL to source)
 * [DDoS] (URL to source)
@@ -118,15 +103,12 @@ A type of Tactics, Techniques, and Procedures (TTP) that describes ways threat a
 * Malware - Even More Miffins
 
 ### Vulnerabilities
-A mistake in software that can be directly used by a hacker to gain access to a system or network. Link to a writeup in the exploit repo where possible (example, CVEs).
 * [CVE-2019-0254](URL to outline of how CVE is exploited) used by Even More Muffins
 
 ### Course of Action 
-An action taken to either prevent an attack or respond to an attack.
 * Apply patch 5678 to ICS systems to patch CVE-2019-0254
 
 ### Identity
-Individuals, organizations, or groups, as well as classes of individuals, organizations, or groups.
 
 #### Individuals 
 * [Katniss Everdeen](URL to source)
@@ -140,10 +122,8 @@ Individuals, organizations, or groups, as well as classes of individuals, organi
 * [Butternut Cookies APT](URL to source)
 
 ### Intrusion Set
-A grouped set of adversarial behaviors and resources with common properties believed to be orchestrated by a single threat actor.
       
 #### Malware
-A type of TTP, also known as malicious code and malicious software, used to compromise the confidentiality, integrity, or availability of a victim’s data or system.
 * Names - Even More Muffins, any other name the malware goes by
 * Functionality - Backdoor, keylogger, screen overlay, registry editing, anything else it can do
 * MD5 - 002ae76872d80801692ff942308c64t6
@@ -173,78 +153,11 @@ A type of TTP, also known as malicious code and malicious software, used to comp
 * URL - http://www.tarasco.org/security/pwdump_7/
 
 ### Report 
-Collections of threat intelligence focused on one or more topics, such as a description of a threat actor, malware, or attack technique, including contextual details.
-* [Examinging Examplus Hackerus](URL to pdf/blog post etc)
-* Description - Since 2018, RandomAV Firm has investigated computer security breaches at hundreds of organizations. The details we have analyzed during hundreds of investigations convince us that a specific group is based primarily in Lorem Ipsum and that the Lorem Ipsum Government is aware of them. We refer to this group as APT2000, a single organization of operators that has conducted a cyber espionage campaign against a broad range of victims since at least 2018. Our analysis has led us to conclude that APT2000 is able to wage such a long-running and extensive cyber espionage campaign in large part because it receives direct government support. 
+* [Examinging Examplus Hackerus, One Year On](URL to pdf/blog post etc)
+* Description - Since 2018, RandomAV Firm has investigated computer security breaches at hundreds of organizations. The details we have analyzed during hundreds of investigations convince us that a specific group is based primarily in Lorem Ipsum and that the Lorem Ipsum Government is aware of them. We refer to this group as APT2000, a single organization of operators that has conducted a cyber espionage campaign against a broad range of victims since at least 2018. Our analysis has led us to conclude that APT2000 is able to wage such a long-running and extensive cyber espionage campaign in large part because it receives direct government support. One year on we have attributed APT2000 to the 23rd Military Intelligence Division of Lorem Ipsum. Since their exposure last year they have not undertaken any coherent campaigns, seeming to target critical infrastructure providers across the world based on opportunity.
 
 ## Raw Intelligence
-Information pulled from articles. Should for formatted with the article link, date if possible, and the information
+Any further notes to be added to the framework would be added here.
 
 ## Links
-Articles that are yet to be read
-
-
-
-
-
-
-
-
-### Resource level: government
-
-### Primary Activities
-* Attempting to compromise industrial control systems
-* Intellectual property theft
-
-### Attack Pattern
-A type of Tactics, Techniques, and Procedures (TTP) that describes ways threat actors attempt to compromise targets.
-* [Phishing](URL to source)
-* [Credential harvesting](URL to source)
-
-### Course of Action 
-An action taken to either prevent an attack or respond to an attack.
-
-### Identity
-Individuals, organizations, or groups, as well as classes of individuals, organizations, or groups.
-
-#### Individuals - use brackets and links
-* [Joanna Doe](URL to source)
-* [Another Person](URL to source)
-
-#### Affiliated organisations
-* [The People's Republic of Lorem Ipsum](URL to source)
-* [The 23rd Military Intelligence Division](URL to source)
-
-#### Affiliated groups
-* [That Other APT](URL to source)
-* [Yet Another APT](URL to source)
-
-### Indicator
-Contains a pattern that can be used to detect suspicious or malicious cyber activity.
-
-### Intrusion Set
-A grouped set of adversarial behaviors and resources with common properties believed to be orchestrated by a single threat actor.
-
-### Malware
-A type of TTP, also known as malicious code and malicious software, used to compromise the confidentiality, integrity, or availability of a victim’s data or system.
-
-### Observed Data
-Conveys information observed on a system or network (e.g., an IP address).
-
-### Report 
-Collections of threat intelligence focused on one or more topics, such as a description of a threat actor, malware, or attack technique, including contextual details.
-
-### Threat Actor 
-Individuals, groups, or organizations believed to be operating with malicious intent.
-
-### Tools
-Legitimate software that can be used by threat actors to perform attacks.
-
-### Vulnerabilities
-A mistake in software that can be directly used by a hacker to gain access to a system or network. Link to a writeup in the exploit repo where possible (example, CVEs).
-
-## Raw Intelligence
-Information pulled from articles. Should for formatted with the article link, date if possible, and the information
-
-## Links
-Articles that are yet to be read
+Any new articles would be added here.
