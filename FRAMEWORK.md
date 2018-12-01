@@ -3,7 +3,7 @@
 # Panopticon Project
 
 ## The Charon framework for sharing threat intelligence
-Charon is a formatting standardisation using the markup langauge and an intelligence framework based on [STIX](https://oasis-open.github.io/cti-documentation/). It is designed to be easier to approach than STIX. In Greek mythology Styx is a river and Charon is the person who gets people across it. STIX is the river as far as being mcuh deeper than the Charon standardisation, but Charon is the tool used to bridge the gap for the newcomer. Charon is also a person, not an object, and the Charon framework was built with people in mind. 
+Charon is a formatting standardisation using the markup langauge and an intelligence framework based on [STIX](https://oasis-open.github.io/cti-documentation/) and [MITRE ATT&CK™](https://attack.mitre.org/). It is designed to be easier to approach than STIX. In Greek mythology Styx is a river and Charon is the person who gets people across it. STIX is the river as far as being mcuh deeper than the Charon standardisation, but Charon is the tool used to bridge the gap for the newcomer. Charon is also a person, not an object, and the Charon framework was built with people in mind. 
 
 As part of the roadmap for Panopticon Project (P2), it is planned to have a converter that can take a markup file containing Charon and generate a JSON file of STIX. Charon has been written specifically for APTs. As part of the roadmap for P2 it is planned to also have Charon framwork for Corporations and Nation States.
 
@@ -47,7 +47,7 @@ Listed after Camapign or Date Range as attributes can shift over time. Use one o
 * Primary activities - Description goes here
 
 ### Attack Pattern
-The type of Tactics, Techniques, and Procedures (TTP) that describes ways threat actors attempt to compromise targets. Malware should have a short escription and be detailed below.
+The type of Tactics, Techniques, and Procedures (TTP) that describes ways threat actors attempt to compromise targets. Tactics represent the “why” of an ATT&CK technique. It is the adversary’s tactical objective: the reason for performing an action. Techniques represent “how” an adversary achieves a tactical objective by performing an action. For example, and adversary may dump credentials to achieve credential access. Procedures are the exact ways a particular adversary or piece of software implements a technique. Malware should have a short escription and be detailed below.
 Use list
 * [Attack Pattern](URL to source)
 * [Attack Pattern](URL to source)
