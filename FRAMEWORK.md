@@ -36,7 +36,7 @@ Use list
 ## Campaign or Date Range - start of repeatable time contextual section 
 Use either a campaign with a specific timeframe or a date range not associated with a specifc campaign. About is a short description of the campaign and should be removed if using date range. Dates should be in the format of DD Month Year e.g. 01 January 2019.
 * Campaign / Date Range
-* About - [Targetting infrastructure in South East Asia](URL to source) / Remove is using date range
+* About - [Targetting infrastructure in South East Asia](URL to source)
 * Active from - XX Month 20XX
 * Active to - XX Month 20XX
 
