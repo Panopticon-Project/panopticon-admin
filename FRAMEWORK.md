@@ -3,7 +3,7 @@
 # Panopticon Project
 
 ## The Charon framework for sharing threat intelligence
-Charon is a formatting standardisation using the markup langauge and an intelligence framework based on [STIX](https://oasis-open.github.io/cti-documentation/) and [MITRE ATT&CK™](https://attack.mitre.org/). It is designed to be easier to approach than STIX. In Greek mythology Styx is a river and Charon is the person who gets people across it. STIX is the river as far as being mcuh deeper than the Charon standardisation, but Charon is the tool used to bridge the gap for the newcomer. Charon is also a person, not an object, and the Charon framework was built with people in mind. 
+Charon is a formatting standardisation using the markdown langauge and an intelligence framework based on [STIX](https://oasis-open.github.io/cti-documentation/) and [MITRE ATT&CK™](https://attack.mitre.org/). It is designed to be easier to approach than STIX. In Greek mythology Styx is a river and Charon is the person who gets people across it. STIX is the river as far as being mcuh deeper than the Charon standardisation, but Charon is the tool used to bridge the gap for the newcomer. Charon is also a person, not an object, and the Charon framework was built with people in mind. 
 
 As part of the roadmap for Panopticon Project (P2), it is planned to have a converter that can take a markup file containing Charon and generate a JSON file of STIX. Charon has been written specifically for APTs. As part of the roadmap for P2 it is planned to also have Charon framwork for Corporations and Nation States.
 
