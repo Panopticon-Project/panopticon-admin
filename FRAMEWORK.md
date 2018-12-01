@@ -50,38 +50,38 @@ Listed after Camapign or Date Range as attributes can shift over time. Use one o
 The type of Tactics, Techniques, and Procedures (TTP) that describes ways threat actors attempt to compromise targets. Tactics represent the “why” of an ATT&CK technique. It is the adversary’s tactical objective: the reason for performing an action. Techniques represent “how” an adversary achieves a tactical objective by performing an action. For example, and adversary may dump credentials to achieve credential access. Procedures are the exact ways a particular adversary or piece of software implements a technique. See the [Enterprise Matrix](https://attack.mitre.org/) for definitions. Use in the order they occur and remove any uneeded entries. Malware should have a short escription and be detailed below.
 Use list
 * Initial Access 
-** [Attack Pattern](URL to source)
-*** Description
+  * [Attack Pattern](URL to source)
+  * Description
 * Execution
-** [Attack Pattern](URL to source)
-*** Description
+  * [Attack Pattern](URL to source)
+  * Description
 * Persistance
-** [Attack Pattern](URL to source)
-*** Description
+  * [Attack Pattern](URL to source)
+  * Description
 * Privilege Escalation 
-** [Attack Pattern](URL to source)
-*** Description
+  * [Attack Pattern](URL to source)
+  * Description
 * Defense Evasion 
-** [Attack Pattern](URL to source)
-*** Description
+  * [Attack Pattern](URL to source)
+  * Description
 * Credential Access
-** [Attack Pattern](URL to source)
-*** Description
+  * [Attack Pattern](URL to source)
+  * Description
 * Discovery
-** [Attack Pattern](URL to source)
-*** Description
+  * [Attack Pattern](URL to source)
+  * Description
 * Lateral Movement
-** [Attack Pattern](URL to source)
-*** Description
+  * [Attack Pattern](URL to source)
+  * Description
 * Collection
-** [Attack Pattern](URL to source)
-*** Description
+  * [Attack Pattern](URL to source)
+  * Description
 * Exfiltration 
-** [Attack Pattern](URL to source)
-*** Description
+  * [Attack Pattern](URL to source)
+  * Description
 * Command and Control 
-** [Attack Pattern](URL to source)
-*** Description
+  * [Attack Pattern](URL to source)
+  * Description
 * Malware - Description goes here
 
 ### Vulnerabilities
