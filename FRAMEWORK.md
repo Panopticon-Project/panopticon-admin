@@ -47,12 +47,20 @@ Listed after Camapign or Date Range as attributes can shift over time. Use one o
 * Primary activities - Description goes here
 
 ### Attack Pattern
-The type of Tactics, Techniques, and Procedures (TTP) that describes ways threat actors attempt to compromise targets. Tactics represent the “why” of an ATT&CK technique. It is the adversary’s tactical objective: the reason for performing an action. Techniques represent “how” an adversary achieves a tactical objective by performing an action. For example, and adversary may dump credentials to achieve credential access. Procedures are the exact ways a particular adversary or piece of software implements a technique. Malware should have a short escription and be detailed below.
+The type of Tactics, Techniques, and Procedures (TTP) that describes ways threat actors attempt to compromise targets. Tactics represent the “why” of an ATT&CK technique. It is the adversary’s tactical objective: the reason for performing an action. Techniques represent “how” an adversary achieves a tactical objective by performing an action. For example, and adversary may dump credentials to achieve credential access. Procedures are the exact ways a particular adversary or piece of software implements a technique. See the [Enterprise Matrix](https://attack.mitre.org/) for definitions. Use in the order they occur and remove any uneeded entries. Malware should have a short escription and be detailed below.
 Use list
-* [Attack Pattern](URL to source)
-* [Attack Pattern](URL to source)
+* Initial Access [Attack Pattern](URL to source)
+* Execution [Attack Pattern](URL to source)
+* Persistance [Attack Pattern](URL to source)
+* Privilege Escalation [Attack Pattern](URL to source)
+* Defense Evasion [Attack Pattern](URL to source)
+* Credential Access [Attack Pattern](URL to source)
+* Discovery [Attack Pattern](URL to source)
+* Lateral Movement [Attack Pattern](URL to source)
+* Collection [Attack Pattern](URL to source)
+* Exfiltration [Attack Pattern](URL to source)
+* Command and Control [Attack Pattern](URL to source)
 * Malware - Description goes here
-
 
 ### Vulnerabilities
 A mistake in software that can be directly used by an attacker to gain access to a system or network. Link to a writeup in the exploit repo where possible (example, CVEs) or to external sources. Format should be in the format of ulnerability is exploited by name of the thing exploiting it, usually malware or a hacking tool.
