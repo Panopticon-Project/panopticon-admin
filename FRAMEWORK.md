@@ -47,7 +47,7 @@ Listed after Camapign or Date Range as attributes can shift over time. Use one o
 * Primary activities - Description goes here
 
 ### Attack Pattern
-A type of Tactics, Techniques, and Procedures (TTP) that describes ways threat actors attempt to compromise targets. Malware should have a short escription and be detailed below.
+The type of Tactics, Techniques, and Procedures (TTP) that describes ways threat actors attempt to compromise targets. Malware should have a short escription and be detailed below.
 Use list
 * [Attack Pattern](URL to source)
 * [Attack Pattern](URL to source)
