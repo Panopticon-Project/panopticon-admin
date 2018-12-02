@@ -151,7 +151,7 @@ A tool used by the attacker. Multiple names should be listed on the same line an
 * Functionality - [Functionality, functionality] (URL to source)
 * URL - http://address.com
 
-### Reports - emd of repeatable time contextual section 
+### Reports - end of repeatable time contextual section 
 Collections of threat intelligence focused on one or more topics, such as a description of a threat actor, malware, or attack technique, including contextual details. The description should be a short outline of the report.
 Use list
 * [Name of report](URL to pdf/blog post etc) - Description goes here
