@@ -47,7 +47,7 @@ Listed after Camapign or Date Range as attributes can shift over time. Use one o
 * Primary activities - Description goes here
 
 ### Attack Pattern
-The type of Tactics, Techniques, and Procedures (TTP) that describes ways threat actors attempt to compromise targets. Tactics represent the “why” of an ATT&CK technique. It is the adversary’s tactical objective: the reason for performing an action. Techniques represent “how” an adversary achieves a tactical objective by performing an action. For example, and adversary may dump credentials to achieve credential access. Procedures are the exact ways a particular adversary or piece of software implements a technique. See the [Enterprise Matrix](https://attack.mitre.org/) for definitions. Use in the order they occur and remove any uneeded entries. Malware should have a short escription and be detailed below.
+See the [Enterprise Matrix](https://attack.mitre.org/) for definitions of each of the below areas. Use in the order they occur and state no information for entries that don't yet have any information. Malware should have a short escription and be detailed below.
 Use list
 * Initial Access 
   * [Attack Pattern](URL to source)
