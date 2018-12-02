@@ -91,7 +91,7 @@ Use list
 * [Vulnerabilty](URL to outline of how vulnerability is exploited) is exploited by name of malware / name of tool
 
 ### Course of Action 
-An action taken to either prevent an attack or respond to an attack. If the course of action is connected to something in this report, such as a CVE for example, that should be referenced. Example: Apply patch 5678 to ICS systems to patch CVE-2019-0254.
+An action taken to either prevent an attack or respond to an attack. These should address the Attack Patterns and Vulnerabilities listed above. If the course of action is connected to something in this report, such as a CVE for example, that should be referenced. Example: Apply patch 5678 to ICS systems to patch CVE-2019-0254. State no information if no information is available.
 Use list
 * Description goes here
 *
