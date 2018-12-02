@@ -85,7 +85,7 @@ Use list
 * Malware - Description goes here
 
 ### Vulnerabilities
-A mistake in software that can be directly used by an attacker to gain access to a system or network. Link to a writeup in the exploit repo where possible (example, CVEs) or to external sources. Format should be in the format of ulnerability is exploited by name of the thing exploiting it, usually malware or a hacking tool.
+A mistake in software that can be directly used by an attacker to gain access to a system or network. Link to a writeup in the exploit repo where possible (example, CVEs) or to external sources. Format should be in the format of vulnerability is exploited by name of the thing exploiting it, usually malware or a hacking tool.
 Use list
 * [Vulnerabilty](URL to outline of how vulnerability is exploited) is exploited by name of malware / name of tool
 * [Vulnerabilty](URL to outline of how vulnerability is exploited) is exploited by name of malware / name of tool
