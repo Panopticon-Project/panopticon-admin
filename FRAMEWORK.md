@@ -93,8 +93,8 @@ Use list
 ### Course of Action 
 An action taken to either prevent an attack or respond to an attack. These should address the Attack Patterns and Vulnerabilities listed above. If the course of action is connected to something in this report, such as a CVE for example, that should be referenced. Example: Apply patch 5678 to ICS systems to patch CVE-2019-0254. State no information if no information is available.
 Use list
-* Description goes here
-*
+* [Attack Pattern or Vulnerability entry goes here](URL to source)
+  * Description
 
 ### Identity
 Individuals, organizations, or groups. These are represented as individual entries under the heading of Identity.
