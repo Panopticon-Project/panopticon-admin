@@ -33,6 +33,8 @@ Use list
 * Description goes here
 *
 
+## Time context starts
+
 ## Campaign or Date Range - start of repeatable time contextual section 
 Use either a campaign with a specific timeframe or a date range not associated with a specifc campaign. About is a short description of the campaign and should be removed if using date range. Dates should be in the format of DD Month Year e.g. 01 January 2019.
 * Campaign / Date Range
@@ -90,18 +92,6 @@ Use list
 * [Vulnerabilty](URL to outline of how vulnerability is exploited) is exploited by name of malware / name of tool
 * [Vulnerabilty](URL to outline of how vulnerability is exploited) is exploited by name of malware / name of tool
 
-### Detection
-An action taken to detect an Attack Pattern entry. These should address the Attack Patterns listed above. State no information if no information is available.
-Use list
-* [Attack Pattern or Vulnerability entry goes here](URL to source)
-  * Description
-
-### Course of Action 
-An action taken to either prevent an attack or respond to an attack. These should address the Attack Patterns and Vulnerabilities listed above. If the course of action is connected to something in this report, such as a CVE for example, that should be referenced. Example: Apply patch 5678 to ICS systems to patch CVE-2019-0254. State no information if no information is available.
-Use list
-* [Attack Pattern or Vulnerability entry goes here](URL to source)
-  * Description
-
 ### Identity
 Individuals, organizations, or groups. These are represented as individual entries under the heading of Identity.
 
@@ -157,7 +147,21 @@ A tool used by the attacker. Multiple names should be listed on the same line an
 * Functionality - [Functionality, functionality] (URL to source)
 * URL - http://address.com
 
-### Reports - end of repeatable time contextual section 
+## Time context ends
+
+### Detection - end of repeatable time contextual section 
+An action taken to detect an Attack Pattern entry. These should address the Attack Patterns listed above. State no information if no information is available.
+Use list
+* [Attack Pattern or Vulnerability entry goes here](URL to source)
+  * Description
+
+### Course of Action 
+An action taken to either prevent an attack or respond to an attack. These should address the Attack Patterns and Vulnerabilities listed above. If the course of action is connected to something in this report, such as a CVE for example, that should be referenced. Example: Apply patch 5678 to ICS systems to patch CVE-2019-0254. State no information if no information is available.
+Use list
+* [Attack Pattern or Vulnerability entry goes here](URL to source)
+  * Description
+  
+### Reports 
 Collections of threat intelligence focused on one or more topics, such as a description of a threat actor, malware, or attack technique, including contextual details. The description should be a short outline of the report.
 Use list
 * [Name of report](URL to pdf/blog post etc) - Description goes here
