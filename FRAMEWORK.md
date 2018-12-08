@@ -96,17 +96,19 @@ Use list
 Individuals, organizations, or groups. These are represented as individual entries under the heading of Identity.
 
 #### Individuals 
-Specific members of 
+Specific members of threat actor. State no information for entries that don't yet have any information.
 Use list
 * [Name](URL to source)
 * [Name](URL to source)
 
 #### Affiliated organisations
+Specific organisations the threat actor is connected to. State no information for entries that don't yet have any information.
 Use list
 * [Organisation](URL to source)
 * [Organisation](URL to source)
 
 #### Affiliated groups
+Specific groups the threat actor is connected to. State no information for entries that don't yet have any information.
 Use list
 * [Group](URL to source)
 * [Group](URL to source)
@@ -115,9 +117,9 @@ Use list
 A grouped set of adversarial behaviors and resources with common properties believed to be orchestrated by a single threat actor. These are represented as individual categories under the heading of Intrusion Set. If an existing category does not cover what you need to add, contact a project mantainer on panopticonproject at protonmail dot com to add a section to Charon.
 
 #### Malware
-Details of malware used. Multiple names should be listed on the same line and separated by a comma. Functionality should be short, preferably one word. Example: keylogger. Multiple functionalites should be listed on the same line and separated by a comma. Hash should have a -, the type of hashing function used, another -, and the hash itself. Example: Hash - MD5 - 002ae76872d80801692ff942308c64t6. Notes should be a short description of anything else important, like the family the malware belongs to or variants.
+Details of malware used. Multiple names should be listed on the same line and separated by a comma. Functionality should be short, preferably one word. Example: keylogger. Multiple functionalites should be listed on the same line and separated by a comma. Hash should have a -, the type of hashing function used, another -, and the hash itself. Example: Hash - MD5 - 002ae76872d80801692ff942308c64t6. Notes should be a short description of anything else important, like the family the malware belongs to or variants. State no information for entries that don't yet have any information.
 * Names - [Name of malware](URL to source)
-* Functionality - [Functionality, functionality] (URL to source)
+* Functionality - add functionality
 * Hash - [Function] - [Actual hash](URL to source)
 * Notes - Description goes here
 
