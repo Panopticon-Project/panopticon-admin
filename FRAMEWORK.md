@@ -124,7 +124,8 @@ Details of malware used. Multiple names should be listed on the same line and se
 * Notes - Description goes here
 
 #### Website 
-A website used by the attacker. URLs should be in the format of hxxp so people don't accidentablly navigate to the URL by clicking on it. IP addresses shouldhave square brackets [] arond the last separator so people don't accidentally navigate to the address. Dates should be in the format of DD Month Year e.g. 01 January 2019.
+A website used by the attacker. URLs should be in the format of hxxp so people don't accidentablly navigate to the URL by clicking on it. IP addresses shouldhave square brackets [] arond the last separator so people don't accidentally navigate to the address. Dates should be in the format of DD Month Year e.g. 01 January 2019. State no information for entries that don't yet have any information.
+* Name - Name of website
 * About - Description goes here
 * URL - [hxxp://address[.]com](URL to source)
 * IP - [000.000.000[.]000](URL to source)
