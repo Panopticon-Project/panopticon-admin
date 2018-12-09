@@ -144,6 +144,7 @@ A server used by the attackers to send commands to malware and to receive comman
 A document used by the attackers, usually as part of phishing. About should be a short description of how the document was used. Hash should have a -, the type of hashing function used, another -, and the hash itself. Example: Hash - MD5 - 002ae76872d80801692ff942308c64t6.
 * About - Description goes here
 * Hash - [Function] - [Actual hash](URL to source)
+* Notes - Notes go here
 
 #### Tools
 A tool used by the attacker. Multiple names should be listed on the same line and separated by a comma. Functionality should be short, preferably one word. Example: keylogger. Multiple functionalites should be listed on the same line and separated by a comma. URL should be the online address, if any, the tool can be publically sourced from.
