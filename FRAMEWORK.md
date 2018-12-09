@@ -138,19 +138,19 @@ A server used by the attackers to send commands to malware and to receive comman
 * IP - [000.000.000[.]000](URL to source)
 * Valid from - [XX Month 20XX](URL to source)
 * Valid to - [XX Month 20XX](URL to source)
-* SSH host key
-  * RSA - [fingerprint](URL to source)
-  * ECDSA - [fingerprint](URL to source)
-  * ED25519 - [fingerprint](URL to source)
-* SSL Certificate
-  * Issuer - [Name](URL to source)
-  * Public key type - [RSA etc](URL to source)
-  * Public key bits - [Bit length](URL to source)
-  * Signature algorithm - [name of algorithm](URL to source)
-  * Not valid before - [XX Month 20XX](URL to source)
-  * Not valid after - [XX Month 20XX](URL to source)
-  * MD5 - [MD5 hash](URL to source)
-  * SHA-1 - [SHA-1 hash](URL to source)
+* [SSH host key] (URL to source)
+  * RSA - fingerprint
+  * ECDSA - fingerprint
+  * ED25519 - fingerprint
+* [SSL Certificate](URL to source)
+  * Issuer - Name
+  * Public key type - RSA etc
+  * Public key bits - Bit length
+  * Signature algorithm - name of algorithm
+  * Not valid before - XX Month 20XX
+  * Not valid after - XX Month 20XX
+  * MD5 - MD5 hash
+  * SHA-1 - SHA-1 hash
 * Notes - notes go here.
 
 #### Documents
