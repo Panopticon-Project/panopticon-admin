@@ -155,8 +155,9 @@ A server used by the attackers to send commands to malware and to receive comman
 
 #### Documents
 A document used by the attackers, usually as part of phishing. About should be a short description of how the document was used. Hash should have a -, the type of hashing function used, another -, and the hash itself. Example: Hash - MD5 - 002ae76872d80801692ff942308c64t6.
+* Filename - [Name](URL to source)
 * About - Description goes here
-* Hash - [Function] - [Actual hash](URL to source)
+* Hash - Function - Actual hash
 * Notes - Notes go here
 
 #### Tools
