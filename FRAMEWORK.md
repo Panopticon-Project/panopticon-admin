@@ -163,7 +163,7 @@ A document used by the attackers, usually as part of phishing. About should be a
 #### Tools
 A tool used by the attacker. Multiple names should be listed on the same line and separated by a comma. functionalities should be short, preferably one word. Example: keylogger. Multiple functionalites should be listed on the same line and separated by a comma. URL should be the online address, if any, the tool can be publicly sourced from.
 * Names - [Name of tool](URL to source)
-  * Functionality - [Functionality, functionality] (URL to source)
+  * Functionality - Functionality, functionality 
   * URL - http://address.com
 
 ## Time context ends
