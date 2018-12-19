@@ -119,52 +119,52 @@ A grouped set of adversarial behaviors and resources with common properties beli
 #### Malware
 Details of malware used. Multiple names should be listed on the same line and separated by a comma. Functionality should be short, preferably one word. Example: keylogger. Multiple functionalites should be listed on the same line and separated by a comma. Hash should have a -, the type of hashing function used, another -, and the hash itself. Example: Hash - MD5 - 002ae76872d80801692ff942308c64t6. Notes should be a short description of anything else important, like the family the malware belongs to or variants. State no information for entries that don't yet have any information.
 * Names - [Name of malware](URL to source)
-* Functionality - add functionality
-* Hash - [Function] - [Actual hash](URL to source)
-* Notes - Description goes here
+  * Functionality - add functionality
+  * Hash - [Function] - [Actual hash](URL to source)
+  * Notes - Description goes here
 
 #### Website 
 A website used by the attacker. URLs should be in the format of hxxp so people don't accidentablly navigate to the URL by clicking on it. IP addresses shouldhave square brackets [] arond the last separator so people don't accidentally navigate to the address. Dates should be in the format of DD Month Year e.g. 01 January 2019. State no information for entries that don't yet have any information.
 * Name - Name of website
-* About - Description goes here
-* URL - [hxxp://address[.]com](URL to source)
-* IP - [000.000.000[.]000](URL to source)
-* Valid from - [XX Month 20XX](URL to source)
-* Valid to - [XX Month 20XX](URL to source)
+  * About - Description goes here
+  * URL - [hxxp://address[.]com](URL to source)
+  * IP - [000.000.000[.]000](URL to source)
+  * Valid from - [XX Month 20XX](URL to source)
+  * Valid to - [XX Month 20XX](URL to source)
 
 #### Command and Control Server
 A server used by the attackers to send commands to malware and to receive commands and exfiltrated information from the malware.
 * About - used by Even More Muffins malware to receive commands from and exfiltrate data to. IP addresses shouldhave square brackets [] arond the last separator so people don't accidentally navigate to the address. Dates should be in the format of DD Month Year e.g. 01 January 2019.
 * IP - [000.000.000[.]000](URL to source)
-* Valid from - [XX Month 20XX](URL to source)
-* Valid to - [XX Month 20XX](URL to source)
-* [SSH host key] (URL to source)
-  * RSA - fingerprint
-  * ECDSA - fingerprint
-  * ED25519 - fingerprint
-* [SSL Certificate](URL to source)
-  * Issuer - Name
-  * Public key type - RSA etc
-  * Public key bits - Bit length
-  * Signature algorithm - name of algorithm
-  * Not valid before - XX Month 20XX
-  * Not valid after - XX Month 20XX
-  * MD5 - MD5 hash
-  * SHA-1 - SHA-1 hash
-* Notes - notes go here.
+  * Valid from - [XX Month 20XX](URL to source)
+  * Valid to - [XX Month 20XX](URL to source)
+  * [SSH host key] (URL to source)
+    * RSA - fingerprint
+    * ECDSA - fingerprint
+    * ED25519 - fingerprint
+  * [SSL Certificate](URL to source)
+    * Issuer - Name
+    * Public key type - RSA etc
+    * Public key bits - Bit length
+    * Signature algorithm - name of algorithm
+    * Not valid before - XX Month 20XX
+    * Not valid after - XX Month 20XX
+    * MD5 - MD5 hash
+    * SHA-1 - SHA-1 hash
+  * Notes - notes go here.
 
 #### Documents
 A document used by the attackers, usually as part of phishing. About should be a short description of how the document was used. Hash should have a -, the type of hashing function used, another -, and the hash itself. Example: Hash - MD5 - 002ae76872d80801692ff942308c64t6.
 * Filename - [Name](URL to source)
-* About - Description goes here
-* Hash - Function - Actual hash
-* Notes - Notes go here
+  * About - Description goes here
+  * Hash - Function - Actual hash
+  * Notes - Notes go here
 
 #### Tools
 A tool used by the attacker. Multiple names should be listed on the same line and separated by a comma. Functionality should be short, preferably one word. Example: keylogger. Multiple functionalites should be listed on the same line and separated by a comma. URL should be the online address, if any, the tool can be publically sourced from.
 * Names - [Name of tool](URL to source)
-* Functionality - [Functionality, functionality] (URL to source)
-* URL - http://address.com
+  * Functionality - [Functionality, functionality] (URL to source)
+  * URL - http://address.com
 
 ## Time context ends
 
