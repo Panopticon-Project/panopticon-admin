@@ -37,6 +37,8 @@ State sponsored hackers are infiltrating critical infrastructure, so far having 
 
 For many of us it is not a reality we chose or desire. Few understand how bad reality has gotten, and that suits those who have made the world the way it is just fine. However, there is a great deal of information lying in the public domain that can be used to learn about the powers behind our dystopia. By informing ourselves we can make informed decisions about how we interact with the world, from the political movements we interact with through to the services we use and the products we buy. By contributing to projects like P2, you can also learn how to better access information in the public domain and train yourself how to keep a critical eye on the powers that be. From checking facts to some [OSINT sleuthing of your own](http://www.news24.com/SouthAfrica/News/exclusive-indian-it-guru-linked-to-fake-wmc-sites-20170726), P2 empowers you to interact in a more informed manner with the world.
 
+The long term vision for P2 is that people will be able to download the READMEs of repositories that refer to APTs, such as this [example](https://github.com/Panopticon-Project/panopticon-Gallmaker/blob/master/README.md) here, feed the contents to a network monitoring device to look for Indicators of Compromise (IOCs) and read the README for helpful advice on detecting the attacker and evicting them from the network. How the READMEs for nation states and corporations will be used, past general information, is still being determined. 
+
 ## I don't know much about these topics and need a primer
 We have you [covered](https://github.com/Panopticon-Project/panopticon-primer).
 
