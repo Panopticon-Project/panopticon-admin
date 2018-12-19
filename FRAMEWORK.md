@@ -162,7 +162,7 @@ A document used by the attackers, usually as part of phishing. About should be a
 
 #### Tools
 A tool used by the attacker. Multiple names should be listed on the same line and separated by a comma. Functionality should be short, preferably one word. Example: keylogger. Multiple functionalites should be listed on the same line and separated by a comma. URL should be the online address, if any, the tool can be publically sourced from.
-* Names - [Name of malware](URL to source)
+* Names - [Name of tool](URL to source)
 * Functionality - [Functionality, functionality] (URL to source)
 * URL - http://address.com
 
@@ -199,4 +199,4 @@ Use list
 Any further notes to be added to the framework would be added here.
 
 ## Links - end of footer
-Any new articles would be added here.
+Any new articles to be added here.
