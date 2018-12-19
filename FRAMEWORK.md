@@ -179,6 +179,13 @@ An action taken to either prevent an attack or respond to an attack. These shoul
 Use list
 * [Attack Pattern or Vulnerability entry goes here](URL to source)
   * Description
+
+### YARA rules
+Rules for detecting indicators of compromise. State no information where the rule would be pasted if no information is available.
+Use list
+* Rule - Paste on next line
+
+* URL - http://address.com
   
 ### Reports 
 Collections of threat intelligence focused on one or more topics, such as a description of a threat actor, malware, or attack technique, including contextual details. The description should be a short outline of the report.
