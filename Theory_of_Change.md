@@ -59,9 +59,8 @@ Changes in visibility of issue | Negative electronic capabilities are spoken abo
 Changes in community norms | Society decreases tolerance for negative electronic capabilities. Society increases belief in its power to create change. 
 Changes in partnerships | Partnerships are strategic. Collaborative relationships are built. Strategic partners jointly implement actions toward agreed-upon goals. Partnerships increase the ability to articulate a shared purpose. Partnership shares a plan of action. Partners increase referrals to one another. Partners increase sharing of resources. Partners increase seamless presentation to the public. Partners increase sharing of data. Partners use data to evaluate their efforts and refine strategies to achieve specific results.
 Change in public will | Society is motivated to take action on an issue. Society decreases tolerance for negative electronic capabilities. Society increases their willingness to demonstrate around an issue. Consumers increase demand for improved services that don't exploit them.
-Change in political will* | Political leaders increase their awareness of negative electronic capabilities. Political leaders increase their willingness to take action on issuses. Legislators co-sponsor bills that support community priorities.
+Change in political will* | Political leaders increase their awareness of negative electronic capabilities. Political leaders increase their willingness to take action on issuses. Legislators co-sponsor bills that support community priorities. Note* It's recognised that nation states are incentivised towards exercising negative online capabilities, so outcomes of political will are largely confined to non-nation state actors like corporations.
 Change in policies | Specific policy changes. Policymakers draft legislation that reflects community priorities. Policymakaers fund legislation that reflects community priorities.
-Note* It's recognised that nation states are incentivised towards exercising negative online capabilities, so outcomes of political will are largely confined to non-nation state actors like corporations.
 
 #### Leverage
 
@@ -69,8 +68,11 @@ Note* It's recognised that nation states are incentivised towards exercising neg
 
 Outcome area | Outcome statement 
 --- | --- 
-*Still* | `renders` 
-1 | 2 
+Changes in public funds | New public funds allocated toward privacy and security priorities. Public funds redistributed toward privacy and security priorities. New funding methods (pooled, matched, blended) increase monetary resources to support privacy and security priorities.
+Changes in philanthropy | Increased funding available for privacy and security priorities. New funding methods (pooled, matched, blended) increase monetary resources to support privacy and security priorities. Foundation funding practices (RFP process,
+selection criteria) change to increase availability of funds for privacy and security priorities. Foundations make new types of funding available (e.g., PRI). Foundations previously uninvolved in privacy and security begin to provide funding for programs,
+agencies and initiatives.
+Changes in resources available to respective communities | New physical resources (computer rooms, meeting rooms) are available to respective communities.
 
 ### Assumptions about change
 
@@ -102,17 +104,8 @@ Goal - less surveillance - panopticon is here for all but I may have to focus on
 More scruity on surveillance
 raising awareness, raising technical literacy 
 
-imapct
-freer society
-rights being respected
-less espionage flying under the radar
-
-influence
-behaviours of nation states and corporations
-
-leverage
-journalists picking up more stories
-
+partnerships
 journalists getting information to the people
 outreach to schools
 privacy activists across the world
+office of the privacy commissioner?
