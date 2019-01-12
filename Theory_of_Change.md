@@ -69,9 +69,7 @@ Change in policies | Specific policy changes. Policymakers draft legislation tha
 Outcome area | Outcome statement 
 --- | --- 
 Changes in public funds | New public funds allocated toward privacy and security priorities. Public funds redistributed toward privacy and security priorities. New funding methods (pooled, matched, blended) increase monetary resources to support privacy and security priorities.
-Changes in philanthropy | Increased funding available for privacy and security priorities. New funding methods (pooled, matched, blended) increase monetary resources to support privacy and security priorities. Foundation funding practices (RFP process,
-selection criteria) change to increase availability of funds for privacy and security priorities. Foundations make new types of funding available (e.g., PRI). Foundations previously uninvolved in privacy and security begin to provide funding for programs,
-agencies and initiatives.
+Changes in philanthropy | Increased funding available for privacy and security priorities. New funding methods (pooled, matched, blended) increase monetary resources to support privacy and security priorities. Foundation funding practices (RFP process, selection criteria) change to increase availability of funds for privacy and security priorities. Foundations make new types of funding available (e.g., PRI). Foundations previously uninvolved in privacy and security begin to provide funding for programs, agencies and initiatives.
 Changes in resources available to respective communities | New physical resources (computer rooms, meeting rooms) are available to respective communities.
 
 ### Assumptions about change
