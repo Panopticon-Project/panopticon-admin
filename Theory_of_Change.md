@@ -4,7 +4,28 @@
 
 ## Theory of Change
 
-If you ahve any feedback on the theory of change, feel free to contact the project on panopticonproject at protonmail dot com
+The Theory for Change written for Panopticon Project (P2) was written using the [Annie E. Casey Foundation's *Theory of Change: A Practical Tool For Action, Results and Learning*](https://www.aecf.org/resources/theory-of-change/). 
+
+To restate what P2 is, P2 is an open database of open source intelligence (OSINT) covering the negative electronic capabilities of institutionalised malicious parties.
+
+Negative electronic capabilities include, but is not limited to the below:
+* [Surveillance](https://en.wikipedia.org/wiki/Surveillance). It is worth noting that while [surveillance itself is corrosive to society](https://www.theatlantic.com/politics/archive/2013/08/the-surveillance-state-is-corrosive-the-case-of-pamela-jones/278846/), surveillance can be used to support physical operations that can include locating people for arrest or even [assassination](https://www.businessinsider.com/russia-assassination-abroad-2017-6). 
+* [Influence operations](https://www.rand.org/topics/information-operations.html)
+* [Electronic warfare](https://en.wikipedia.org/wiki/Electronic_warfare)
+* [Psychological warfare](https://en.wikipedia.org/wiki/Psychological_warfare) that uses technology, like the Internet, as a medium
+* [Hacking](https://en.wikipedia.org/wiki/Hacker)
+* Authoring, spreading, or otherwise using [malware](https://en.wikipedia.org/wiki/Malware)
+* [Cybercrime](https://en.wikipedia.org/wiki/Cybercrime) 
+* Using data gained from individuals without their informed consent.
+* Using data gained from individuals for any purpose other than the explicit purpose stated for collection.
+* Adversely impacting individuals through the application of any form of technology, such as [algorithms](https://en.wikipedia.org/wiki/Algorithm)
+
+Institutionalised malicious parties includes, but is not limited to the below:
+* Advanced persistent threats, groups largely backed by nation states
+* Nation states
+* Corporations
+
+If you have any feedback on the theory of change, feel free to contact the project on panopticonproject at protonmail dot com
 
 ### Outcome map
 
@@ -14,15 +35,18 @@ If you ahve any feedback on the theory of change, feel free to contact the proje
 
 Outcome area | Outcome statement 
 --- | --- 
-*Still* | `renders` | **nicely**
-1 | 2 | 3
+Changes in attitudes | An increased view among individuals that institutionalised malicious parties can include but aren't limited to nation states and corporations. An increased view among individuals that institutionalised malicious parties have negative electronic capabilities. An increased view among individuals that institutionalised malicious parties use those capabilities to engage in negative online activities. An increased appreciation for the harmful affects of negative online activiies that stem from negative electronic capabilities. A desire to learn about the the negative online capabilities that institutionalised malicious parties choose to cultivate. A shift away from the "I have nothing to hide" mindset. A shift away from the national security mindset.
+Changes in knowledge | An increased understanding of what negative electronic capabilities can be used for and how individuals and groups can be victimised through use of these capabilities.
+Changes in awareness | An increased understanding how the activities stemming from negative online capabilities can impact the individual
+Changes in skills | An increase in digitial literacy. An increase in critical thinking. An increase in investigative abilities  
+Changes in behaviour | Individuals practicing better OpSec (operational security). Individuals engaging in fact checking and open source investigations.
 
 ##### Population level outcome areas and outcome statements
 
 Outcome area | Outcome statement 
 --- | --- 
-*Still* | `renders` | **nicely**
-1 | 2 | 3
+*Still* | `renders` 
+1 | 2 
 
 #### Influence
 
@@ -30,8 +54,8 @@ Outcome area | Outcome statement
 
 Outcome area | Outcome statement 
 --- | --- 
-*Still* | `renders` | **nicely**
-1 | 2 | 3
+*Still* | `renders` 
+1 | 2 
 
 #### Leverage
 
@@ -39,8 +63,8 @@ Outcome area | Outcome statement
 
 Outcome area | Outcome statement 
 --- | --- 
-*Still* | `renders` | **nicely**
-1 | 2 | 3
+*Still* | `renders` 
+1 | 2 
 
 ### Assumptions about change
 
@@ -50,6 +74,10 @@ Below are the assumptions that were made as part of building the outcome map.
 * That people desire change.
 * That all people have an inalienable human right to privacy.
 * That unchecked surveillance is wrong.
+* That deliberately influencing people through any means other than factual two way discourse is wrong. 
+* That censoring factual two way discourse is wrong. 
+* That spreading lies is wrong.
+* That spreading hate is wrong.
 * That a check on surveillance that exists behind closed doors is wrong.
 * That surveillance for profit is wrong.
 * That activists have a right to be activists. People should be able to safely hold their government and others to account.
