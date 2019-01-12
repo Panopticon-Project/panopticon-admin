@@ -46,8 +46,8 @@ Changes in behaviour | Individuals practicing better OpSec (operational security
 Outcome area | Outcome statement 
 --- | --- 
 Changes in political discourse |  Negative electronic capabilities being an election issue
-Changes in safety | 2 
-Changes in awareness | 
+Changes in safety | Across society, digital literacy is improved. Groups are notified when they are being targetted. 
+Changes in awareness | Society is aware of what institutionalised malicious parties are doing online
 
 #### Influence
 
@@ -55,8 +55,13 @@ Changes in awareness |
 
 Outcome area | Outcome statement 
 --- | --- 
-*Still* | `renders` 
-1 | 2 
+Changes in visibility of issue | Negative electronic capabilities are spoken about. Companies like banks, insurers, sociali media platforms and others are questioned about their use of data. Nation states are questioned on the negative electronic capabilities they cultivate. Media covers these issues accurately and more frequently. People pitch news stories
+Changes in community norms | Society decreases tolerance for negative electronic capabilities. Society increases belief in its power to create change. 
+Changes in partnerships | Partnerships are strategic. Collaborative relationships are built. Strategic partners jointly implement actions toward agreed-upon goals. Partnerships increase the ability to articulate a shared purpose. Partnership shares a plan of action. Partners increase referrals to one another. Partners increase sharing of resources. Partners increase seamless presentation to the public. Partners increase sharing of data. Partners use data to evaluate their efforts and refine strategies to achieve specific results.
+Change in public will | Society is motivated to take action on an issue. Society decreases tolerance for negative electronic capabilities. Society increases their willingness to demonstrate around an issue. Consumers increase demand for improved services that don't exploit them.
+Change in political will* | Political leaders increase their awareness of negative electronic capabilities. Political leaders increase their willingness to take action on issuses. Legislators co-sponsor bills that support community priorities.
+Change in policies | Specific policy changes. Policymakers draft legislation that reflects community priorities. Policymakaers fund legislation that reflects community priorities.
+Note* It's recognised that nation states are incentivised towards exercising negative online capabilities, so outcomes of political will are largely confined to non-nation state actors like corporations.
 
 #### Leverage
 
@@ -108,3 +113,6 @@ behaviours of nation states and corporations
 leverage
 journalists picking up more stories
 
+journalists getting information to the people
+outreach to schools
+privacy activists across the world
