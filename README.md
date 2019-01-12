@@ -24,13 +24,13 @@ Thank you for checking out Panopticon Project (P2)!
 - [Thank you](#thank-you)
 
 ## What is Panopticon Project?
-P2 is an open database of open source intelligence (OSINT) covering the electronic capabilities of institutionalised malicious parties. 
+P2 is an open database of open source intelligence (OSINT) covering the negative electronic capabilities of institutionalised malicious parties. 
 
 That was a lot in that so let's [break it down](https://www.youtube.com/watch?v=FQD_WpsYtiU) quickly. [Open source](https://en.wikipedia.org/wiki/Open-source_model) is anything that allows people to add to it, collaborate on it, take it, do their own thing with it. It's the opposite of [proprietary](https://en.wikipedia.org/wiki/Proprietary), which denotes ownership. We often see the terms open source and proprietary in relation to software, meaning software that anyone can add to the code base of, like Linux, and software you can't add to the code base of because it is under copyright, namely Windows and Mac. But as you can see, open source can also apply to things like troves information and even information gathering techniques. 
 
 [OSINT](https://en.wikipedia.org/wiki/Open-source_intelligence) refers to the gathering of information in the public domain that anyone can do. You could also see P2 as [citizen journalism](https://en.wikipedia.org/wiki/Citizen_journalism). 
 
-Electronic capabilities includes, but is not limited to the below:
+Negative electronic capabilities includes, but is not limited to the below:
 * [Surveillance](https://en.wikipedia.org/wiki/Surveillance). It is worth noting that while [surveillance itself is corrosive to society](https://www.theatlantic.com/politics/archive/2013/08/the-surveillance-state-is-corrosive-the-case-of-pamela-jones/278846/), surveillance can be used to support physical operations that can include locating people for arrest or even [assassination](https://www.businessinsider.com/russia-assassination-abroad-2017-6). 
 * [Influence operations](https://www.rand.org/topics/information-operations.html)
 * [Electronic warfare](https://en.wikipedia.org/wiki/Electronic_warfare)
