@@ -8,6 +8,40 @@ If you ahve any feedback on the theory of change, feel free to contact the proje
 
 ### Outcome map
 
+#### Impact
+
+##### Individual outcome areas and outcome statements
+
+Outcome area | Outcome statement 
+--- | --- 
+*Still* | `renders` | **nicely**
+1 | 2 | 3
+
+##### Population level outcome areas and outcome statements
+
+Outcome area | Outcome statement 
+--- | --- 
+*Still* | `renders` | **nicely**
+1 | 2 | 3
+
+#### Influence
+
+##### Outcome areas and outcome statements
+
+Outcome area | Outcome statement 
+--- | --- 
+*Still* | `renders` | **nicely**
+1 | 2 | 3
+
+#### Leverage
+
+##### Outcome areas and outcome statements
+
+Outcome area | Outcome statement 
+--- | --- 
+*Still* | `renders` | **nicely**
+1 | 2 | 3
+
 ### Assumptions about change
 
 Below are the assumptions that were made as part of building the outcome map.
@@ -29,5 +63,19 @@ Below are the assumptions that were made as part of building the outcome map.
 * That due to their power, nation states and corporations are hard to change.
 * That one of the few things that will make nation states and corporations change is public opinion.
 
+Notes
+Goal - less surveillance - panopticon is here for all but I may have to focus on a particular country
+More scruity on surveillance
+raising awareness, raising technical literacy 
 
+imapct
+freer society
+rights being respected
+less espionage flying under the radar
+
+influence
+behaviours of nation states and corporations
+
+leverage
+journalists picking up more stories
 
