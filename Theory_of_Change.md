@@ -45,8 +45,9 @@ Changes in behaviour | Individuals practicing better OpSec (operational security
 
 Outcome area | Outcome statement 
 --- | --- 
-*Still* | `renders` 
-1 | 2 
+Changes in political discourse |  Negative electronic capabilities being an election issue
+Changes in safety | 2 
+Changes in awareness | 
 
 #### Influence
 
