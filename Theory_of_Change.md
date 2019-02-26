@@ -86,6 +86,7 @@ Authentic civic demand |
 Strategic use of data |
 Effective partnerships |
 Accountability to results |
+Communications plan |
 
 ### Assumptions about Change
 
