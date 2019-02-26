@@ -27,7 +27,7 @@ Institutionalised malicious parties includes, but is not limited to the below:
 
 If you have any feedback on the theory of change, feel free to contact the project on panopticonproject at protonmail dot com
 
-### Outcome map
+### Outcome Map
 
 #### Impact
 
@@ -72,7 +72,22 @@ Changes in public funds | New public funds allocated toward privacy and security
 Changes in philanthropy | Increased funding available for privacy and security priorities. New funding methods (pooled, matched, blended) increase monetary resources to support privacy and security priorities. Foundation funding practices (RFP process, selection criteria) change to increase availability of funds for privacy and security priorities. Foundations make new types of funding available (e.g., PRI). Foundations previously uninvolved in privacy and security begin to provide funding for programs, agencies and initiatives.
 Changes in resources available to respective communities | New physical resources (computer rooms, meeting rooms) are available to respective communities.
 
-### Assumptions about change
+### Core Competancies
+
+Core Competancy | What P2 is doing
+--- | --- 
+Collective vision |
+Results framework | [Outcome Map](#outcome-map)
+Governance structure |
+Group process for decision making |
+Group process for problem solving |
+Group process for conflict resolution | [Code of Conduct](https://github.com/Panopticon-Project/panopticon-admin/blob/master/code_of_conduct.md)
+Authentic civic demand |
+Strategic use of data |
+Effective partnerships |
+Accountability to results |
+
+### Assumptions about Change
 
 Below are the assumptions that were made as part of building the outcome map.
 
