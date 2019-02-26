@@ -100,7 +100,7 @@ Below are the assumptions that were made as part of building the outcome map.
 Notes
 Goal - less surveillance - panopticon is here for all but I may have to focus on a particular country
 More scruity on surveillance
-burn apts and/or make it harder to operate apts
+burn apts and/or make it harder to operate apts, the SIEM idea plays into this, something around actionable threat intelligence
 raising awareness, raising technical literacy 
 
 partnerships
