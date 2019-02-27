@@ -76,9 +76,9 @@ Changes in resources available to respective communities | New physical resource
 
 Core Competency | What P2 is doing
 --- | --- 
-Collective vision |
+Collective vision | To degrade negative electronic capabilities 
 Results framework | [Outcome Map](#outcome-map)
-Governance structure |
+Governance structure | [Governance for P2](https://github.com/Panopticon-Project/panopticon-admin/edit/master/GOVERNANCE.md)
 Group process for decision making |
 Group process for problem solving |
 Group process for conflict resolution | [Code of Conduct](https://github.com/Panopticon-Project/panopticon-admin/blob/master/code_of_conduct.md)
