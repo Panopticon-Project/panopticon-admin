@@ -9,6 +9,7 @@ Thank you for checking out Panopticon Project (P2)!
 
 - [What is Panopticon Project?](#what-is-panopticon-project)
 - [Why does Panopticon Project exist?](#why-does-panopticon-project-exist)
+- [How will P2 change things?](#how-will-p2-change-things)
 - [I don't know much about these topics and need a primer](#i-dont-know-much-about-these-topics-and-need-a-primer)
 - [Who can contribute to P2?](#who-can-contribute-to-p2)
 - [How can I get involved?](#how-can-i-get-involved)
@@ -24,7 +25,7 @@ Thank you for checking out Panopticon Project (P2)!
 - [Thank you](#thank-you)
 
 ## What is Panopticon Project?
-P2 is an open database of open source intelligence (OSINT) covering the negative electronic capabilities of institutionalised malicious parties. 
+Panopticon Project (P2) is an open database of open source intelligence (OSINT) covering the negative electronic capabilities of institutionalised malicious parties. 
 
 That was a lot in that so let's [break it down](https://www.youtube.com/watch?v=FQD_WpsYtiU) quickly. [Open source](https://en.wikipedia.org/wiki/Open-source_model) is anything that allows people to add to it, collaborate on it, take it, do their own thing with it. It's the opposite of [proprietary](https://en.wikipedia.org/wiki/Proprietary), which denotes ownership. We often see the terms open source and proprietary in relation to software, meaning software that anyone can add to the code base of, like Linux, and software you can't add to the code base of because it is under copyright, namely Windows and Mac. But as you can see, open source can also apply to things like troves information and even information gathering techniques. 
 
@@ -55,6 +56,9 @@ State sponsored hackers are infiltrating critical infrastructure, so far having 
 For many of us it is not a reality we chose or desire. Few understand how bad reality has gotten, and that suits those who have made the world the way it is just fine. However, there is a great deal of information lying in the public domain that can be used to learn about the powers behind our dystopia. By informing ourselves we can make informed decisions about how we interact with the world, from the political movements we interact with through to the services we use and the products we buy. By contributing to projects like P2, you can also learn how to better access information in the public domain and train yourself how to keep a critical eye on the powers that be. From checking facts to some [OSINT sleuthing of your own](http://www.news24.com/SouthAfrica/News/exclusive-indian-it-guru-linked-to-fake-wmc-sites-20170726), P2 empowers you to interact in a more informed manner with the world.
 
 The long term vision for P2 is that people will be able to download the READMEs of repositories that refer to APTs, such as this [example](https://github.com/Panopticon-Project/panopticon-Gallmaker/blob/master/README.md) here, feed the contents to a network monitoring device to look for Indicators of Compromise (IOCs) and read the README for helpful advice on detecting the attacker and evicting them from the network. How the READMEs for nation states and corporations will be used, past general information, is still being determined. 
+
+## How will P2 change things?
+Our [Theory of Change](https://github.com/Panopticon-Project/panopticon-admin/blob/master/Theory_of_Change.md) defines the goals for the project and lays out a plan for achieving them. 
 
 ## I don't know much about these topics and need a primer
 We have you [covered](https://github.com/Panopticon-Project/panopticon-primer).
