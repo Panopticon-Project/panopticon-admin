@@ -58,7 +58,7 @@ For many of us it is not a reality we chose or desire. Few understand how bad re
 The long term vision for P2 is that people will be able to download the READMEs of repositories that refer to APTs, such as this [example](https://github.com/Panopticon-Project/panopticon-Gallmaker/blob/master/README.md) here, feed the contents to a network monitoring device to look for Indicators of Compromise (IOCs) and read the README for helpful advice on detecting the attacker and evicting them from the network. How the READMEs for nation states and corporations will be used, past general information, is still being determined. 
 
 ## How will P2 change things?
-Our [Theory of Change](https://github.com/Panopticon-Project/panopticon-admin/blob/master/Theory_of_Change.md) defines the goals for the project and lays out a plan for achieving them. 
+Our [Theory of Change](https://github.com/Panopticon-Project/panopticon-admin/blob/master/Theory_of_Change.md) defines the goals for the project, creating a better world, and lays out a plan for achieving them. 
 
 ## I don't know much about these topics and need a primer
 We have you [covered](https://github.com/Panopticon-Project/panopticon-primer).
