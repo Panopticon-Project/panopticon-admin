@@ -82,9 +82,9 @@ Governance structure | [Governance for P2](https://github.com/Panopticon-Project
 Group process for decision making | [Governance for P2](https://github.com/Panopticon-Project/panopticon-admin/blob/master/GOVERNANCE.md)
 Group process for problem solving | [Governance for P2](https://github.com/Panopticon-Project/panopticon-admin/blob/master/GOVERNANCE.md) and [Code of Conduct](https://github.com/Panopticon-Project/panopticon-admin/blob/master/code_of_conduct.md)
 Group process for conflict resolution | [Code of Conduct](https://github.com/Panopticon-Project/panopticon-admin/blob/master/code_of_conduct.md)
-Authentic civic demand | 
-Strategic use of data |
-Effective partnerships |
+Authentic civic demand | [Five reasons why you should care about state sponsored hacking](https://medium.com/@kademorton/five-reasons-why-you-should-care-about-state-sponsored-hacking-fa60f06f3485)
+Strategic use of data | P2 is currently building an [Uwazi](https://www.uwazi.io/) database
+Effective partnerships | Strategic parterships are being identified and conversations are ongoing.
 Accountability to results |
 Communications plan | Mailing list, Twitter account, downloadable posters
 
