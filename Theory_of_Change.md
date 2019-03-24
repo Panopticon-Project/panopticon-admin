@@ -147,3 +147,6 @@ journalists getting information to the people
 outreach to schools
 privacy activists across the world
 office of the privacy commissioner?
+
+Where I'm up to
+work through so that chains
