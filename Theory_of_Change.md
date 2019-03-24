@@ -9,16 +9,13 @@ The Theory for Change written for Panopticon Project (P2) was written using the 
 To restate what P2 is, P2 is an open database of open source intelligence (OSINT) covering the negative electronic capabilities of institutionalised malicious parties.
 
 Negative electronic capabilities include, but is not limited to the below:
-* [Surveillance](https://en.wikipedia.org/wiki/Surveillance). It is worth noting that while [surveillance itself is corrosive to society](https://www.theatlantic.com/politics/archive/2013/08/the-surveillance-state-is-corrosive-the-case-of-pamela-jones/278846/), surveillance can be used to support physical operations that can include locating people for arrest or even [assassination](https://www.businessinsider.com/russia-assassination-abroad-2017-6). 
-* [Influence operations](https://www.rand.org/topics/information-operations.html)
-* [Electronic warfare](https://en.wikipedia.org/wiki/Electronic_warfare)
-* [Psychological warfare](https://en.wikipedia.org/wiki/Psychological_warfare) that uses technology, like the Internet, as a medium
-* [Hacking](https://en.wikipedia.org/wiki/Hacker)
-* Authoring, spreading, or otherwise using [malware](https://en.wikipedia.org/wiki/Malware)
-* [Cybercrime](https://en.wikipedia.org/wiki/Cybercrime) 
-* Using data gained from individuals without their informed consent.
-* Using data gained from individuals for any purpose other than the explicit purpose stated for collection.
-* Adversely impacting individuals through the application of any form of technology, such as [algorithms](https://en.wikipedia.org/wiki/Algorithm)
+* [Espionage](https://www.nytimes.com/2017/03/12/world/europe/russia-hacker-evgeniy-bogachev.html) 
+* [Sabotage](https://securityintelligence.com/the-full-shamoon-how-the-devastating-malware-was-inserted-into-networks/) 
+* [Propaganda](https://www.rand.org/topics/information-operations.html)
+* [Economic disruption](https://www.wired.com/story/notpetya-cyberattack-ukraine-russia-code-crashed-the-world/)
+* [Surveillance](https://www.reuters.com/investigates/special-report/usa-spying-raven/). It is worth noting that while [surveillance itself is corrosive to society](https://www.theatlantic.com/politics/archive/2013/08/the-surveillance-state-is-corrosive-the-case-of-pamela-jones/278846/), surveillance can be used to support physical operations that can include locating people for arrest or even [assassination](https://www.businessinsider.com/russia-assassination-abroad-2017-6). 
+* [Mass surveillance](https://www.washingtonpost.com/news/wonk/wp/2013/06/12/heres-everything-we-know-about-prism-to-date/?noredirect=on&utm_term=.536dabfd8d01), the surveilling of entire populations, rather than individuals or small groups. 
+* [Use of artificial intelligence](https://www.theverge.com/2018/2/27/17054740/palantir-predictive-policing-tool-new-orleans-nopd)
 
 Institutionalised malicious parties includes, but is not limited to the below:
 * Advanced persistent threats, groups largely backed by nation states
@@ -72,6 +69,32 @@ Changes in public funds | New public funds allocated toward privacy and security
 Changes in philanthropy | Increased funding available for privacy and security priorities. New funding methods (pooled, matched, blended) increase monetary resources to support privacy and security priorities. Foundation funding practices (RFP process, selection criteria) change to increase availability of funds for privacy and security priorities. Foundations make new types of funding available (e.g., PRI). Foundations previously uninvolved in privacy and security begin to provide funding for programs, agencies and initiatives.
 Changes in resources available to respective communities | New physical resources (computer rooms, meeting rooms) are available to respective communities.
 
+### Long Term Goals
+* Degrade the negative electronic capabilities of advanced persistent threats
+  * Espionage
+  * Sabotage
+  * Propaganda
+  * Economic distruption
+  * Surveillance 
+* Degrade the negative electronic capabilities of nation states
+  * Espionage
+  * Sabotage
+  * Propaganda
+  * Economic distruption
+  * Surveillance
+  * Mass surveillance
+  * Artificial intelligence 
+* Degrade the negative electronic capabilities of corporations
+  * Espionage
+  * Sabotage
+  * Propaganda
+  * Economic distruption
+  * Surveillance
+  * Mass surveillance 
+  * Artificial intelligence 
+  
+As stated above, we don't have a comprehensive lists of what negative electronic capabilities look like. The above covers some of the most important, but there may be others. As always, feel free to add your input. 
+
 ### Core Competencies
 
 Core Competency | What P2 is doing
@@ -85,7 +108,7 @@ Group process for conflict resolution | [Code of Conduct](https://github.com/Pan
 Authentic civic demand | [Five reasons why you should care about state sponsored hacking](https://medium.com/@kademorton/five-reasons-why-you-should-care-about-state-sponsored-hacking-fa60f06f3485)
 Strategic use of data | P2 is currently building an [Uwazi](https://www.uwazi.io/) database
 Effective partnerships | Strategic parterships are being identified and conversations are ongoing.
-Accountability to results |
+Accountability to results | As results are defined they will be tracked and published. 
 Communications plan | Mailing list, Twitter account, downloadable posters
 
 ### Assumptions about Change
