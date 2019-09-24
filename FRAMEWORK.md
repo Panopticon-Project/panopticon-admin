@@ -181,7 +181,7 @@ Use list
   * Description
 
 ### YARA rules
-Rules for detecting indicators of compromise. State no information where the rule would be pasted if no information is available.
+Rules for detecting indicators of compromise. State no information where the rule would be pasted if no information is available. Use douible spaces at the end of a line to force line breaks in Markdown.
 Use list
 * Rule - Paste on next line
 
