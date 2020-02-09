@@ -84,7 +84,6 @@ Use list
 * Command and Control 
   * [Attack Pattern](URL to source)
   * Description
-* Malware - Description goes here
 
 ### Vulnerabilities
 A mistake in software that can be directly used by an attacker to gain access to a system or network. Link to a writeup in the exploit repo where possible (example, CVEs) or to external sources. Format should be in the format of vulnerability is exploited by name of the thing exploiting it, usually malware or a hacking tool. State no information if no information is available.
