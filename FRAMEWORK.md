@@ -88,8 +88,8 @@ Use list
 ### Vulnerabilities
 A mistake in software that can be directly used by an attacker to gain access to a system or network. Link to a writeup in the exploit repo where possible (example, CVEs) or to external sources. Format should be in the format of vulnerability is exploited by name of the thing exploiting it, usually malware or a hacking tool. State no information if no information is available.
 Use list
-* [Vulnerability](URL to outline of how vulnerability is exploited) is exploited by name of malware / name of tool
-* [Vulnerability](URL to outline of how vulnerability is exploited) is exploited by name of malware / name of tool
+* [Vulnerability](URL to outline of how vulnerability is exploited) is exploited by name of malware / name of tool. [1](URL to source)
+* [Vulnerability](URL to outline of how vulnerability is exploited) is exploited by name of malware / name of tool. [2](URL to source)
 
 ### Identity
 Individuals, organizations, or groups. These are represented as individual entries under the heading of Identity.
