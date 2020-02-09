@@ -155,7 +155,9 @@ A server or domain used by the attackers to send commands to malware and to rece
     * Not valid after - XX Month 20XX
     * MD5 - MD5 hash
     * SHA-1 - SHA-1 hash
-  * Notes - notes go here.
+  * Notes
+    * notes go here.
+    * notes go here.
 
 #### Documents
 A document used by the attackers, usually as part of phishing. About should be a short description of how the document was used. Hash should have a -, the type of hashing function used, another -, and the hash itself. Example: Hash - MD5 - 002ae76872d80801692ff942308c64t6.
