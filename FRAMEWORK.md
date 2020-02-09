@@ -105,17 +105,17 @@ Use list
 Specific official organisations the threat actor is connected to. State no information for entries that don't yet have any information.
 Use list
 * [Organisation](URL to source)
-  * Connection - Add attribution or reasoning.
+  * Attribution - Add attribution or reasoning.
 * [Organisation](URL to source)
-  * Connection - Add attribution or reasoning.
+  * Attribution - Add attribution or reasoning.
   
 #### Affiliated groups
 Specific known but unofficial groups the threat actor is connected to. State no information for entries that don't yet have any information.
 Use list
 * [Group](URL to source)
-  * Connection - Add attribution or reasoning.
+  * Attribution - Add attribution or reasoning.
 * [Group](URL to source)
-  * Connection - Add attribution or reasoning.
+  * Attribution - Add attribution or reasoning.
 
 ### Intrusion Set
 A grouped set of adversarial behaviours and resources with common properties believed to be orchestrated by a single threat actor. These are represented as individual categories under the heading of Intrusion Set. If an existing category does not cover what you need to add, contact a project maintainer on panopticonproject at protonmail dot com to add a section to Charon.
