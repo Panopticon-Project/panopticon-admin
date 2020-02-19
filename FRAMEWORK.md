@@ -137,12 +137,13 @@ A website used by the attacker. URLs should be in the format of hxxp so people d
 
 #### Infrastructure
 A server or domain used by the attackers to send commands to malware and to receive commands and exfiltrated information from the malware.
-* About - used by Even More Muffins malware to receive commands from and exfiltrate data to. IP addresses should have square brackets [] around the last separator so people don't accidentally navigate to the address. Dates should be in the format of DD Month Year e.g. 01 January 2019.
+* About - Short description. IP addresses should have square brackets [] around the last separator so people don't accidentally navigate to the address. Dates should be in the format of DD Month Year e.g. 01 January 2019.
 * IP - [000.000.000[.]000](URL to source)
 * Domain - [domain[.]com](URL to source)
 * Subdomains - [domain[.]com](URL to source)
-  * Valid from - [XX Month 20XX](URL to source)
-  * Valid to - [XX Month 20XX](URL to source)
+  * Valid from - [XX Month 20XX](URL to source) - if dates are not precise just add month year or year and add note below
+  * Valid to - [XX Month 20XX](URL to source) - if dates are not precise just add month year or year and add note below
+  * Note on timeframe - short description if dates are not precise. 
   * [SSH host key] (URL to source)
     * RSA - fingerprint
     * ECDSA - fingerprint
