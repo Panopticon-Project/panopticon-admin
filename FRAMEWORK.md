@@ -49,42 +49,57 @@ Listed after Campaign or Date Range as attributes can shift over time. Use one o
 * Primary activities - Description goes here
 
 ### Attack Pattern
-See the [Enterprise Matrix](https://attack.mitre.org/) for definitions of each of the below areas. Use in the order they occur and state no information for entries that don't yet have any information. Malware should have a short description and be detailed below.
+See the [Enterprise Matrix](https://attack.mitre.org/) for definitions of each of the below areas. Use in the order they occur and state no information for entries that don't yet have any information. ID is found on the right hand side of Technique pages of Mitre Att&ck.
 Use list
 * Initial Access 
   * [Attack Pattern](URL to source)
+  * ID - 
   * Description
 * Execution
   * [Attack Pattern](URL to source)
+  * ID -
   * Description
 * Persistence
   * [Attack Pattern](URL to source)
+  * ID -
   * Description
 * Privilege Escalation 
   * [Attack Pattern](URL to source)
+  * ID -
   * Description
 * Defence Evasion 
   * [Attack Pattern](URL to source)
+  * ID -
   * Description
 * Credential Access
   * [Attack Pattern](URL to source)
+  * ID -
   * Description
 * Discovery
   * [Attack Pattern](URL to source)
+  * ID -
   * Description
 * Lateral Movement
   * [Attack Pattern](URL to source)
+  * ID -
   * Description
 * Collection
   * [Attack Pattern](URL to source)
-  * Description
-* Exfiltration 
-  * [Attack Pattern](URL to source)
+  * ID -
   * Description
 * Command and Control 
   * [Attack Pattern](URL to source)
+  * ID -
   * Description
-
+* Exfiltration 
+  * [Attack Pattern](URL to source)
+  * ID -
+  * Description
+* Impact
+  * [Attack Pattern](URL to source)
+  * ID -
+  * Description
+  
 ### Vulnerabilities
 A mistake in software that can be directly used by an attacker to gain access to a system or network. Link to a writeup in the exploit repo where possible (example, CVEs) or to external sources. Format should be in the format of vulnerability is exploited by name of the thing exploiting it, usually malware or a hacking tool. State no information if no information is available.
 Use list
